@@ -7523,7 +7523,7 @@ video {
   display: table;
 }
 .ct-mediaSection[data-type="kenburns"] .ct-mediaSection-inner {
-  display: table-cell;
+  /*display: table-cell; */
 }
 .ct-mediaSection[data-type="kenburns"] .ct-mediaSection-kenburnsImageContainer {
   height: 100%;
