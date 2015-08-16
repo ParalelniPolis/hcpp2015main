@@ -5749,6 +5749,7 @@ body.ct-navbar-isTransparent-toInverse .ct-pageWrapper {
 }
 .navbar-inverse {
   background-color: #333333;
+  opacity: 0.9;
 }
 .navbar-inverse .navbar-nav > li > a {
   color: #ffffff;
