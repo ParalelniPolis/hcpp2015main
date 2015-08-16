@@ -5733,7 +5733,6 @@ body.ct-navbar-isTransparent-toInverse .ct-pageWrapper {
 }
 @media (max-width: 767px) {
   body.ct-navbar--fixedTop .ct-pageWrapper {
-    padding-top: 70px;
   }
 }
 .navbar {
@@ -5748,7 +5747,6 @@ body.ct-navbar-isTransparent-toInverse .ct-pageWrapper {
   position: relative;
 }
 .navbar-inverse {
-  background-color: #333333;
   opacity: 0.9;
 }
 .navbar-inverse .navbar-nav > li > a {
@@ -6316,7 +6314,8 @@ body.ct-navbar-isTransparent-toInverse .ct-pageWrapper {
   z-index: 9000;
 }
 .ct-navbarMobile.ct-navbarMobile--inverse {
-  background-color: #333333;
+  background-color: #222222;
+  opacity: 0.9;
   color: #ffffff;
 }
 .ct-navbarMobile .navbar-brand {
