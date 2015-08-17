@@ -11729,7 +11729,7 @@ html[xmlns] .slides {
   border-left: none;
 }
 .counter-block .counter .number {
-  font-style: italic;
+  /*font-style: italic;*/
 }
 .counter-block .counter-caption {
   text-transform: uppercase;
