@@ -4908,7 +4908,7 @@ blockquote,
 .counter-block .counter .number,
 .ct-twitter .tweet_user,
 .tweet_text {
-  font-family: 'Arapey', serif;
+  /*font-family: 'Arapey', serif;*/
 }
 .ct-pageHeader,
 .navbar-nav > li > a,
@@ -11733,6 +11733,7 @@ html[xmlns] .slides {
 }
 .counter-block .counter-caption {
   text-transform: uppercase;
+  color: #ffffff;
 }
 #particles-js {
   min-height: 500px;
@@ -12890,7 +12891,7 @@ a {
   background-color: #fc4349;
 }
 .counter-block .counter .number {
-  color: #fc4349;
+  color: #ffffff;
 }
 .panel-default .panel-title > a {
   border-color: #fc4349;
