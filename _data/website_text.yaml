@@ -74,3 +74,88 @@ below_header:
                 namístě vážně diskutovat o roli nových technologií a decentralizace v krizových
                 scénářích.
 
+
+schedule:
+    title:
+        cz: "PROGRAM KONGRESU"
+        eng: "SCHEDULE"
+    rows:   
+        -   columnA:
+                time: "10:00"
+                title:
+                    cz: "Lorem ipsum"
+                    eng: "columnA ENG"
+                desc:
+                    cz: |
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                        Aliquam lobortis neque ac magna lacinia ultrices. 
+                        Aenean consectetur at quam sit amet imperdiet. Praesent sed ullamcorper nisl. 
+                        Sed eget magna pellentesque, pretium ante id, aliquet lacus.
+                    eng: "desc ENG"
+            columnB:
+                time: "10:00"
+                title:
+                    cz: "columnB CZ"
+                    eng: "columnB ENG"
+                desc:
+                    cz: "desc CZ"
+                    eng: "desc ENG"
+            columnC:
+                time: "10:00"
+                title:
+                    cz: "columnC CZ"
+                    eng: "columnC ENG"
+                desc:
+                    cz: "desc CZ"
+                    eng: "desc ENG"
+
+        # Ukazka - V tomto radku chybi prostredni polozka
+        -   columnA:
+                time: "10:00"
+                title:
+                    cz: "columnA CZ"
+                    eng: "columnA ENG"
+                desc:
+                    cz: "desc CZ"
+                    eng: "desc ENG"
+
+            columnC:
+                time: "10:00"
+                title:
+                    cz: "columnC CZ"
+                    eng: "columnC ENG"
+                desc:
+                    cz: "desc CZ"
+                    eng: "desc ENG"
+
+
+        -   columnA:
+                time: "10:00"
+                title:
+                    cz: "columnA CZ"
+                    eng: "columnA ENG"
+                desc:
+                    cz: "desc CZ"
+                    eng: "desc ENG"
+            columnB:
+                time: "10:00"
+                title:
+                    cz: "columnB CZ"
+                    eng: "columnB ENG"
+                desc:
+                    cz: "desc CZ"
+                    eng: "desc ENG"
+            columnC:
+                time: "10:00"
+                title:
+                    cz: "columnC CZ"
+                    eng: "columnC ENG"
+                desc:
+                    cz: "desc CZ"
+                    eng: "desc ENG"
+
+
+
+
+
+

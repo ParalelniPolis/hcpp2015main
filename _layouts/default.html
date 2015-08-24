@@ -458,7 +458,7 @@
         <div class="container">
             <header class="ct-pageSectionHeader ct-js-wayPoint">
                 <h2 class="ct-fw-300 text-uppercase text-center">
-                    Program kongresu
+                    {{site.data.website_text.schedule.title[page.content_language]}}
                 </h2>
             </header>
         </div>
@@ -490,98 +490,55 @@
                         </div>
                     </div>
                 </div>
+
+
                 <!--program-->
-                <div class="row">
-                    <div class="col-sm-4 col-md-4 ct-u-marginBottom20">
-                        <div class="ct-iconBox-content">
-                            <h4 class="text-uppercase ct-fw-600 text-left">
-                                10:00 - Registration
-                            </h4>
-                            <p>
-                                Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
-                                cursumus. Duis nec nulla turpis. Nulla lacinia laoreet odio
-                            </p>
+                {% for schedule_item in site.data.website_text.schedule.rows %}
+                    <div class="row">
+
+                        <div class="col-sm-4 col-md-4 ct-u-marginBottom20">
+                            {% if schedule_item.columnA %}
+                                <div class="ct-iconBox-content">
+                                    <h4 class="text-uppercase ct-fw-600 text-left">
+                                        {{schedule_item.columnA.time}} - {{schedule_item.columnA.title[page.content_language]}}
+                                    </h4>
+                                    <p>
+                                        {{schedule_item.columnA.desc[page.content_language]}}
+                                    </p>
+                                </div>
+                            {% endif %}
                         </div>
-                    </div>
-                    <div class="col-sm-4 col-md-4 ct-u-marginBottom20">
-                        <div class="ct-iconBox-content text-left">
-                            <h4 class="text-uppercase ct-fw-600 text-left">
-                                10:00 - Susanne Tarkowski
-                            </h4>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius- mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-                            </p>
+                    
+                        <div class="col-sm-4 col-md-4 ct-u-marginBottom20">
+                            {% if schedule_item.columnB %}
+                                <div class="ct-iconBox-content text-left">
+                                    <h4 class="text-uppercase ct-fw-600 text-left">
+                                        {{schedule_item.columnB.time}} - {{schedule_item.columnB.title[page.content_language]}}
+                                    </h4>
+                                    <p>
+                                        {{schedule_item.columnB.desc[page.content_language]}}
+                                    </p>
+                                </div>
+                            {% endif %}
                         </div>
-                    </div>
-                    <div class="col-sm-4 col-md-4 ct-u-marginBottom20">
-                        <div class="ct-iconBox-content text-left">
-                            <h4 class="text-uppercase ct-fw-600 text-left">
-                                10:00 - Lyn Ulbricht
-                            </h4>
-                            <p>
-                                Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
-                                cursumus. Duis nec nulla turpis. Nulla lacinia laoreet odio
-                            </p>
+                    
+                        <div class="col-sm-4 col-md-4 ct-u-marginBottom20">
+                            {% if schedule_item.columnC %}
+                                <div class="ct-iconBox-content text-left">
+                                    <h4 class="text-uppercase ct-fw-600 text-left">
+                                        {{schedule_item.columnC.time}} - {{schedule_item.columnC.title[page.content_language]}}
+                                    </h4>
+                                    <p>
+                                        {{schedule_item.columnC.desc[page.content_language]}}
+                                    </p>
+                                </div>
+                            {% endif %}
                         </div>
+                    
+
                     </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-4 col-md-4 ct-u-marginBottom20">
-                        <div class="ct-iconBox-content">
-                            <h4 class="text-uppercase ct-fw-600 text-left">
-                                12:00 - Mejdan
-                            </h4>
-                            <p>
-                                Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
-                                cursumus. Duis nec nulla turpis. Nulla lacinia laoreet odio
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-sm-4 col-md-4 ct-u-marginBottom20">
-                        <div class="ct-iconBox-content text-left">
-                            <h4 class="text-uppercase ct-fw-600 text-left">
-                                12:00 - Susanne Tarkowski
-                            </h4>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius- mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-sm-4 col-md-4 ct-u-marginBottom20">
-                        <div class="ct-iconBox-content text-left">
-                            <h4 class="text-uppercase ct-fw-600 text-left">
-                                12:00 - Lyn Ulbricht
-                            </h4>
-                            <p>
-                                Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
-                                cursumus. Duis nec nulla turpis. Nulla lacinia laoreet odio
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-4 col-md-4 ct-u-marginBottom20">
-                        <div class="ct-iconBox-content">
-                            <h4 class="text-uppercase ct-fw-600 text-left">
-                                10:00 - Mejdan
-                            </h4>
-                            <p>
-                                Lorem ipsum dolor sit amet, consecte adipiscing elit. Suspendisse condimentum porttitor
-                                cursumus. Duis nec nulla turpis. Nulla lacinia laoreet odio
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-sm-4 col-md-4 ct-u-marginBottom20">
-                        <div class="ct-iconBox-content text-left">
-                            <h4 class="text-uppercase ct-fw-600 text-left">
-                                10:00 - Susanne Tarkowski
-                            </h4>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius- mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-                            </p>
-                        </div>
-                    </div>
-                </div>
+                {% endfor %}
+
             </div>
         </section>
     </section>
