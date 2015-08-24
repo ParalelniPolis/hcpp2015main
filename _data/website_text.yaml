@@ -1,0 +1,37 @@
+################
+##### HCPP #####
+################
+
+
+# Hlavni menu
+
+main_menu:
+    -   link: "#"
+        text:
+            cz: "Home"
+            eng: "Home"
+
+    -   link: "#section1"
+        text:
+            cz: "Téma kongresu"
+            eng: "Téma kongresu"
+
+    -   link: "#section2"
+        text:
+            cz: "Hosté kongresu"
+            eng: "Hosté kongresu"
+
+    -   link: "#section3"
+        text:
+            cz: "Program"
+            eng: "Program"
+
+    -   link: "#section4"
+        text:
+            cz: "Vstupenky"
+            eng: "Vstupenky"
+
+    -   link: "#section5"
+        text:
+            cz: "Kontakt"
+            eng: "Kontakt"
