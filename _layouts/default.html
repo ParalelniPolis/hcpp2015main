@@ -129,30 +129,17 @@
                     <div class="col-md-4">
                         <header class="ct-pageSectionHeader">
                             <h3 class="text-uppercase ct-fw-800">
-                                <small class="ct-fw-300 text-uppercase">Téma druhého Hackers Congress Paralelní Polis:
-                                </small>
+                                <small class="ct-fw-300 text-uppercase">{{site.data.website_text.below_header.header[page.content_language]}}:</small>
                                 Blackout
                             </h3>
                         </header>
                     </div>
                     <div class="col-md-8 ct-fs-i">
-                        <p class="ct-fw-300">
-                            Decentralizační nástroje a kryptotechnologie prochází zásadním vývojem a jejich existence
-                            začíná vadit vládám většiny států světa pro jejich emancipační potenciál a schopnost léčit
-                            neduhy těžkopádných regulací.
-                        </p>
-                        <p class="ct-fw-500">
-                            Smysl těchto nových technologií však není pouze v jejich aktuálním společenském a
-                            ekonomickém prospěchu pro společnost - v budoucnu mohou sehrát klíčovou roli v
-                            případě hluboké krize (ať už válečkého střetu, živelné pohromy, nastolení diktatury
-                            nebo výpadku infrastruktury).
+                        {% for blackout_item in site.data.website_text.below_header.text %}
+                            <p class="{{blackout_item.htmlclass}}">
+                                {{blackout_item.[page.content_language]}}
                             </p>
-                        <p class="ct-fw-800">
-                            Blackout - výpadek strategických zdrojů - nabývá stále širšího významu.
-                            Vzhledem k propojenosti komunikačních sítí s energetickými, výrobními a organizačními složkami je
-                            namístě vážně diskutovat o roli nových technologií a decentralizace v krizových
-                            scénářích.
-                        </p>
+                        {% endfor %}
                     </div>
                 </div>
             </div>

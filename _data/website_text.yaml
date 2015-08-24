@@ -35,3 +35,42 @@ main_menu:
         text:
             cz: "Kontakt"
             eng: "Kontakt"
+
+
+below_header:
+    header:
+        cz: "Téma druhého Hackers Congress Paralelní Polis"
+        eng: "Téma druhého Hackers Congress Paralelní Polis"
+    text:
+        -   htmlclass: "ct-fw-300"
+            cz: |
+                Decentralizační nástroje a kryptotechnologie prochází zásadním vývojem a jejich existence
+                začíná vadit vládám většiny států světa pro jejich emancipační potenciál a schopnost léčit
+                neduhy těžkopádných regulací.
+            eng: | 
+                Decentralizační nástroje a kryptotechnologie prochází zásadním vývojem a jejich existence
+                začíná vadit vládám většiny států světa pro jejich emancipační potenciál a schopnost léčit
+                neduhy těžkopádných regulací.
+        -   htmlclass: "ct-fw-500"
+            cz: |
+                Smysl těchto nových technologií však není pouze v jejich aktuálním společenském a
+                ekonomickém prospěchu pro společnost - v budoucnu mohou sehrát klíčovou roli v
+                případě hluboké krize (ať už válečkého střetu, živelné pohromy, nastolení diktatury
+                nebo výpadku infrastruktury).
+            eng: | 
+                Smysl těchto nových technologií však není pouze v jejich aktuálním společenském a
+                ekonomickém prospěchu pro společnost - v budoucnu mohou sehrát klíčovou roli v
+                případě hluboké krize (ať už válečkého střetu, živelné pohromy, nastolení diktatury
+                nebo výpadku infrastruktury).
+        -   htmlclass: "ct-fw-800"
+            cz: |
+                Blackout - výpadek strategických zdrojů - nabývá stále širšího významu.
+                Vzhledem k propojenosti komunikačních sítí s energetickými, výrobními a organizačními složkami je
+                namístě vážně diskutovat o roli nových technologií a decentralizace v krizových
+                scénářích.
+            eng: | 
+                Blackout - výpadek strategických zdrojů - nabývá stále širšího významu.
+                Vzhledem k propojenosti komunikačních sítí s energetickými, výrobními a organizačními složkami je
+                namístě vážně diskutovat o roli nových technologií a decentralizace v krizových
+                scénářích.
+
