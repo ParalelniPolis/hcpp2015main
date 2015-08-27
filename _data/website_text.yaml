@@ -111,6 +111,15 @@ schedule:
     title:
         cz: "PROGRAM KONGRESU"
         eng: "SCHEDULE"
+    friday:
+        cz: "pátek"
+        eng: "friday"
+    saturday:
+        cz: "sobota"
+        eng: "saturday"
+    sunday:
+        cz: "neděle"
+        eng: "sunday"
     rows:   
 
         -   columnB:
@@ -122,14 +131,13 @@ schedule:
                     cz: ""
                     eng: ""
             columnC:
-                time: ""
+                time: "10:00"
                 title:
-                    cz: ""
-                    eng: ""
+                    cz: "Wireless Warrior"
+                    eng: "Wireless Warrior"
                 desc:
                     cz: ""
                     eng: ""
-
 
         -   columnB:
                 time: "11:00"
@@ -140,14 +148,13 @@ schedule:
                     cz: "Name Readymade - změna identity a vlastnictví úředních dokumentů"
                     eng: "Name Readymade - change of identity and ownership of official documents"
             columnC:
-                time: ""
+                time: "11:00"
                 title:
-                    cz: ""
-                    eng: ""
+                    cz: "Phil Hilm"
+                    eng: "Phil Hilm"
                 desc:
-                    cz: ""
-                    eng: ""
-
+                    cz: "Jak umělá inteligence ovlivní naše životy"
+                    eng: "How will AI impact our lives"
 
         -   columnB:
                 time: "12:00"
@@ -155,17 +162,16 @@ schedule:
                     cz: "Frank Braun"
                     eng: "Frank Braun"
                 desc:
-                    cz: ""
-                    eng: ""
+                    cz: "Řešení problému výměny šifrovacích klíčů"
+                    eng: "Solving the encryption keys exchange problem"
             columnC:
-                time: ""
+                time: "12:00"
                 title:
-                    cz: ""
-                    eng: ""
+                    cz: "Susanne Tarkowski"
+                    eng: "Susanne Tarkowski"
                 desc:
-                    cz: ""
-                    eng: ""
-
+                    cz: "Projekt Bitnation"
+                    eng: "Bitnation project"
 
         -   columnA:
                 time: "13:30"
@@ -176,22 +182,21 @@ schedule:
                     cz: ""
                     eng: ""
             columnB:
-                time: "10:00"
+                time: "13:00"
                 title:
-                    cz: "columnB CZ"
-                    eng: "columnB ENG"
+                    cz: "Michal Saamo Paal"
+                    eng: "Michal Saamo Paal"
                 desc:
-                    cz: "desc CZ"
-                    eng: "desc ENG"
+                    cz: "Drony dnes a zítra"
+                    eng: "Drones today and tomorrow"
             columnC:
-                time: "10:00"
+                time: "13:00"
                 title:
-                    cz: "columnC CZ"
-                    eng: "columnC ENG"
+                    cz: "Jindřich Ráftl"
+                    eng: "Jindřich Ráftl"
                 desc:
-                    cz: "desc CZ"
-                    eng: "desc ENG"
-
+                    cz: "Umění a věda"
+                    eng: "Art and Science"
 
         -   columnA:
                 time: "14:00"
@@ -203,22 +208,21 @@ schedule:
                     eng: "Overview of decentralised solutions of common problems on the Internet"
 
             columnB:
-                time: "10:00"
+                time: "14:00"
                 title:
-                    cz: "columnB CZ"
-                    eng: "columnB ENG"
+                    cz: "Kristov Atlas"
+                    eng: "Kristov Atlas"
                 desc:
-                    cz: "desc CZ"
-                    eng: "desc ENG"
+                    cz: ""
+                    eng: ""
             columnC:
-                time: "10:00"
+                time: "14:00"
                 title:
-                    cz: "columnC CZ"
-                    eng: "columnC ENG"
+                    cz: "Paul Rosenberg"
+                    eng: "Paul Rosenberg"
                 desc:
-                    cz: "desc CZ"
-                    eng: "desc ENG"
-
+                    cz: "Soudnictví bez státu"
+                    eng: "Justice without state"
 
         -   columnA:
                 time: "15:00"
@@ -229,22 +233,21 @@ schedule:
                     cz: "Bezejmenný, beztvářný: Filozofie a historie soukromí a esence anonymity."
                     eng: "No name, no face: History and philosophy of privacy and anonymity"
             columnB:
-                time: "10:00"
+                time: "15:00"
                 title:
-                    cz: "columnB CZ"
-                    eng: "columnB ENG"
+                    cz: "Inne Poppe"
+                    eng: "Inne Poppe"
                 desc:
-                    cz: "desc CZ"
-                    eng: "desc ENG"
+                    cz: "Život mezi hackingem a uměním. Založení ateliéru Hackingu na umělecké akademii a projekt Crypto Design Challenge "
+                    eng: "Life between hacking and art. Establishing hacking department at Art Academy and Crypto Desing Challenge project"
             columnC:
-                time: "10:00"
+                time: "15:00"
                 title:
-                    cz: "columnC CZ"
-                    eng: "columnC ENG"
+                    cz: "Sam Nemeth"
+                    eng: "Sam Nemeth"
                 desc:
-                    cz: "desc CZ"
-                    eng: "desc ENG"
-
+                    cz: "Ideas Travels"
+                    eng: "Ideas Travels"
 
         -   columnA:
                 time: "16:00"
@@ -255,23 +258,21 @@ schedule:
                     cz: "Machine Learning populárně"
                     eng: "Popular machine learning"
             columnB:
-                time: "10:00"
+                time: "16:00"
                 title:
-                    cz: "columnB CZ"
-                    eng: "columnB ENG"
+                    cz: "Speciální host"
+                    eng: "Special secret guest"
                 desc:
-                    cz: "desc CZ"
-                    eng: "desc ENG"
+                    cz: ""
+                    eng: ""
             columnC:
-                time: "10:00"
+                time: "16:00"
                 title:
-                    cz: "columnC CZ"
-                    eng: "columnC ENG"
+                    cz: "Jasper Philipp Kalwies"
+                    eng: "Jasper Philipp Kalwies"
                 desc:
-                    cz: "desc CZ"
-                    eng: "desc ENG"
-
-
+                    cz: "Seasteading"
+                    eng: "Seasteading"
 
         -   columnA:
                 time: "17:00"
@@ -281,24 +282,15 @@ schedule:
                 desc:
                     cz: ""
                     eng: ""
-            columnB:
-                time: "10:00"
-                title:
-                    cz: "columnB CZ"
-                    eng: "columnB ENG"
-                desc:
-                    cz: "desc CZ"
-                    eng: "desc ENG"
+
             columnC:
-                time: "10:00"
+                time: "17:00"
                 title:
-                    cz: "columnC CZ"
-                    eng: "columnC ENG"
+                    cz: "Makerslab"
+                    eng: "Makerslab"
                 desc:
-                    cz: "desc CZ"
-                    eng: "desc ENG"
-
-
+                    cz: "O projektu Fashion STL"
+                    eng: "About project Fashion STL"
 
         -   columnA:
                 time: "18:00"
@@ -309,23 +301,21 @@ schedule:
                     cz: ""
                     eng: ""
             columnB:
-                time: "10:00"
+                time: "18:00"
                 title:
-                    cz: "columnB CZ"
-                    eng: "columnB ENG"
+                    cz: "Lyn Ulbricht"
+                    eng: "Lyn Ulbricht"
                 desc:
-                    cz: "desc CZ"
-                    eng: "desc ENG"
+                    cz: ""
+                    eng: ""
             columnC:
-                time: "10:00"
+                time: "18:00"
                 title:
-                    cz: "columnC CZ"
-                    eng: "columnC ENG"
+                    cz: "OFFICIAL CLOSING"
+                    eng: "OFFICIAL CLOSING"
                 desc:
-                    cz: "desc CZ"
-                    eng: "desc ENG"
-
-
+                    cz: ""
+                    eng: ""
 
         -   columnA:
                 time: "19:00"
@@ -335,24 +325,6 @@ schedule:
                 desc:
                     cz: ""
                     eng: ""
-            columnB:
-                time: "10:00"
-                title:
-                    cz: "columnB CZ"
-                    eng: "columnB ENG"
-                desc:
-                    cz: "desc CZ"
-                    eng: "desc ENG"
-            columnC:
-                time: "10:00"
-                title:
-                    cz: "columnC CZ"
-                    eng: "columnC ENG"
-                desc:
-                    cz: "desc CZ"
-                    eng: "desc ENG"
-
-
 
         -   columnA:
                 time: "20:00"
@@ -363,18 +335,30 @@ schedule:
                     cz: "Decentralizovaný konsenzus"
                     eng: "decentralised consensus"
             columnB:
-                time: "10:00"
+                time: "20:00"
                 title:
-                    cz: "columnB CZ"
-                    eng: "columnB ENG"
+                    cz: "Fassion STL"
+                    eng: "Fassion STL"
                 desc:
-                    cz: "desc CZ"
-                    eng: "desc ENG"
-            columnC:
-                time: "10:00"
-                title:
-                    cz: "columnC CZ"
-                    eng: "columnC ENG"
-                desc:
-                    cz: "desc CZ"
-                    eng: "desc ENG"
+                    cz: ""
+                    eng: ""
+
+ticket:
+    title:
+        cz: "Vstupenka<br>500kč"
+        eng: "Ticket<br>500 CZK"
+    button:
+        cz: "Již brzy"
+        eng: "Coming soon"
+    text:
+        cz: |
+            Vstupenka je platná na celý kongresu s vyjímkou Fashon.stl, vstupenka bude v prodeji zvlášť.
+            V ceně vstupenky je Bitcoinová platební karta a jedna káva zdarma.
+            Vstupenky jsou v předpordeji v kavárně Paralelní polis a online první týden v září.
+            Zaváděcí cena je 500kč placená v Bitcoinech.
+        eng: |
+            Ticket is valid for all Congress events with the exception of Fashion.stl show (3. 10. - in La Fabrika, tickets will be sold separately).
+            The price includes Paralelní Polis Bitcoin card with 1 free coffee.
+            Tickets available in Bitcoin Coffee Paralelní polis and online in the first week of September. Initial price for limited number of tickets is CZK 500 in BTC.
+
+

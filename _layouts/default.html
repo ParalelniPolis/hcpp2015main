@@ -170,31 +170,6 @@
                             </h4>
                         </div>
                         {% endfor %}
-
-                        <div class="col-sm-6 col-md-3">
-                            <h4 class="text-uppercase ct-fw-500 ct-u-colorWhite">
-                                
-                            </h4>
-                            <h4 class="text-lowercase ct-fw-200 ct-u-colorWhite">
-
-                            </h4>
-                        </div>
-                        <div class="col-sm-6 col-md-3">
-                            <h4 class="text-uppercase ct-fw-500 ct-u-colorWhite">
-                                
-                            </h4>
-                            <h4 class="text-lowercase ct-fw-200 ct-u-colorWhite">
-
-                            </h4>
-                        </div>
-                        <div class="col-sm-6 col-md-3">
-                            <h4 class="text-uppercase ct-fw-500 ct-u-colorWhite">
-
-                            </h4>
-                            <h4 class="text-lowercase ct-fw-200 ct-u-colorWhite">
-
-                            </h4>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -464,21 +439,21 @@
                     <div class="col-sm-4 col-md-4">
                         <div class="ct-iconBox-content text-center">
                             <h3 class="text-uppercase ct-fw-700">
-                                pátek
+                                {{site.data.website_text.schedule.friday[page.content_language]}}
                             </h3>
                         </div>
                     </div>
                     <div class="col-sm-4 col-md-4">
                         <div class="ct-iconBox-content text-center">
                             <h3 class="text-uppercase ct-fw-700">
-                                sobota
+                                {{site.data.website_text.schedule.saturday[page.content_language]}}
                             </h3>
                         </div>
                     </div>
                     <div class="col-sm-4 col-md-4">
                         <div class="ct-iconBox-content text-center">
                             <h3 class="text-uppercase ct-fw-700">
-                                neděle
+                                {{site.data.website_text.schedule.sunday[page.content_language]}}
                             </h3>
                         </div>
                     </div>
@@ -544,19 +519,15 @@
                     <div class="col-md-4 ct-u-paddinfTop70">
                         <header class="ct-pageSectionHeader ct-pageSectionHeader--text">
                             <h3 class="text-uppercase ct-fw-400">
-                                Vstupenka 500 Kč
+                                {{site.data.website_text.ticket.title[page.content_language]}}
                             </h3>
-                            <a href="tickets.html" class="btn btn-lg btn-default ct-btn--rounded text-uppercase">Koupit</a>
+                            <span class="btn btn-lg btn-default ct-btn--rounded text-uppercase">{{site.data.website_text.ticket.button[page.content_language]}}</span>
                         </header>
                     </div>
                     <div class="col-md-8 ct-u-paddinfTop70">
                         <div class="">
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius-
-                                mod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-                                ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                                aliquip ex ea commodo consequat. Duis aute irure dolor in repre-
-                                henderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                                {{site.data.website_text.ticket.text[page.content_language]}}
                             </p>
                         </div>
                     </div>
