@@ -149,7 +149,7 @@
                 <div class="container">
                     <header class="ct-pageSectionHeader ct-pageSectionHeader--text">
                         <h2 class="text-uppercase text-center ct-fw-300 ct-u-colorWhite">
-                            Programové okruhy
+                            {{site.data.website_text.programme_sections.title[page.content_language]}}
                         </h2>
                     </header>
                 </div>
@@ -159,47 +159,40 @@
             <div class="ct-mediaSection-inner">
                 <div class="container">
                     <div class="row ct-u-borderLeft ct-u-borderRight text-center">
+                        {% for programme_item in site.data.website_text.programme_sections.sections %}
                         <div class="col-sm-6 col-md-3">
                             <h4 class="text-uppercase ct-fw-500 ct-u-colorWhite">
-                                POLITICKÉ<br/>
-                                UMĚNÍ
+                                {{ programme_item.title[page.content_language] }}
                             </h4>
                             <h4 class="text-lowercase ct-fw-200 ct-u-colorWhite">
-                                art and hacking<br/><br/><br/>
+                                {{ programme_item.content[page.content_language] }}
+                                
+                            </h4>
+                        </div>
+                        {% endfor %}
+
+                        <div class="col-sm-6 col-md-3">
+                            <h4 class="text-uppercase ct-fw-500 ct-u-colorWhite">
+                                
+                            </h4>
+                            <h4 class="text-lowercase ct-fw-200 ct-u-colorWhite">
+
                             </h4>
                         </div>
                         <div class="col-sm-6 col-md-3">
                             <h4 class="text-uppercase ct-fw-500 ct-u-colorWhite">
-                                VĚDA <br/>
-                                A TECHNOLOGIE
+                                
                             </h4>
                             <h4 class="text-lowercase ct-fw-200 ct-u-colorWhite">
-                                3D tisk / drone
-                                biohacking / energy
-                                cellular
+
                             </h4>
                         </div>
                         <div class="col-sm-6 col-md-3">
                             <h4 class="text-uppercase ct-fw-500 ct-u-colorWhite">
-                                SVOBODA <br/>
-                                A KRYPTOANARCHIE
+
                             </h4>
                             <h4 class="text-lowercase ct-fw-200 ct-u-colorWhite">
-                                cryptotechnologies
-                                cyber security
-                                privacy
-                                internet freedom
-                            </h4>
-                        </div>
-                        <div class="col-sm-6 col-md-3">
-                            <h4 class="text-uppercase ct-fw-500 ct-u-colorWhite">
-                                DECENTRALIZOVANÁ EKONOMIKA <br/>
-                                A KRYPTOMĚNY
-                            </h4>
-                            <h4 class="text-lowercase ct-fw-200 ct-u-colorWhite">
-                                bitcoin
-                                blockchain
-                                peer to peer economy
+
                             </h4>
                         </div>
                     </div>
