@@ -14,7 +14,7 @@ main_menu:
     -   link: "#section1"
         text:
             cz: "Téma kongresu"
-            eng: "Programme sections"
+            eng: "Programm sections"
 
     -   link: "#section2"
         text:
@@ -42,7 +42,7 @@ main_menu:
 below_header:
     header:
         cz: "Témata Hackers Congress Paralelní Polis 2015"
-        eng: "Programme sections of Hackers Congress Paralelní Polis 2015"
+        eng: "Programm sections of Hackers Congress Paralelní Polis 2015"
     text:
         -   htmlclass: "ct-fw-300"
             cz: |
@@ -80,7 +80,7 @@ below_header:
 programme_sections:
     title:
         cz: "Programové okruhy"
-        eng: "Programme sections"
+        eng: "Programm sections"
     sections:
         -   title: 
                 cz: "POLITICKÉ<br/>UMĚNÍ"
