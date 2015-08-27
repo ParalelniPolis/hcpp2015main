@@ -14,7 +14,7 @@ main_menu:
     -   link: "#section1"
         text:
             cz: "Téma kongresu"
-            eng: "Programm sections"
+            eng: "Programme sections"
 
     -   link: "#section2"
         text:
@@ -42,7 +42,7 @@ main_menu:
 below_header:
     header:
         cz: "Témata Hackers Congress Paralelní Polis 2015"
-        eng: "Programm sections of Hackers Congress Paralelní Polis 2015"
+        eng: "Programme sections of Hackers Congress Paralelní Polis 2015"
     text:
         -   htmlclass: "ct-fw-300"
             cz: |
@@ -80,7 +80,7 @@ below_header:
 programme_sections:
     title:
         cz: "Programové okruhy"
-        eng: "Programm sections"
+        eng: "Programme sections"
     sections:
         -   title: 
                 cz: "POLITICKÉ<br/>UMĚNÍ"
@@ -360,5 +360,17 @@ ticket:
             Ticket is valid for all Congress events with the exception of Fashion.stl show (3. 10. - in La Fabrika, tickets will be sold separately).
             The price includes Paralelní Polis Bitcoin card with 1 free coffee.
             Tickets available in Bitcoin Coffee Paralelní polis and online in the first week of September. Initial price for limited number of tickets is CZK 500 in BTC.
+
+
+
+speakers:
+    title:
+        cz: "Hosté kongresu"
+        eng: "Speakers"
+
+
+
+
+
 
 
