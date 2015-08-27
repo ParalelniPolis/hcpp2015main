@@ -112,18 +112,69 @@ schedule:
         cz: "PROGRAM KONGRESU"
         eng: "SCHEDULE"
     rows:   
-        -   columnA:
+
+        -   columnB:
                 time: "10:00"
                 title:
-                    cz: "Lorem ipsum"
-                    eng: "columnA ENG"
+                    cz: "TBC"
+                    eng: "TBC"
                 desc:
-                    cz: |
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-                        Aliquam lobortis neque ac magna lacinia ultrices. 
-                        Aenean consectetur at quam sit amet imperdiet. Praesent sed ullamcorper nisl. 
-                        Sed eget magna pellentesque, pretium ante id, aliquet lacus.
-                    eng: "desc ENG"
+                    cz: ""
+                    eng: ""
+            columnC:
+                time: ""
+                title:
+                    cz: ""
+                    eng: ""
+                desc:
+                    cz: ""
+                    eng: ""
+
+
+        -   columnB:
+                time: "11:00"
+                title:
+                    cz: "Janez Janša"
+                    eng: "Janez Janša"
+                desc:
+                    cz: "Name Readymade - změna identity a vlastnictví úředních dokumentů"
+                    eng: "Name Readymade - change of identity and ownership of official documents"
+            columnC:
+                time: ""
+                title:
+                    cz: ""
+                    eng: ""
+                desc:
+                    cz: ""
+                    eng: ""
+
+
+        -   columnB:
+                time: "12:00"
+                title:
+                    cz: "Frank Braun"
+                    eng: "Frank Braun"
+                desc:
+                    cz: ""
+                    eng: ""
+            columnC:
+                time: ""
+                title:
+                    cz: ""
+                    eng: ""
+                desc:
+                    cz: ""
+                    eng: ""
+
+
+        -   columnA:
+                time: "13:30"
+                title:
+                    cz: "OPENING KEY NOTE"
+                    eng: "OPENING KEY NOTE"
+                desc:
+                    cz: ""
+                    eng: ""
             columnB:
                 time: "10:00"
                 title:
@@ -141,16 +192,24 @@ schedule:
                     cz: "desc CZ"
                     eng: "desc ENG"
 
-        # Ukazka - V tomto radku chybi prostredni polozka
+
         -   columnA:
+                time: "14:00"
+                title:
+                    cz: "Juraj Bednar"
+                    eng: "Juraj Bednar"
+                desc:
+                    cz: "Přehled decentralizovaných řešení bežných problému na Internetu"
+                    eng: "Overview of decentralised solutions of common problems on the Internet"
+
+            columnB:
                 time: "10:00"
                 title:
-                    cz: "columnA CZ"
-                    eng: "columnA ENG"
+                    cz: "columnB CZ"
+                    eng: "columnB ENG"
                 desc:
                     cz: "desc CZ"
                     eng: "desc ENG"
-
             columnC:
                 time: "10:00"
                 title:
@@ -162,13 +221,39 @@ schedule:
 
 
         -   columnA:
+                time: "15:00"
+                title:
+                    cz: "Smuggler"
+                    eng: "Smuggler"
+                desc:
+                    cz: "Bezejmenný, beztvářný: Filozofie a historie soukromí a esence anonymity."
+                    eng: "No name, no face: History and philosophy of privacy and anonymity"
+            columnB:
                 time: "10:00"
                 title:
-                    cz: "columnA CZ"
-                    eng: "columnA ENG"
+                    cz: "columnB CZ"
+                    eng: "columnB ENG"
                 desc:
                     cz: "desc CZ"
                     eng: "desc ENG"
+            columnC:
+                time: "10:00"
+                title:
+                    cz: "columnC CZ"
+                    eng: "columnC ENG"
+                desc:
+                    cz: "desc CZ"
+                    eng: "desc ENG"
+
+
+        -   columnA:
+                time: "16:00"
+                title:
+                    cz: "Jiří Materna"
+                    eng: "Jiří Materna"
+                desc:
+                    cz: "Machine Learning populárně"
+                    eng: "Popular machine learning"
             columnB:
                 time: "10:00"
                 title:
@@ -188,6 +273,108 @@ schedule:
 
 
 
+        -   columnA:
+                time: "17:00"
+                title:
+                    cz: "Pony Pink Express"
+                    eng: "Pony Pink Express"
+                desc:
+                    cz: ""
+                    eng: ""
+            columnB:
+                time: "10:00"
+                title:
+                    cz: "columnB CZ"
+                    eng: "columnB ENG"
+                desc:
+                    cz: "desc CZ"
+                    eng: "desc ENG"
+            columnC:
+                time: "10:00"
+                title:
+                    cz: "columnC CZ"
+                    eng: "columnC ENG"
+                desc:
+                    cz: "desc CZ"
+                    eng: "desc ENG"
 
 
 
+        -   columnA:
+                time: "18:00"
+                title:
+                    cz: "Joerg Platzer"
+                    eng: "Joerg Platzer"
+                desc:
+                    cz: ""
+                    eng: ""
+            columnB:
+                time: "10:00"
+                title:
+                    cz: "columnB CZ"
+                    eng: "columnB ENG"
+                desc:
+                    cz: "desc CZ"
+                    eng: "desc ENG"
+            columnC:
+                time: "10:00"
+                title:
+                    cz: "columnC CZ"
+                    eng: "columnC ENG"
+                desc:
+                    cz: "desc CZ"
+                    eng: "desc ENG"
+
+
+
+        -   columnA:
+                time: "19:00"
+                title:
+                    cz: "Bitnik"
+                    eng: "Bitnik"
+                desc:
+                    cz: ""
+                    eng: ""
+            columnB:
+                time: "10:00"
+                title:
+                    cz: "columnB CZ"
+                    eng: "columnB ENG"
+                desc:
+                    cz: "desc CZ"
+                    eng: "desc ENG"
+            columnC:
+                time: "10:00"
+                title:
+                    cz: "columnC CZ"
+                    eng: "columnC ENG"
+                desc:
+                    cz: "desc CZ"
+                    eng: "desc ENG"
+
+
+
+        -   columnA:
+                time: "20:00"
+                title:
+                    cz: "Marek Palatinus"
+                    eng: "Marek Palatinus"
+                desc:
+                    cz: "Decentralizovaný konsenzus"
+                    eng: "decentralised consensus"
+            columnB:
+                time: "10:00"
+                title:
+                    cz: "columnB CZ"
+                    eng: "columnB ENG"
+                desc:
+                    cz: "desc CZ"
+                    eng: "desc ENG"
+            columnC:
+                time: "10:00"
+                title:
+                    cz: "columnC CZ"
+                    eng: "columnC ENG"
+                desc:
+                    cz: "desc CZ"
+                    eng: "desc ENG"
