@@ -188,240 +188,27 @@
             </h2>
         </header>
         <div id="ct-gallery" class="ct-gallery ct-gallery--col4 ct-js-magnificPortfolioPopupGroup">
-            <div class="ct-gallery-item ct-gallery-item--masonry ct-gallery-item--default hidden ct-gallery-item--normal">
-                <div class="ct-gallery-itemInner">
-                    <a class="ct-js-magnificPortfolioPopup" href="persons/ulbricht.html">
-                        <div class="ct-gallery-itemImage">
-                            <img src="/persons/ulbricht.jpg" alt="Lyn ulbricht"/>
-                        </div>
-                        <div class="ct-gallery-itemDescription">
-                            <span class="ct-gallery-itemDescription-title">Lyn Ulbricht (USA)</span>
-                            <span class="ct-gallery-itemDescription-category">Freedom advocate and mother of Silk Road founder Ross Ulbricht</span>
-                        </div>
-                    </a>
+
+            {% for person in site.data.website_text.speakers.persons %}
+                <div class="ct-gallery-item ct-gallery-item--masonry ct-gallery-item--default hidden ct-gallery-item--normal">
+                    <div class="ct-gallery-itemInner">
+                        <a href="/speakers/{{person.link}}.html">
+                            <div class="ct-gallery-itemImage">
+                                <img src="/persons/{{person.link}}.jpg" alt="{{person.name}}"/>
+                            </div>
+                            <div class="ct-gallery-itemDescription">
+                                <span class="ct-gallery-itemDescription-title">
+                                    {{person.name}}
+                                </span>
+                                <span class="ct-gallery-itemDescription-category">
+                                    {{person.description}}
+                                </span>
+                            </div>
+                        </a>
+                    </div>
                 </div>
-            </div>
-            <div class="ct-gallery-item ct-gallery-item--masonry ct-gallery-item--default hidden ct-gallery-item--normal">
-                <div class="ct-gallery-itemInner">
-                    <a class="ct-js-magnificPortfolioPopup" href="persons/tempelhof.html">
-                        <div class="ct-gallery-itemImage">
-                            <img src="/persons/tempelhof.jpg" alt="Susanne Tarkowski Tempelhof"/>
-                        </div>
-                        <div class="ct-gallery-itemDescription">
-                            <span class="ct-gallery-itemDescription-title">Susanne Tarkowski Tempelhof (GB)</span>
-                            <span class="ct-gallery-itemDescription-category">BITNATION Founder and CEO</span>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div class="ct-gallery-item ct-gallery-item--masonry ct-gallery-item--default hidden ct-gallery-item--normal">
-                <div class="ct-gallery-itemInner">
-                    <a class="ct-js-magnificPortfolioPopup" href="persons/palatinus.html">
-                        <div class="ct-gallery-itemImage">
-                            <img src="/persons/palatinus.jpg" alt="Slush - Marek Palatinus"/>
-                        </div>
-                        <div class="ct-gallery-itemDescription">
-                            <span class="ct-gallery-itemDescription-title">Slush - Marek Palatinus (CZ)</span>
-                            <span class="ct-gallery-itemDescription-category">Bitcoin legend, architect in Satoshilabs</span>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div class="ct-gallery-item ct-gallery-item--masonry ct-gallery-item--default hidden ct-gallery-item--normal">
-                <div class="ct-gallery-itemInner">
-                    <a class="ct-js-magnificPortfolioPopup" href="persons/rosenberg.html">
-                        <div class="ct-gallery-itemImage">
-                            <img src="/persons/rosenberg.jpg" alt="rosenberg"/>
-                        </div>
-                        <div class="ct-gallery-itemDescription">
-                            <span class="ct-gallery-itemDescription-title">Paul Rosenberg (USA)</span>
-                            <span class="ct-gallery-itemDescription-category">founder of Cryptohippie, author of the Free-Man's Perspective</span>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div class="ct-gallery-item ct-gallery-item--masonry ct-gallery-item--default hidden ct-gallery-item--normal">
-                <div class="ct-gallery-itemInner">
-                    <a class="ct-js-magnificPortfolioPopup" href="persons/kalwies.html">
-                        <div class="ct-gallery-itemImage">
-                            <img src="/persons/kalwies.jpg" alt="kalwies"/>
-                        </div>
-                        <div class="ct-gallery-itemDescription">
-                            <span class="ct-gallery-itemDescription-title">Jasper Philipp Kalwies (GE)</span>
-                            <span class="ct-gallery-itemDescription-category">entrepreneur</span>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div class="ct-gallery-item ct-gallery-item--masonry ct-gallery-item--default hidden ct-gallery-item--normal">
-                <div class="ct-gallery-itemInner">
-                    <a class="ct-js-magnificPortfolioPopup" href="persons/bitnik.html">
-                        <div class="ct-gallery-itemImage">
-                            <img src="/persons/bitnik.jpg" alt="bitnik"/>
-                        </div>
-                        <div class="ct-gallery-itemDescription">
-                            <span class="ct-gallery-itemDescription-title">bitnik.org</span>
-                            <span class="ct-gallery-itemDescription-category">Art Group Zurich/London</span>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div class="ct-gallery-item ct-gallery-item--masonry ct-gallery-item--default hidden ct-gallery-item--normal">
-                <div class="ct-gallery-itemInner">
-                    <a class="ct-js-magnificPortfolioPopup" href="persons/paal.html">
-                        <div class="ct-gallery-itemImage">
-                            <img src="/persons/paal.jpg" alt="paal"/>
-                        </div>
-                        <div class="ct-gallery-itemDescription">
-                            <span class="ct-gallery-itemDescription-title">Michal Paal (SK)</span>
-                            <span class="ct-gallery-itemDescription-category">Chief Technology Officer at DIGMIA s.r.o.</span>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div class="ct-gallery-item ct-gallery-item--masonry ct-gallery-item--default hidden ct-gallery-item--normal">
-                <div class="ct-gallery-itemInner">
-                    <a class="ct-js-magnificPortfolioPopup" href="persons/bednar.html">
-                        <div class="ct-gallery-itemImage">
-                            <img src="/persons/bednar.jpg" alt="bednar"/>
-                        </div>
-                        <div class="ct-gallery-itemDescription">
-                            <span class="ct-gallery-itemDescription-title">Juraj Bednar (SK)</span>
-                            <span class="ct-gallery-itemDescription-category">biohacker, cryptoanarchist, security developer</span>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div class="ct-gallery-item ct-gallery-item--masonry ct-gallery-item--default hidden ct-gallery-item--normal">
-                <div class="ct-gallery-itemInner">
-                    <a class="ct-js-magnificPortfolioPopup" href="persons/smuggler.html">
-                        <div class="ct-gallery-itemImage">
-                            <img src="/persons/smuggler.jpg" alt="smuggler"/>
-                        </div>
-                        <div class="ct-gallery-itemDescription">
-                            <span class="ct-gallery-itemDescription-title">Smuggler (?)</span>
-                            <span class="ct-gallery-itemDescription-category">A cypherpunk and cryptoanarchist</span>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div class="ct-gallery-item ct-gallery-item--masonry ct-gallery-item--default hidden ct-gallery-item--normal">
-                <div class="ct-gallery-itemInner">
-                    <a class="ct-js-magnificPortfolioPopup" href="persons/pinkponyexpress.html">
-                        <div class="ct-gallery-itemImage">
-                            <img src="/persons/pinkponyexpress.jpg" alt="pinkponyexpress"/>
-                        </div>
-                        <div class="ct-gallery-itemDescription">
-                            <span class="ct-gallery-itemDescription-title">Pink Pony Express (NL)</span>
-                            <span class="ct-gallery-itemDescription-category">Dívčí umělecká skupina z Amsterdamu</span>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div class="ct-gallery-item ct-gallery-item--masonry ct-gallery-item--default hidden ct-gallery-item--normal">
-                <div class="ct-gallery-itemInner">
-                    <a class="ct-js-magnificPortfolioPopup" href="persons/braun.html">
-                        <div class="ct-gallery-itemImage">
-                            <img src="/persons/braun.jpg" alt="braun"/>
-                        </div>
-                        <div class="ct-gallery-itemDescription">
-                            <span class="ct-gallery-itemDescription-title">Frank Braun</span>
-                            <span class="ct-gallery-itemDescription-category">Cryptoanarchist and aspiring cypherpunk</span>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div class="ct-gallery-item ct-gallery-item--masonry ct-gallery-item--default hidden ct-gallery-item--normal">
-                <div class="ct-gallery-itemInner">
-                    <a class="ct-js-magnificPortfolioPopup" href="persons/platzer.html">
-                        <div class="ct-gallery-itemImage">
-                            <img src="/persons/platzer.jpg" alt="braun"/>
-                        </div>
-                        <div class="ct-gallery-itemDescription">
-                            <span class="ct-gallery-itemDescription-title">Joarg Platzer (GE)</span>
-                            <span class="ct-gallery-itemDescription-category">Cryptoanarchist and aspiring cypherpunk</span>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div class="ct-gallery-item ct-gallery-item--masonry ct-gallery-item--default hidden ct-gallery-item--normal">
-                <div class="ct-gallery-itemInner">
-                    <a class="ct-js-magnificPortfolioPopup" href="persons/poppe.html">
-                        <div class="ct-gallery-itemImage">
-                            <img src="/persons/poppe.jpg" alt="poppe"/>
-                        </div>
-                        <div class="ct-gallery-itemDescription">
-                            <span class="ct-gallery-itemDescription-title">Inne Poppe (NL)</span>
-                            <span class="ct-gallery-itemDescription-category">umělkyně, publicistka, vedoucí ateliéru hackingu na WDK Rotterdam</span>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div class="ct-gallery-item ct-gallery-item--masonry ct-gallery-item--default hidden ct-gallery-item--normal">
-                <div class="ct-gallery-itemInner">
-                    <a class="ct-js-magnificPortfolioPopup" href="persons/marsiske.html">
-                        <div class="ct-gallery-itemImage">
-                            <img src="/persons/marsiske.png" alt="marsiske"/>
-                        </div>
-                        <div class="ct-gallery-itemDescription">
-                                <span class="ct-gallery-itemDescription-title">Stefan Marsiske (HU)</span>
-                            <span class="ct-gallery-itemDescription-category">Free software developer and evangelist</span>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div class="ct-gallery-item ct-gallery-item--masonry ct-gallery-item--default hidden ct-gallery-item--normal">
-                <div class="ct-gallery-itemInner">
-                    <a class="ct-js-magnificPortfolioPopup" href="persons/materna.html">
-                        <div class="ct-gallery-itemImage">
-                            <img src="/persons/materna.jpg" alt="materna"/>
-                        </div>
-                        <div class="ct-gallery-itemDescription">
-                            <span class="ct-gallery-itemDescription-title">Jiří Materna (CZ)</span>
-                            <span class="ct-gallery-itemDescription-category">šéf výzkumu v Seznam.cz</span>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div class="ct-gallery-item ct-gallery-item--masonry ct-gallery-item--default hidden ct-gallery-item--normal">
-                <div class="ct-gallery-itemInner">
-                    <a class="ct-js-magnificPortfolioPopup" href="persons/jech.html">
-                        <div class="ct-gallery-itemImage">
-                            <img src="/persons/jech.jpg" alt="jech"/>
-                        </div>
-                        <div class="ct-gallery-itemDescription">
-                            <span class="ct-gallery-itemDescription-title">Adam Jech (CZ)</span>
-                            <span class="ct-gallery-itemDescription-category">Cofounder of MakersLab, graphic designer</span>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div class="ct-gallery-item ct-gallery-item--masonry ct-gallery-item--default hidden ct-gallery-item--normal">
-                <div class="ct-gallery-itemInner">
-                    <a class="ct-js-magnificPortfolioPopup" href="persons/jansa.html">
-                        <div class="ct-gallery-itemImage">
-                            <img src="/persons/jansa.jpg" alt="jansa"/>
-                        </div>
-                        <div class="ct-gallery-itemDescription">
-                            <span class="ct-gallery-itemDescription-title">Janez Jansa</span>
-                            <span class="ct-gallery-itemDescription-category"></span>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div class="ct-gallery-item ct-gallery-item--masonry ct-gallery-item--default hidden ct-gallery-item--normal">
-                <div class="ct-gallery-itemInner">
-                    <a class="ct-js-magnificPortfolioPopup" href="persons/marada.html">
-                        <div class="ct-gallery-itemImage">
-                            <img src="/persons/marada.jpg" alt="marada"/>
-                        </div>
-                        <div class="ct-gallery-itemDescription">
-                            <span class="ct-gallery-itemDescription-title">Tomáš Marada(CZ)</span>
-                            <span class="ct-gallery-itemDescription-category">Tajemník Karla Janečka</span>
-                        </div>
-                    </a>
-                </div>
-            </div>
+            {% endfor %}
+
         </div>
     </section>
 
