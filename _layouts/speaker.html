@@ -39,14 +39,20 @@
             {{ content }}
         </div>
         <div class="col-sm-4 ct-sidebar ct-u-paddingTop10">
-            <h4 class="text-lowercase ct-fw-600 ct-u-marginTop20">Presentation</h4>
+            <h4 class="text-lowercase ct-fw-600 ct-u-marginTop20">
+                {{site.data.website_text.speakers_page.speaker_presenation[page.content_language]}}
+            </h4>
             <span class="ct-fs-i">{{page.speaker_presentation}}</span>
 
-            <h5 class="text-lowercase ct-fw-600 ct-u-marginTop20">When </h5>
-                <span class="ct-fs-i">{{page.speaker_when}}</span>
+            <h5 class="text-lowercase ct-fw-600 ct-u-marginTop20">
+                {{site.data.website_text.speakers_page.speaker_when[page.content_language]}}
+            </h5>
+            <span class="ct-fs-i">{{page.speaker_when}}</span>
 
-            <h5 class="text-lowercase ct-fw-600 ct-u-marginTop20">Where </h5>
-                <span class="ct-fs-i">{{page.speaker_where}}</span>
+            <h5 class="text-lowercase ct-fw-600 ct-u-marginTop20">
+                {{site.data.website_text.speakers_page.speaker_where[page.content_language]}}
+            </h5>
+            <span class="ct-fs-i">{{page.speaker_where}}</span>
         </div>
     </div>
 </section>

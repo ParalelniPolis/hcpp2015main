@@ -1,6 +1,7 @@
 ---
 layout: speaker
-permalink: speakers/eng/lyn-ulbricht.html
+permalink: speakers/eng/ulbricht.html
+content_language: eng
 speaker_name: "Lyn Ulbricht (USA)"
 speaker_description: "Freedom advocate and mother of Silk Road founder Ross Ulbricht"
 speaker_presentation: "The Silk Road Case: What happened, What’s next, Why it Matters"

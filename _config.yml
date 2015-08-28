@@ -5,6 +5,4 @@ port:             9001
 baseurl:          /
 encoding:         UTF-8
 
-permalink: "/:title"
-
 

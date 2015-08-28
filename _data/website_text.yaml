@@ -428,7 +428,16 @@ speakers:
 
 
 
-
+speakers_page:
+    speaker_presenation:
+        cz: "Prezentace"
+        eng: "Presentation"
+    speaker_when:
+        cz: "Kdy"
+        eng: "When"
+    speaker_where:
+        cz: "Kde"
+        eng: "Where"
 
 
 
