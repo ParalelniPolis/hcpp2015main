@@ -196,9 +196,13 @@
             {% for person in site.data.website_text.speakers.persons %}
                 <div class="ct-gallery-item ct-gallery-item--masonry ct-gallery-item--default hidden ct-gallery-item--normal">
                     <div class="ct-gallery-itemInner">
-                        <a href="/speakers/{{person.link}}.html">
+                        {% if page.content_language == "cz" %}
+                            <a href="/speakers/{{person.link}}.html">
+                        {% else %}
+                            <a href="/speakers/eng/{{person.link}}.html">
+                        {% endif %}
                             <div class="ct-gallery-itemImage">
-                                <img src="/persons/{{person.link}}.jpg" alt="{{person.name}}"/>
+                                <img src="/speakers/{{person.link}}.jpg" alt="{{person.name}}"/>
                             </div>
                             <div class="ct-gallery-itemDescription">
                                 <span class="ct-gallery-itemDescription-title">

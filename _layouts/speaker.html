@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]>
+<html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]>
+<html class="no-js ie9" lang="en"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html class="no-js" lang="en"> <!--<![endif]-->
+<head lang="cz">
+    <meta charset="UTF-8">
+    <meta name="description" content="Hackers Congress Paralelni Polis 2015">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>{{page.speaker_name}}</title>
+
+    <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
+
+    <!--[if lt IE 9]>
+    <script src="../assets/bootstrap/js/html5shiv.min.js"></script>
+    <script src="../assets/bootstrap/js/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="/assets/js/modernizr.custom.js"></script>
+</head>
+
+<body>
+
+<section class="ct-gallerySingleAjax">
+    <div class="container ct-u-backgroundDarkGray">
+        <header>
+            <h3 class="ct-fw-600">{{page.speaker_name}}<br/>
+                <span class="small ct-fw-300">{{page.speaker_description}}</span>
+            </h3>
+        </header>
+    </div>
+    <div class="container ct-u-paddingBottom80 ct-u-paddingTop50">
+        <div class="col-sm-8">
+            {{ content }}
+        </div>
+        <div class="col-sm-4 ct-sidebar ct-u-paddingTop10">
+            <h4 class="text-lowercase ct-fw-600 ct-u-marginTop20">Presentation</h4>
+            <span class="ct-fs-i">{{page.speaker_presentation}}</span>
+
+            <h5 class="text-lowercase ct-fw-600 ct-u-marginTop20">When </h5>
+                <span class="ct-fs-i">{{page.speaker_when}}</span>
+
+            <h5 class="text-lowercase ct-fw-600 ct-u-marginTop20">Where </h5>
+                <span class="ct-fs-i">{{page.speaker_where}}</span>
+        </div>
+    </div>
+</section>
+
+</body>
