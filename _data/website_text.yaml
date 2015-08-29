@@ -371,54 +371,71 @@ speakers:
         -   name: "Lyn Ulbricht (USA)"
             link: "ulbricht"
             description: "Freedom advocate and mother of Silk Road founder Ross Ulbricht"
+
         -   name: "Susanne Tarkowski Tempelhof (GB)"
             link: "tempelhof"
             description: "BITNATION Founder and CEO"
+
         -   name: "Slush - Marek Palatinus (CZ)"
             link: "palatinus"
             description: "Bitcoin legend, architect in Satoshilabs"
+
         -   name: "Paul Rosenberg (USA)"
             link: "rosenberg"
             description: "founder of Cryptohippie, author of the Free-Man's Perspective"
+
         -   name: "Jasper Philipp Kalwies (GER)"
             link: "kalwies"
             description: "entrepreneur"
+
         -   name: "bitnik.org"
             link: "bitnik"
             description: "Art Group Zurich/London"
+
         -   name: "Michal Paal (SK)"
             link: "paal"
             description: "CTO at DIGMIA s.r.o."
+
         -   name: "Juraj Bednar (SK)"
             link: "bednar"
             description: "biohacker, cryptoanarchist, security developer"
+
         -   name: "Smuggler (?)"
             link: "smuggler"
             description: "A cypherpunk and cryptoanarchist"
+
         -   name: "Pink Pony Express (NL)"
             link: "pinkponyexpress"
             description: "Dívčí umělecká skupina z Amsterdamu"
+
         -   name: "Frank Braun"
             link: "braun"
             description: "Cryptoanarchist and aspiring cypherpunk"
+
         -   name: "Joarg Platzer (GER)"
             link: "platzer"
             description: "Cryptoanarchist and aspiring cypherpunk"
+
         -   name: "Inne Poppe (NL)"
             link: "poppe"
             description: "umělkyně, publicistka, vedoucí ateliéru hackingu na WDK Rotterdam"
+
         -   name: "Stefan Marsiske (HU)"
             link: "marsiske"
             description: "Free software developer and evangelist"
+
         -   name: "Jiří Materna (CZ)"
             link: "materna"
             description: "šéf výzkumu v Seznam.cz"
+
         -   name: "Adam Jech (CZ)"
             link: "jech"
             description: "Co-founder of MakersLab, graphic designer"
+
         -   name: "Janez Jansa"
             link: "jansa"
             description: ""
+
         -   name: "Tomáš Marada(CZ)"
             link: "marada"
             description: "Tajemník Karla Janečka"
