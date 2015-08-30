@@ -142,8 +142,8 @@ schedule:
         -   columnB:
                 time: "11:00"
                 title:
-                    cz: "Janez Janša"
-                    eng: "Janez Janša"
+                    cz: "Janez Jansa"
+                    eng: "Janez Jansa"
                 desc:
                     cz: "Name Readymade - změna identity a vlastnictví úředních dokumentů"
                     eng: "Name Readymade - change of identity and ownership of official documents"
@@ -418,7 +418,7 @@ speakers:
 
         -   name: "Inne Poppe (NL)"
             link: "poppe"
-            description: "umělkyně, publicistka, vedoucí ateliéru hackingu na WDK Rotterdam"
+            description: "An Artist, publicist, head of an atelier of hacking at WDK Rotterdam "
 
         -   name: "Stefan Marsiske (HU)"
             link: "marsiske"
@@ -426,17 +426,17 @@ speakers:
 
         -   name: "Jiří Materna (CZ)"
             link: "materna"
-            description: "šéf výzkumu v Seznam.cz"
+            description: "Head of research at Seznam.cz"
 
         -   name: "Adam Jech (CZ)"
             link: "jech"
             description: "Co-founder of MakersLab, graphic designer"
 
-        -   name: "Janez Jansa"
+        -   name: "Janez Jansa (SLO)"
             link: "jansa"
-            description: ""
+            description: "Contemporary artist"
 
-        -   name: "Tomáš Marada(CZ)"
+        -   name: "Tomáš Marada (CZ)"
             link: "marada"
             description: "Tajemník Karla Janečka"
 
