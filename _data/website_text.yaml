@@ -142,8 +142,8 @@ schedule:
         -   columnB:
                 time: "11:00"
                 title:
-                    cz: "Janez Janša"
-                    eng: "Janez Janša"
+                    cz: "Janez Jansa"
+                    eng: "Janez Jansa"
                 desc:
                     cz: "Name Readymade - změna identity a vlastnictví úředních dokumentů"
                     eng: "Name Readymade - change of identity and ownership of official documents"
@@ -434,7 +434,7 @@ speakers:
 
         -   name: "Janez Jansa (SLO)"
             link: "jansa"
-            description: ""
+            description: "Contemporary artist"
 
         -   name: "Tomáš Marada (CZ)"
             link: "marada"
