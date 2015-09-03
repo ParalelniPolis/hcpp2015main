@@ -11674,7 +11674,6 @@ html[xmlns] .slides {
 }
 @media (max-width: 992px) {
   .counter-block {
-    margin-right: 10px;
   }
   .counter-block .counter {
     width: 120px;
