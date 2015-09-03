@@ -58,10 +58,10 @@ below_header:
             cz: |
                 Smysl těchto nových technologií však není pouze v jejich aktuálním společenském a
                 ekonomickém prospěchu pro společnost - v budoucnu mohou sehrát klíčovou roli v
-                případě hluboké krize (ať už válečkého střetu, živelné pohromy, nastolení diktatury
+                případě hluboké krize (ať už válečného střetu, živelné pohromy, nastolení diktatury
                 nebo výpadku infrastruktury).
             eng: | 
-                The sense of new technologies not only in the current social and economic benefits - 
+                The sense of new technologies is not only in the current social and economic benefits - 
                 they may play a key role in the case of deep crisis in the future 
                 (whether war conflict, natural disasters, dictatorship or failure of infrastructure).
         -   htmlclass: "ct-fw-800"
@@ -333,12 +333,12 @@ schedule:
                     eng: "Marek Palatinus"
                 desc:
                     cz: "Decentralizovaný konsenzus"
-                    eng: "decentralised consensus"
+                    eng: "Decentralised consensus"
             columnB:
                 time: "20:00"
                 title:
-                    cz: "Fassion STL"
-                    eng: "Fassion STL"
+                    cz: "Fashion STL"
+                    eng: "Fashion STL"
                 desc:
                     cz: ""
                     eng: ""
@@ -382,7 +382,7 @@ speakers:
 
         -   name: "Paul Rosenberg (USA)"
             link: "rosenberg"
-            description: "founder of Cryptohippie, author of the Free-Man's Perspective"
+            description: "Founder of Cryptohippie, author of the Free-Man's Perspective"
 
         -   name: "Jasper Philipp Kalwies (GER)"
             link: "kalwies"
@@ -398,7 +398,7 @@ speakers:
 
         -   name: "Juraj Bednar (SK)"
             link: "bednar"
-            description: "biohacker, cryptoanarchist, security developer"
+            description: "Biohacker, cryptoanarchist, security developer"
 
         -   name: "Smuggler (?)"
             link: "smuggler"
