@@ -5361,7 +5361,7 @@ button:active {
   color: #ffffff;
 }
 .ct-sectionButton {
-  left: 50%;
+  left: 48%;
   margin-left: -100px;
   position: absolute;
   color: #ffffff;
@@ -5415,7 +5415,7 @@ button:active {
 .ct-sectionButton,
 .ct-scrollUpButton {
   text-align: center;
-  bottom: 47px;
+  bottom: 13px;
   text-transform: uppercase;
 }
 .ct-sectionButton .ct-sectionButton-circle,
