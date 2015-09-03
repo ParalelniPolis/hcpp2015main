@@ -13,12 +13,12 @@ main_menu:
 
     -   link: "#section1"
         text:
-            cz: "Téma kongresu"
-            eng: "Programme sections"
+            cz: "Téma"
+            eng: "Programme"
 
     -   link: "#section2"
         text:
-            cz: "Hosté kongresu"
+            cz: "Hosté"
             eng: "Speakers"
 
     -   link: "#section3"
