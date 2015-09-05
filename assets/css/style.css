@@ -12109,7 +12109,7 @@ img.mfp-img {
 }
 
 @media (max-width: 345px) {
-  .counter-block { padding-left: 0; }
+  .counter-block { padding-right: 0; }
   .counter-group { padding-left: 75px; }
 
 }
