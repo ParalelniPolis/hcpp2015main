@@ -11717,8 +11717,9 @@ html[xmlns] .slides {
   .counter-block { padding-right: 15px; }
   .counter-block .counter .number { 
     font-size: 60px;
+    line-height: 55px;
   }
-  
+
 }
 
 @media (max-width: 480px) {
