@@ -5361,7 +5361,7 @@ button:active {
   color: #ffffff;
 }
 .ct-sectionButton {
-  left: 48%;
+  left: 50%;
   margin-left: -100px;
   position: absolute;
   color: #ffffff;
@@ -11674,12 +11674,12 @@ html[xmlns] .slides {
 }
 @media (max-width: 992px) {
   .counter-block {
+     
   }
   .counter-block .counter {
     width: 120px;
     height: 100px;
     overflow: hidden;
-    font-weight: 700;
   }
   .counter-block .counter .number {
     font-size: 108px;
@@ -11694,7 +11694,7 @@ html[xmlns] .slides {
 }
 @media (max-width: 768px) {
   .counter-block {
-    margin-right: 8px;
+    
   }
   .counter-block .counter {
     width: 96px;
