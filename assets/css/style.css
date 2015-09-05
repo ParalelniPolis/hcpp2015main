@@ -5361,7 +5361,7 @@ button:active {
   color: #ffffff;
 }
 .ct-sectionButton {
-  left: 50%;
+  left: 52%;
   margin-left: -100px;
   position: absolute;
   color: #ffffff;
@@ -7092,7 +7092,7 @@ fieldset[disabled] .form-group label:before {
   border-top: 10px solid #0002ff;
 }
 .ct-u-borderMotiveBottom {
-  border-bottom: 10px solid #0002ff;
+  border-bottom: 5px solid #0002ff;
 }
 .ct-u-backgroundWhite {
   background-color: #ffffff;
@@ -11605,6 +11605,7 @@ html[xmlns] .slides {
 }
 .counter-group {
   display: inline-block;
+  padding-left: 50px;
 }
 .counter-group:before,
 .counter-group:after {
