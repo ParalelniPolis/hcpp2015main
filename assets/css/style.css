@@ -11712,6 +11712,11 @@ html[xmlns] .slides {
     font-size: 85%;
   }
 }
+@media (max-width: 620px) {
+  .counter-group { padding-left: 15px; }
+  .counter-block { padding-right: 15px; }
+}
+
 @media (max-width: 480px) {
   .counter-block .counter {
     width: 61px;
