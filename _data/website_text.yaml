@@ -68,12 +68,12 @@ below_header:
             cz: |
                 Blackout - výpadek strategických zdrojů - nabývá stále širšího významu.
                 Vzhledem k propojenosti komunikačních sítí s energetickými, výrobními a organizačními složkami je
-                namístě vážně diskutovat o roli nových technologií a decentralizace v krizových
-                scénářích.
+                na místě vážně diskutovat o roli nových technologií a decentralizace (nejen) v krizových
+                scénářích. 
             eng: | 
                 Blackout - a failure of strategic resources - is exceeding into wider consequences. 
                 Due to the interconnectedness of communication, energy, production and organizational 
-                networks, we should seriously discuss the role of new technologies and decentralization in crisis 
+                networks, we should seriously discuss the role of new technologies and decentralization (not only) in crisis 
                 scenarios.
 
 
@@ -92,13 +92,13 @@ programme_sections:
                 cz: "VĚDA <br/>A TECHNOLOGIE"
                 eng: "Science and technologies"
             content:
-                cz: "3D tisk / drone biohacking / energy cellular"
+                cz: "3D tisk / drony biohacking / energy cellular"
                 eng: "3D printing / drone biohacking / energy cellular"
         -   title: 
                 cz: "SVOBODA <br/> A KRYPTOANARCHIE"
                 eng: "Freedom and cryptoanarchy"
             content:
-                cz: "cryptotechnologie IT security soukromí svoboda na internetu"
+                cz: "kryptotechnologie IT security soukromí svoboda na internetu"
                 eng: "cryptotechnologies cyber security privacy internet freedom"
         -   title: 
                 cz: "DECENTRALIZOVANÁ EKONOMIKA <br/> A KRYPTOMĚNY"
@@ -170,8 +170,8 @@ schedule:
                     cz: "Susanne Tarkowski"
                     eng: "Susanne Tarkowski"
                 desc:
-                    cz: "Projekt Bitnation"
-                    eng: "Bitnation project"
+                    cz: "Projekt Bitnation - univerzální přístup ke \"státním službám\""
+                    eng: "Bitnation project - universal  access to government services"
 
         -   columnA:
                 time: "13:30"
