@@ -348,8 +348,8 @@ ticket:
         cz: "Vstupenka<br>790kč"
         eng: "Ticket<br>790 CZK"
     button:
-        cz: "Již brzy"
-        eng: "Coming soon"
+        cz: "Zakoupit"
+        eng: "Buy now"
     text:
         cz: |
             Vstupenka je platná na celý kongresu s vyjímkou Fashon.stl, vstupenka bude v prodeji zvlášť.
