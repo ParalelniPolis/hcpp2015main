@@ -4,7 +4,11 @@ Vetsina textu je definovana v souboru [website_text.yaml](https://github.com/Par
 
 # Jak upravim text recnika ?
 
-Kazdy recnik ma zvlastni soubor ve slozce [_posts](https://github.com/ParalelniPolis/hcpp2015main/tree/gh-pages/_posts)
+* Kazdy recnik ma dva soubory ve slozce [_posts](https://github.com/ParalelniPolis/hcpp2015main/tree/gh-pages/_posts)
+* Jeden pro Ceskou verzi webu s ```_cz``` v nazvu a druhy bez pro Anglickou verzi
+* Napriklad soubor pro [Ceskou verzi](https://github.com/ParalelniPolis/hcpp2015main/blob/gh-pages/_posts/2015-08-28-cz_braun.md) a [Anglickou verzi](https://github.com/ParalelniPolis/hcpp2015main/blob/gh-pages/_posts/2015-08-28-braun.md) recnika Franka Brauna
+* Text vykreslovany na hlavni strance s fotkou recnika je definovany v sekci ```speakers``` v souboru [website_text.yaml](https://github.com/ParalelniPolis/hcpp2015main/blob/gh-pages/_data/website_text.yaml#L366)
+* Recnik ma take svuj zaznam v kalendari, opet v souboru [webiste_text.yaml](https://github.com/ParalelniPolis/hcpp2015main/blob/gh-pages/_data/website_text.yaml#L110)
 
 # Jak upravim HTML sablonu ?
 

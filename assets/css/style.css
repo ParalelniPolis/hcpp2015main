@@ -5361,7 +5361,7 @@ button:active {
   color: #ffffff;
 }
 .ct-sectionButton {
-  left: 50%;
+  left: 52%;
   margin-left: -100px;
   position: absolute;
   color: #ffffff;
@@ -5415,7 +5415,7 @@ button:active {
 .ct-sectionButton,
 .ct-scrollUpButton {
   text-align: center;
-  bottom: 47px;
+  bottom: 13px;
   text-transform: uppercase;
 }
 .ct-sectionButton .ct-sectionButton-circle,
@@ -7092,7 +7092,7 @@ fieldset[disabled] .form-group label:before {
   border-top: 10px solid #0002ff;
 }
 .ct-u-borderMotiveBottom {
-  border-bottom: 10px solid #0002ff;
+  border-bottom: 5px solid #0002ff;
 }
 .ct-u-backgroundWhite {
   background-color: #ffffff;
@@ -11605,6 +11605,7 @@ html[xmlns] .slides {
 }
 .counter-group {
   display: inline-block;
+  padding-left: 50px;
 }
 .counter-group:before,
 .counter-group:after {
@@ -11617,7 +11618,6 @@ html[xmlns] .slides {
 .counter-block {
   float: left;
   padding-right: 40px;
-  padding-left: 40px;
 }
 .counter-block .counter {
   position: relative;
@@ -11675,13 +11675,12 @@ html[xmlns] .slides {
 }
 @media (max-width: 992px) {
   .counter-block {
-    margin-right: 10px;
+     
   }
   .counter-block .counter {
     width: 120px;
     height: 100px;
     overflow: hidden;
-    font-weight: 700;
   }
   .counter-block .counter .number {
     font-size: 108px;
@@ -11696,7 +11695,7 @@ html[xmlns] .slides {
 }
 @media (max-width: 768px) {
   .counter-block {
-    margin-right: 8px;
+    
   }
   .counter-block .counter {
     width: 96px;
@@ -11713,6 +11712,20 @@ html[xmlns] .slides {
     font-size: 85%;
   }
 }
+@media (max-width: 620px) {
+  .counter-group { padding-left: 15px; }
+  .counter-block { padding-right: 15px; }
+    .counter-block .counter {
+    width: 61px;
+    height: 52px;
+  }
+  .counter-block .counter .number { 
+    font-size: 55px;
+    line-height: 50px;
+  }
+
+}
+
 @media (max-width: 480px) {
   .counter-block .counter {
     width: 61px;
@@ -12093,6 +12106,12 @@ img.mfp-img {
 }
 .mfp-gallery .mfp-image-holder .mfp-figure {
   cursor: pointer;
+}
+
+@media (max-width: 345px) {
+  .counter-block { padding-left: 15px; }
+  .counter-group { padding-left: 56px; }
+
 }
 @media screen and (max-width: 800px) and (orientation: landscape), screen and (max-height: 300px) {
   /**

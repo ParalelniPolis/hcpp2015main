@@ -13,12 +13,12 @@ main_menu:
 
     -   link: "#section1"
         text:
-            cz: "Téma kongresu"
-            eng: "Programme sections"
+            cz: "Téma"
+            eng: "Programme"
 
     -   link: "#section2"
         text:
-            cz: "Hosté kongresu"
+            cz: "Hosté"
             eng: "Speakers"
 
     -   link: "#section3"
@@ -58,22 +58,22 @@ below_header:
             cz: |
                 Smysl těchto nových technologií však není pouze v jejich aktuálním společenském a
                 ekonomickém prospěchu pro společnost - v budoucnu mohou sehrát klíčovou roli v
-                případě hluboké krize (ať už válečkého střetu, živelné pohromy, nastolení diktatury
+                případě hluboké krize (ať už válečného střetu, živelné pohromy, nastolení diktatury
                 nebo výpadku infrastruktury).
             eng: | 
-                The sense of new technologies not only in the current social and economic benefits - 
+                The sense of new technologies is not only in the current social and economic benefits - 
                 they may play a key role in the case of deep crisis in the future 
                 (whether war conflict, natural disasters, dictatorship or failure of infrastructure).
         -   htmlclass: "ct-fw-800"
             cz: |
                 Blackout - výpadek strategických zdrojů - nabývá stále širšího významu.
                 Vzhledem k propojenosti komunikačních sítí s energetickými, výrobními a organizačními složkami je
-                namístě vážně diskutovat o roli nových technologií a decentralizace v krizových
-                scénářích.
+                na místě vážně diskutovat o roli nových technologií a decentralizace (nejen) v krizových
+                scénářích. 
             eng: | 
                 Blackout - a failure of strategic resources - is exceeding into wider consequences. 
                 Due to the interconnectedness of communication, energy, production and organizational 
-                networks, we should seriously discuss the role of new technologies and decentralization in crisis 
+                networks, we should seriously discuss the role of new technologies and decentralization (not only) in crisis 
                 scenarios.
 
 
@@ -92,13 +92,13 @@ programme_sections:
                 cz: "VĚDA <br/>A TECHNOLOGIE"
                 eng: "Science and technologies"
             content:
-                cz: "3D tisk / drone biohacking / energy cellular"
+                cz: "3D tisk / drony biohacking / energy cellular"
                 eng: "3D printing / drone biohacking / energy cellular"
         -   title: 
                 cz: "SVOBODA <br/> A KRYPTOANARCHIE"
                 eng: "Freedom and cryptoanarchy"
             content:
-                cz: "cryptotechnologie IT security soukromí svoboda na internetu"
+                cz: "kryptotechnologie IT security soukromí svoboda na internetu"
                 eng: "cryptotechnologies cyber security privacy internet freedom"
         -   title: 
                 cz: "DECENTRALIZOVANÁ EKONOMIKA <br/> A KRYPTOMĚNY"
@@ -170,8 +170,8 @@ schedule:
                     cz: "Susanne Tarkowski"
                     eng: "Susanne Tarkowski"
                 desc:
-                    cz: "Projekt Bitnation"
-                    eng: "Bitnation project"
+                    cz: "Projekt Bitnation - univerzální přístup ke \"státním službám\""
+                    eng: "Bitnation project - universal  access to government services"
 
         -   columnA:
                 time: "13:30"
@@ -333,12 +333,12 @@ schedule:
                     eng: "Marek Palatinus"
                 desc:
                     cz: "Decentralizovaný konsenzus"
-                    eng: "decentralised consensus"
+                    eng: "Decentralised consensus"
             columnB:
                 time: "20:00"
                 title:
-                    cz: "Fassion STL"
-                    eng: "Fassion STL"
+                    cz: "Fashion STL"
+                    eng: "Fashion STL"
                 desc:
                     cz: ""
                     eng: ""
@@ -352,14 +352,15 @@ ticket:
         eng: "Buy now"
     text:
         cz: |
-            Vstupenka je platná na celý kongresu s vyjímkou Fashon.stl, vstupenka bude v prodeji zvlášť.
-            V ceně vstupenky je Bitcoinová platební karta a jedna káva zdarma.
-            Vstupenky jsou v předpordeji v kavárně Paralelní polis a online první týden v září.
-            Zaváděcí cena je 790kč placená v Bitcoinech.
+            Vstupenka je platná na celý kongres s výjimkou Fashion.stl, kde bude vstupenka v prodeji zvlášť.
+            V ceně vstupenky je bitcoinová platební karta a jedna káva zdarma.
+            Vstupenky jsou v předprodeji v kavárně Paralelní Polis a online první týden v září.
+            Zaváděcí cena je 790 Kč placená v Bitcoinech.
         eng: |
             Ticket is valid for all Congress events with the exception of Fashion.stl show (3. 10. - in La Fabrika, tickets will be sold separately).
             The price includes Paralelní Polis Bitcoin card with 1 free coffee.
-            Tickets available in Bitcoin Coffee Paralelní polis and online in the first week of September. Initial price for limited number of tickets is 790 CZK paid in BTC.
+            Tickets are available in Bitcoin Coffee Paralelní polis and online in the first week of September. Initial price for limited number of tickets is CZK 790 in BTC.
+
 
 
 
@@ -382,7 +383,7 @@ speakers:
 
         -   name: "Paul Rosenberg (USA)"
             link: "rosenberg"
-            description: "founder of Cryptohippie, author of the Free-Man's Perspective"
+            description: "Founder of Cryptohippie, author of the Free-Man's Perspective"
 
         -   name: "Jasper Philipp Kalwies (GER)"
             link: "kalwies"
@@ -398,7 +399,7 @@ speakers:
 
         -   name: "Juraj Bednar (SK)"
             link: "bednar"
-            description: "biohacker, cryptoanarchist, security developer"
+            description: "Biohacker, cryptoanarchist, security developer"
 
         -   name: "Smuggler (?)"
             link: "smuggler"
@@ -438,7 +439,7 @@ speakers:
 
         -   name: "Tomáš Marada (CZ)"
             link: "marada"
-            description: "Tajemník Karla Janečka"
+            description: "programátor společnosti Ness Technologies, asistent na Vrije University, Amsterdam"
 
 
 
