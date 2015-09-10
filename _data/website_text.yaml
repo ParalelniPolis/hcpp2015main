@@ -445,7 +445,25 @@ speakers:
             link: "krotofil"
             description: "popis"
 
+        -   name: "Martin Baroš (CZ)"
+            link: "baros"
+            description: "Dedicated SW developer and assiduous project manager"
 
+        -   name: "Philip Hilm (CZ)"
+            link: "himl"
+            description: "senior AI researcher and programmer at GoodAI"
+
+        -   name: "Tomáš Zaťko (SK)"
+            link: "woody"
+            description: "Web application security and entrepreneur"
+
+        -   name: "Sam Nemeth (NL)"
+            link: "nemeth"
+            description: "media professional"
+
+        -   name: "Jindřich Ráftl (CZ)"
+            link: "raftl"
+            description: "Architect/Researcher/Artist"
 
 
 
