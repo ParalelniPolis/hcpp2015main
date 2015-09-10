@@ -1,0 +1,12 @@
+---
+layout: speaker
+permalink: speakers/krotofil.html
+content_language: eng
+speaker_name: "Marina Krotofil"
+speaker_description: ""
+speaker_presentation: ""
+speaker_when: ""
+speaker_where: ""
+---
+
+popis
