@@ -4,9 +4,12 @@ permalink: speakers/eng/pinkponyexpress.html
 content_language: eng
 speaker_name: "Pink Pony Express (NL)"
 speaker_description: "Art group, design collective"
-speaker_presentation: ""
+speaker_presentation: "Graffiti and rainbows – hacking in public space"
 speaker_when: "Friday 17:00"
 speaker_where: ""
 ---
 
-Pink Pony Express is a design collective from Amsterdam. Projects of Ponnies are concerned in conflict or friction environments. Following a period of long-term research that includes living and working on these locations, they reformulate the experience in a visual form that helps redefine the situation, creates a shift in the current perspective and often provokes positive change.
+Pink Pony Express is a multi-disciplinary design collective, based in The Netherlands. Their work is inspired by how government and society interface with one another – and the friction this can create.
+The collective will present two projects about hacking in public space, one analog and one digital. 
+For the project Spuiten of Hakken, the collective works together with a master stone carver to immortalise graffiti. Their project Raduga is an algorithm that predicts rainbows over Russian territories, in response to Putin's dictatorial regime.
+http://www.pinkponyexpress.nl/
