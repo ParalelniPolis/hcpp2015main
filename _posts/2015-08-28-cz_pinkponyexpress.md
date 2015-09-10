@@ -3,8 +3,8 @@ layout: speaker
 permalink: speakers/pinkponyexpress.html
 content_language: cz
 speaker_name: "Pink Pony Express (NL)"
-speaker_description: "Umělecká skupina"
-speaker_presentation: ""
+speaker_description: "Nizozemská dívčí umělecká skupina"
+speaker_presentation: "Graffiti a duha – hacking ve veřejném prostoru"
 speaker_when: "Pátek 17:00"
 speaker_where: ""
 ---
