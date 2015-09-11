@@ -10,4 +10,4 @@ speaker_when: ""
 speaker_where: ""
 ---
 
-popis
+Konzultantka IT bezpečnosti, výzkumný pracovník 
