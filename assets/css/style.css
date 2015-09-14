@@ -8268,6 +8268,24 @@ video {
   .ct-gallery.ct-gallery--col4 .ct-gallery-item.ct-gallery-item--masonry,
   .ct-gallery.ct-gallery--col3 .ct-gallery-item.ct-gallery-item--masonry,
   .ct-gallery.ct-gallery--col2 .ct-gallery-item.ct-gallery-item--masonry {
+    width: 50%;
+  }
+  .ct-gallery.ct-gallery--col5 .ct-gallery-item.ct-gallery-item--masonry.ct-gallery-item--wide,
+  .ct-gallery.ct-gallery--col4 .ct-gallery-item.ct-gallery-item--masonry.ct-gallery-item--wide,
+  .ct-gallery.ct-gallery--col3 .ct-gallery-item.ct-gallery-item--masonry.ct-gallery-item--wide,
+  .ct-gallery.ct-gallery--col2 .ct-gallery-item.ct-gallery-item--masonry.ct-gallery-item--wide,
+  .ct-gallery.ct-gallery--col5 .ct-gallery-item.ct-gallery-item--masonry.ct-gallery-item--big,
+  .ct-gallery.ct-gallery--col4 .ct-gallery-item.ct-gallery-item--masonry.ct-gallery-item--big,
+  .ct-gallery.ct-gallery--col3 .ct-gallery-item.ct-gallery-item--masonry.ct-gallery-item--big,
+  .ct-gallery.ct-gallery--col2 .ct-gallery-item.ct-gallery-item--masonry.ct-gallery-item--big {
+    width: 50%;
+  }
+}
+@media (max-width: 468px) {
+  .ct-gallery.ct-gallery--col5 .ct-gallery-item.ct-gallery-item--masonry,
+  .ct-gallery.ct-gallery--col4 .ct-gallery-item.ct-gallery-item--masonry,
+  .ct-gallery.ct-gallery--col3 .ct-gallery-item.ct-gallery-item--masonry,
+  .ct-gallery.ct-gallery--col2 .ct-gallery-item.ct-gallery-item--masonry {
     width: 100%;
   }
   .ct-gallery.ct-gallery--col5 .ct-gallery-item.ct-gallery-item--masonry.ct-gallery-item--wide,
