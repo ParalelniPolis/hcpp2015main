@@ -9,4 +9,4 @@ speaker_when: "Pátek 15:00"
 speaker_where: ""
 ---
 
-Cypherpunker od poloviny 1990. Provozovatel anon remailery, Tore uzlů. Autor knih: Druhý svět - kniha o strategii, Poklad, kterým je soukromí, RuleScaping a Aristokraté akce. Obecně … autor. Přispívá na shadowlife.cc. Patří ke skupině osob, která celosvětově rozšířila PGP šifrovací protokol. Extrémní ochránce osobních údajů se zájmem o podivnost.
+Cypherpunker od poloviny 1990. Provozovatel anonymních remailerů a Tore uzlů. Autor knih: Druhý svět - kniha o strategii, Poklad, kterým je soukromí, RuleScaping a Aristokraté akce. Obecně… autor. Přispívá na shadowlife.cc. Patří ke skupině osob, která celosvětově rozšířila PGP šifrovací protokol. Extrémní ochránce osobních údajů se zájmem o podivnosti.
