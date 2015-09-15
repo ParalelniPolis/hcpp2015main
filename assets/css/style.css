@@ -6536,7 +6536,7 @@ body.ct-navbar-isTransparent-toInverse .ct-pageWrapper {
   left: 0;
 }
 .form-group .form-control:valid ~ label {
-  background-color: #00c680;
+  background-color: #0002FF;
 }
 .form-group .form-control:valid ~ label:before {
   border-color: transparent #00603e transparent transparent;
@@ -6671,7 +6671,7 @@ fieldset[disabled] .form-group label:before {
   color: #ffffff !important;
 }
 .has-success label {
-  background-color: #00c680 !important;
+  background-color: blue !important;
 }
 .has-success label:before {
   border-color: transparent #00603e transparent transparent !important;
@@ -7984,8 +7984,8 @@ video {
   color: #ffffff;
 }
 .nav-tabs > li.ct-navTabs--success > a {
-  background-color: #00c680;
-  border-color: #00c680;
+  background-color: blue;
+  border-color: blue;
   color: #ffffff;
 }
 .nav-tabs > li.ct-navTabs--success.active > a,
