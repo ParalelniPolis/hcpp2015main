@@ -136,8 +136,8 @@ schedule:
                     cz: "Wireless Warrior"
                     eng: "Wireless Warrior"
                 desc:
-                    cz: ""
-                    eng: ""
+                    cz: "Tajné radio vs. špehovací služby"
+                    eng: "Covert Radio vs. the Spy Agencies"
 
         -   columnB:
                 time: "11:00"
@@ -213,8 +213,8 @@ schedule:
                     cz: "Kristov Atlas"
                     eng: "Kristov Atlas"
                 desc:
-                    cz: ""
-                    eng: ""
+                    cz: "Open Bitcoin Privacy Project"
+                    eng: "Open Bitcoin Privacy Project"
             columnC:
                 time: "14:00"
                 title:
@@ -280,8 +280,8 @@ schedule:
                     cz: "Pony Pink Express"
                     eng: "Pony Pink Express"
                 desc:
-                    cz: ""
-                    eng: ""
+                    cz: "Graffiti a duhy - hacking ve veřejném prostoru"
+                    eng: "Graffiti and rainbows – hacking in public space"
 
             columnC:
                 time: "17:00"
@@ -306,8 +306,8 @@ schedule:
                     cz: "Fashion STL"
                     eng: "Fashion STL"
                 desc:
-                    cz: ""
-                    eng: ""
+                    cz: "3D tištěná módní show"
+                    eng: "3D printed fashion show"
             columnC:
                 time: "18:00"
                 title:
@@ -323,8 +323,8 @@ schedule:
                     cz: "Bitnik"
                     eng: "Bitnik"
                 desc:
-                    cz: ""
-                    eng: ""
+                    cz: "Random Darknet Shopper"
+                    eng: "Random Darknet Shopper"
 
         -   columnA:
                 time: "20:00"
@@ -340,13 +340,13 @@ schedule:
                     cz: "Lyn Ulbricht"
                     eng: "Lyn Ulbricht"
                 desc:
-                    cz: ""
-                    eng: ""
+                    cz: "Případ Silk Road: co se stalo, co bude dál a proč na tom záleží"
+                    eng: "The Silk Road Case: What happened, What’s next, Why it Matters"
 
 ticket:
     title:
-        cz: "Vstupenka<br>790 KČ"
-        eng: "Ticket<br>790 CZK"
+        cz: "Vstupenka<br>790 KČ (BTC)"
+        eng: "Ticket<br>790 CZK (BTC)"
     button:
         cz: "Zakoupit"
         eng: "Buy now"
