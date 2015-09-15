@@ -260,11 +260,11 @@ schedule:
             columnB:
                 time: "16:00"
                 title:
-                    cz: "Speciální host"
+                    cz: "Speciální tajný host"
                     eng: "Special secret guest"
                 desc:
-                    cz: ""
-                    eng: ""
+                    cz: "Identitu neodtajňujeme z bezpečnostních důvodů"
+                    eng: "We do not uncover identity due to security reasons"
             columnC:
                 time: "16:00"
                 title:
