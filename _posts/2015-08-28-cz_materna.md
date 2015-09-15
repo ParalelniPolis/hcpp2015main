@@ -9,3 +9,4 @@ speaker_when: "Pátek 16:00"
 speaker_where: ""
 ---
 
+Výzkumník, softwarový inženýr s vášní pro náročné problémy, především z oblasti získávání informací a zpracování přirozeného jazyka.
