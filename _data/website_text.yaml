@@ -184,11 +184,11 @@ schedule:
             columnB:
                 time: "13:00"
                 title:
-                    cz: "Michal Saamo Paal"
-                    eng: "Michal Saamo Paal"
+                    cz: "Julia Tourianski"
+                    eng: "Julia Tourianski"
                 desc:
-                    cz: "Drony dnes a zítra"
-                    eng: "Drones today and tomorrow"
+                    cz: "Sledovaný člověk bývá zřídkakdy upřímný"
+                    eng: "The Observed Man is Seldom Sincere"
             columnC:
                 time: "13:00"
                 title:
