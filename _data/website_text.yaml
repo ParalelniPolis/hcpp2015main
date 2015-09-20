@@ -468,6 +468,9 @@ speakers:
             link: "atlas"
             description: "Security Consultant, Privacy Researcher, Crypto-currency Auditor and Bitcoin Speaker"
 
+        -   name: "Pravda o trenkách"
+            link: "trenky"
+            description: ""
 
 
 speakers_page:
