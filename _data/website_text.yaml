@@ -483,7 +483,52 @@ speakers_page:
 
 
 
+practical_info:
+    title:
+        cz: "Praktické informace"
+        eng: "Practical Info"
+    info:
+        -   title: 
+                cz: "Místo konání"
+                eng: "venue"
+            content:
+                cz: |
+                    HCPP 2015 se uskuteční v Paralelní Polis.
+                    Prezentace budou probíhat v prvním poschodí (prostory Paper Hub přetvořené v konferenční místnost) a v druhém poschodí, kde se nachází naše obvyklá konferenční místnost - Institut Kryptoanarchie.
+                    Během kongresu bude Polis otevřena od 9:00 do brzkých ranních hodin.
+                eng: |
+                    HCPP2015 will take place in Paralelní Polis. Presentations will be held on the first floor (premises of Paper Hub transformed into a conference room) and on the second floor - our normal conference room called Institute of Cryptoanarchy. 
+                    During the days of the Congress Polis will be open from 9:00 AM until... some early morning hour.
+        -   title: 
+                cz: "Jazyk"
+                eng: "Language"
+            content:
+                cz: |
+                    Pracovním jazykem kongresu bude angličtina.
+                    Některé prezentace ze sekce „Lighting Talks“ proběhnou v češtině.
+                eng: |
+                    English is the working language of the congress. Some presentations from the section "lightning talks" will be held in czech.
+
+        -   title: 
+                cz: "Bitcoinová karta"
+                eng: "Bitcoin Card"
+            content:
+                cz: |
+                    Každý účastník dostane NFC kartu (bitcoinová karta) kam si bude moci uložit bitcoiny, které se dají  jednoduše zakoupit v našich bitcoinových bankomatech.
+                    Bitcoiny můžete použít k zakoupení jídla a pití v Bitcoin Coffee.
+                eng: |
+                    Every participant receives an NFC card (Bitcoin card) where he can save bitcoins which are easy to buy in the two bitcoins ATMs in Paralelní Polis. 
+                    You can use the bitcoins to buy food and drinks in Bitcoin Caffee. Please note that Bitcoin Coffee is a strictly Bitcoin only establishment and we do not accept Czech crowns.
 
 
-
+        -   title: 
+                cz: "Catering"
+                eng: "Catering"
+            content:
+                cz: |
+                    O celodenní možnost zakoupit si jídlo a nápoje se postará Bitcoin Coffee a 4fresh Catering.
+                    Znovu připomínáme, že přijímáme pouze bitcoiny.
+                eng: |
+                    Bitcoin Coffee and 4fresh Catering will provide all day long food and beverages. 
+                    Again only bitcoins are accepted. 
 

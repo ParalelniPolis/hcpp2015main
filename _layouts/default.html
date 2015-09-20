@@ -351,7 +351,7 @@
 
 
     <section id="section5" class="section">
-        <section class="ct-u-backgroundDarkGray2 ct-u-borderBoth ct-u-paddingBoth70">
+        <section class="ct-u-backgroundDarkGray2 ct-u-paddingBoth70">
             <div class="container">
                 <div class="row">
                     <div class="col-md-4 ct-u-paddinfTop70">
@@ -359,7 +359,9 @@
                             <h3 class="text-uppercase ct-fw-400">
                                 {{site.data.website_text.ticket.title[page.content_language]}}
                             </h3>
-                            <a href="http://tickets.hcpp.cz/" class="btn btn-lg btn-default ct-btn--rounded text-uppercase">{{site.data.website_text.ticket.button[page.content_language]}}</a>
+                            <a href="http://tickets.hcpp.cz/" class="btn btn-lg btn-default ct-btn--rounded text-uppercase">
+                                {{site.data.website_text.ticket.button[page.content_language]}}
+                            </a>
                         </header>
                     </div>
                     <div class="col-md-8 ct-u-paddinfTop70">
@@ -373,6 +375,45 @@
             </div>
         </section>
     </section>
+
+
+
+    <section id="section4" class="section ct-u-paddingBoth40 ct-u-backgroundDarkGray3">
+        <div class="container">
+            <header class="ct-pageSectionHeader ct-js-wayPoint">
+                <h2 class="ct-fw-300 text-uppercase text-center">
+                    {{site.data.website_text.practical_info.title[page.content_language]}}
+                </h2>
+            </header>
+        </div>
+    </section>
+
+
+    {% for info in site.data.website_text.practical_info.info %}
+    <section class="ct-u-paddingBoth30">
+        <div class="container">
+            <div class="row">
+
+            
+
+                <div class="col-sm-4">
+                    <header class="ct-pageSectionHeader">
+                        <h3 class="text-lowercase ct-fw-400">
+                            {{ info.title[page.content_language] }}
+                        </h3>
+                    </header>
+                </div>
+                <div class="col-sm-8">
+                    <p>
+                            {{ info.content[page.content_language] }}
+                    </p>
+                </div>
+
+            
+            </div>
+        </div>
+    </section>
+    {% endfor %}
 
 
 
