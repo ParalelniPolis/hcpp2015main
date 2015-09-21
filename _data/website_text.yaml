@@ -131,7 +131,7 @@ schedule:
                 desc:
                     cz: "Dróny jsou všude"
                     eng: "Drones are everywhere"
-          -   columnB:
+        -   columnB:
                 time: "10:00"
                 where: "Institut"
                 title:
