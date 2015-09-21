@@ -131,6 +131,15 @@ schedule:
                 desc:
                     cz: "Dróny jsou všude"
                     eng: "Drones are everywhere"
+          -   columnB:
+                time: "10:00"
+                where: "Institut"
+                title:
+                    cz: "Juraj Bednár (SK)"
+                    eng: "Juraj Bednár (SK)"
+                desc:
+                    cz: "Decentralize!"
+                    eng: "Decentralize!"
             columnC:
                 time: "10:00"
                 title:
