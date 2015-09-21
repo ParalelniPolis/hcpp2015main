@@ -125,11 +125,11 @@ schedule:
         -   columnB:
                 time: "10:00"
                 title:
-                    cz: "TBC"
-                    eng: "TBC"
+                    cz: "Michal Paal (SK)"
+                    eng: "Michal Paal (SK)"
                 desc:
-                    cz: ""
-                    eng: ""
+                    cz: "Dróny jsou všude"
+                    eng: "Drones are everywhere"
             columnC:
                 time: "10:00"
                 title:
