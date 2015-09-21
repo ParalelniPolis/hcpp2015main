@@ -436,10 +436,6 @@ speakers:
             link: "jansa"
             description: "Contemporary artist"
 
-        -   name: "Tomáš Marada (CZ)"
-            link: "marada"
-            description: "former programmer of Ness Technologies, assistant on Vrije University, Amsterdam"
-
         -   name: "Marina Krotofil (GER)"
             link: "krotofil"
             description: "Research Assistant at Hamburg University of Technology (TUHH)"
