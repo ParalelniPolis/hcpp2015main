@@ -124,12 +124,20 @@ schedule:
 
         -   columnB:
                 time: "10:00"
-                title:
-                    cz: "TBC"
-                    eng: "TBC"
-                desc:
-                    cz: ""
-                    eng: ""
+                title: "HUB"
+                    cz: "Michal Paal (SK)"
+                    eng: "Michal Paal (SK)"
+                desc: CTO at DIGMIA s.r.o.
+                    cz: "Drones are everywhere"
+                    eng: "Dróny jsou všude"
+         -   columnB:
+                time: "10:00"
+                title: "HUB"
+                    cz: "Michal Paal (SK)"
+                    eng: "Michal Paal (SK)"
+                desc: CTO at DIGMIA s.r.o.
+                    cz: "Drones are everywhere"
+                    eng: "Dróny jsou všude"
             columnC:
                 time: "10:00"
                 title: 
@@ -139,7 +147,7 @@ schedule:
                     cz: "Svoboda"
                     eng: "Freedom"
 
-        -   columnB: 
+        -   columnB:
                 time: "11:00"
                 title: "HUB"
                     cz: "Smuggler"
