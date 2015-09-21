@@ -124,6 +124,7 @@ schedule:
 
         -   columnB:
                 time: "10:00"
+                where: "HUB"
                 title:
                     cz: "Michal Paal (SK)"
                     eng: "Michal Paal (SK)"
