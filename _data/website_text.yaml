@@ -438,10 +438,6 @@ speakers:
             link: "materna"
             description: "Head of research at seznam.cz"
 
-        -   name: "Adam Jech (CZ)"
-            link: "jech"
-            description: "Co-founder of MakersLab and graphic designer"
-
         -   name: "Janez Jansa (SLO)"
             link: "jansa"
             description: "Contemporary artist"
