@@ -140,21 +140,21 @@ schedule:
                     eng: "Dróny jsou všude"
             columnC:
                 time: "10:00"
-                title: 
-                    cz: "Joerg Platzer"
-                    eng: "Joerg Platzer"
+                title:
+                    cz: "Wireless Warrior"
+                    eng: "Wireless Warrior"
                 desc:
-                    cz: "Svoboda"
-                    eng: "Freedom"
+                    cz: "Tajné radio vs. špehovací služby"
+                    eng: "Covert Radio vs. the Spy Agencies"
 
         -   columnB:
                 time: "11:00"
-                title: "HUB"
-                    cz: "Smuggler"
-                    eng: "Smuggler"
+                title:
+                    cz: "Janez Jansa"
+                    eng: "Janez Jansa"
                 desc:
-                    cz: "Bezejmenný, beztvářný: Filozofie a historie soukromí a esence anonymity."
-                    eng: "No name, no face: History and philosophy of privacy and anonymity"
+                    cz: "Name Readymade - změna identity a vlastnictví úředních dokumentů"
+                    eng: "Name Readymade - change of identity and ownership of official documents"
             columnC:
                 time: "11:00"
                 title:
