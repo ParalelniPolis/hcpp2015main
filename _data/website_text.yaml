@@ -124,20 +124,12 @@ schedule:
 
         -   columnB:
                 time: "10:00"
-                title: "HUB"
-                    cz: "Michal Paal (SK)"
-                    eng: "Michal Paal (SK)"
-                desc: CTO at DIGMIA s.r.o.
-                    cz: "Drones are everywhere"
-                    eng: "Dróny jsou všude"
-         -   columnB:
-                time: "10:00"
-                title: "HUB"
-                    cz: "Michal Paal (SK)"
-                    eng: "Michal Paal (SK)"
-                desc: CTO at DIGMIA s.r.o.
-                    cz: "Drones are everywhere"
-                    eng: "Dróny jsou všude"
+                title:
+                    cz: "TBC"
+                    eng: "TBC"
+                desc:
+                    cz: ""
+                    eng: ""
             columnC:
                 time: "10:00"
                 title:
@@ -147,7 +139,7 @@ schedule:
                     cz: "Tajné radio vs. špehovací služby"
                     eng: "Covert Radio vs. the Spy Agencies"
 
-        -   columnB:
+        -   columnB: 
                 time: "11:00"
                 title:
                     cz: "Janez Jansa"
