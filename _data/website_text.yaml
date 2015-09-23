@@ -385,6 +385,14 @@ speakers:
         -   name: "Susanne Tarkowski Tempelhof (GB)"
             link: "tempelhof"
             description: "BITNATION Founder and CEO"
+            
+        -   name: "Julia Tourianski (CAN)"
+            link: "tourianski"
+            description: "Anti-state propagandist preaching the Bitcoin gospel, Brave The Wolrd <i|"
+
+        -   name: "Tatiana Moroz (USA)"
+            link: "moroz"
+            description: "Singer-songwriter, Founder of Crypto Media Hub, Creator or 1st artist coin TatianaCoin"
 
         -   name: "Slush - Marek Palatinus (CZ)"
             link: "palatinus"
@@ -401,6 +409,10 @@ speakers:
         -   name: "bitnik.org"
             link: "bitnik"
             description: "Art Group Zurich/London"
+
+        -   name: "Kristov Atlas (USA)"
+            link: "atlas"
+            description: "Security Consultant, Privacy Researcher, Crypto-currency Auditor and Bitcoin Speaker"
 
         -   name: "Michal Paal (SK)"
             link: "paal"
@@ -465,18 +477,6 @@ speakers:
         -   name: "Jindřich Ráftl (CZ)"
             link: "raftl"
             description: "Architect, Researcher and Artist"
-            
-        -   name: "Julia Tourianski (CAN)"
-            link: "tourianski"
-            description: "Anti-state propagandist preaching the Bitcoin gospel, Brave The Wolrd <i|"
-
-        -   name: "Tatiana Moroz (USA)"
-            link: "moroz"
-            description: "Singer-songwriter, Founder of Crypto Media Hub, Creator or 1st artist coin TatianaCoin"
-
-        -   name: "Kristov Atlas (USA)"
-            link: "atlas"
-            description: "Security Consultant, Privacy Researcher, Crypto-currency Auditor and Bitcoin Speaker"
 
         -   name: "Pravda o trenkách"
             link: "trenky"
