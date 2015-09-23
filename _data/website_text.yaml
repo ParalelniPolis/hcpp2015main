@@ -465,6 +465,14 @@ speakers:
         -   name: "Jindřich Ráftl (CZ)"
             link: "raftl"
             description: "Architect, Researcher and Artist"
+            
+        -   name: "Julia Tourianski (CAN)"
+            link: "tourianski"
+            description: "Anti-state propagandist preaching the Bitcoin gospel, Brave The Wolrd <i|"
+
+        -   name: "Tatiana Moroz (USA)"
+            link: "moroz"
+            description: "Singer-songwriter, Founder of Crypto Media Hub, Creator or 1st artist coin TatianaCoin"
 
         -   name: "Kristov Atlas (USA)"
             link: "atlas"
