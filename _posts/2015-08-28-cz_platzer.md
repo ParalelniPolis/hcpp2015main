@@ -2,7 +2,7 @@
 layout: speaker
 permalink: speakers/platzer.html
 content_language: cz
-speaker_name: "Joarg Platzer (GER)"
+speaker_name: "Joerg Platzer (GER)"
 speaker_description: "Cryptoanarchist and aspiring cypherpunk"
 speaker_presentation: ""
 speaker_when: "Pátek 18:00"
