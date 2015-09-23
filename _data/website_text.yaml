@@ -98,8 +98,8 @@ programme_sections:
                 cz: "SVOBODA <br/> A KRYPTOANARCHIE"
                 eng: "Freedom and cryptoanarchy"
             content:
-                cz: "kryptotechnologie IT security soukromí svoboda na internetu"
-                eng: "cryptotechnologies cyber security privacy internet freedom"
+                cz: "kryptotechnologie IT security / soukromí svoboda na internetu"
+                eng: "cryptotechnologies cyber security / privacy internet freedom"
         -   title: 
                 cz: "DECENTRALIZOVANÁ EKONOMIKA <br/> A KRYPTOMĚNY"
                 eng: "Decetralised economy and cryptocurrencies"
@@ -211,8 +211,8 @@ schedule:
         -   columnA:
                 time: "14:00"
                 title:
-                    cz: "Juraj Bednar"
-                    eng: "Juraj Bednar"
+                    cz: "Juraj Bednár"
+                    eng: "Juraj Bednár"
                 desc:
                     cz: "Přehled decentralizovaných řešení bežných problému na Internetu"
                     eng: "Overview of decentralised solutions of common problems on the Internet"
@@ -224,7 +224,7 @@ schedule:
                     eng: "Kristov Atlas"
                 desc:
                     cz: "Na cestě ke kolapsu kryptoměn? Modelování útoků na princip zastupitelnosti a protiopatření"
-                    eng: "The Road to Crypto-Currency Collapse? Modeling Fungibility Attacks, and Countermeasures"
+                    eng: "The Road to Crypto-Currency Collapse? Modeling Fungibility Attacks and Countermeasures"
             columnC:
                 time: "14:00"
                 title:
@@ -248,7 +248,7 @@ schedule:
                     cz: "Inne Poppe"
                     eng: "Inne Poppe"
                 desc:
-                    cz: "Život mezi hackingem a uměním. Založení ateliéru Hackingu na umělecké akademii a projekt Crypto Design Challenge "
+                    cz: "Život mezi hackingem a uměním. Založení ateliéru hackingu na umělecké akademii a projekt Crypto Design Challenge "
                     eng: "Life between hacking and art. Establishing hacking department at Art Academy and Crypto Desing Challenge project"
             columnC:
                 time: "15:00"
@@ -273,8 +273,8 @@ schedule:
                     cz: "Speciální tajný host"
                     eng: "Special secret guest"
                 desc:
-                    cz: "Identitu neodtajňujeme z bezpečnostních důvodů"
-                    eng: "We do not uncover identity due to security reasons"
+                    cz: "Identitu neodtajňujeme z bezpečnostních důvodů."
+                    eng: "We do not uncover identity due to security reasons."
             columnC:
                 time: "16:00"
                 title:
@@ -364,11 +364,11 @@ ticket:
         cz: |
             790 KČ (v BTC) - Vstupenka je platná na celý kongres s výjimkou Fashion.stl. V ceně vstupenky je bitcoinová platební karta a jedna káva zdarma. <br>
             890 KČ (v BTC) - Vstupenka je platná na celý kongres VČETNĚ Fashion.stl. V ceně vstupenky je bitcoinová platební karta a jedna káva zdarma. <br>
-            4500 KČ (v BTC) - VIP Vstupenka na všechny akce kongresu, plakát, tričko, káva, láhev vína Autentic, rezervace místa, vstup na přehlídku Fashion STL s doprovodem jedné osoby.<br>
+            4500 KČ (v BTC) - VIP Vstupenka na všechny akce kongresu, plakát, tričko, káva, láhev vína Autentic, rezervace místa, vstup na přehlídku Fashion.stl s doprovodem jedné osoby.<br>
         eng: |
             790 CZK (in BTC) - Ticket is valid for all Congress events with the exception of Fashion.stl show. Includes Paralelní Polis Bitcoin card with 1 free coffee. <br>
             890 CZK (in BTC) - Ticket is valid for all Congress events INCLUDING the Fashion.stl show. Includes Paralelní Polis Bitcoin card with 1 free coffee. <br>
-            4500 CZK (in BTC ) - VIP ticket to all events, poster, T-shirt, free coffee, a bottle of wine Autentic,  place reservation, free admission to the fashion show Fashion STL accompanied by one person.<br>
+            4500 CZK (in BTC ) - VIP ticket to all events, poster, T-shirt, free coffee, a bottle of wine Autentic,  place reservation, free admission to the fashion show Fashion.stl accompanied by one person.<br>
 
 
 
@@ -388,7 +388,7 @@ speakers:
             
         -   name: "Julia Tourianski (CAN)"
             link: "tourianski"
-            description: "Anti-state propagandist preaching the Bitcoin gospel, Brave The Wolrd <i|"
+            description: "Anti-state propagandist preaching the Bitcoin gospel, Brave The World <i|"
 
         -   name: "Tatiana Moroz (USA)"
             link: "moroz"
@@ -404,7 +404,7 @@ speakers:
 
         -   name: "Jasper Philipp Kalwies (GER)"
             link: "kalwies"
-            description: "Anarcho-capitalist, entrepreneur and organizer of a largest libertarian conference in Germany"
+            description: "Anarcho-capitalist, entrepreneur and organizer of the largest libertarian conference in Germany"
 
         -   name: "bitnik.org"
             link: "bitnik"
@@ -418,7 +418,7 @@ speakers:
             link: "paal"
             description: "CTO at DIGMIA s.r.o."
 
-        -   name: "Juraj Bednar (SK)"
+        -   name: "Juraj Bednár (SK)"
             link: "bednar"
             description: "Biohacker, cryptoanarchist and security developer"
 
@@ -448,7 +448,7 @@ speakers:
 
         -   name: "Jiří Materna (CZ)"
             link: "materna"
-            description: "Head of research at seznam.cz"
+            description: "Head of research at Seznam.cz"
 
         -   name: "Janez Jansa (SLO)"
             link: "jansa"
@@ -504,13 +504,13 @@ practical_info:
         -   title: 
                 cz: "Místo konání"
                 eng: "venue"
-            content:
+            content: 
                 cz: |
                     HCPP 2015 se uskuteční v Paralelní Polis.
-                    Prezentace budou probíhat v prvním poschodí (prostory Paper Hub přetvořené v konferenční místnost) a v druhém poschodí, kde se nachází naše obvyklá konferenční místnost - Institut Kryptoanarchie.
+                    Prezentace budou probíhat v prvním poschodí (prostory Paper Hub přetvořené v konferenční místnost) a v druhém poschodí, kde se nachází náš obvyklý konferenční sál - Institut Kryptoanarchie.
                     Během kongresu bude Polis otevřena od 9:00 do brzkých ranních hodin.
                 eng: |
-                    HCPP2015 will take place in Paralelní Polis. Presentations will be held on the first floor (premises of Paper Hub transformed into a conference room) and on the second floor - our normal conference room called Institute of Cryptoanarchy. 
+                    HCPP 2015 will take place in Paralelní Polis. Presentations will be held on the first floor (premises of Paper Hub transformed into a conference room) and on the second floor - our normal conference room called Institute of Cryptoanarchy. 
                     During the days of the Congress Polis will be open from 9:00 AM until... some early morning hour.
         -   title: 
                 cz: "Jazyk"
@@ -518,20 +518,20 @@ practical_info:
             content:
                 cz: |
                     Pracovním jazykem kongresu bude angličtina.
-                    Některé prezentace ze sekce „Lighting Talks“ proběhnou v češtině.
+                    Některé prezentace ze sekce „Lightning Talks“ proběhnou v češtině.
                 eng: |
-                    English is the working language of the congress. Some presentations from the section "lightning talks" will be held in czech.
+                    English is the working language of the Congress. Some presentations from the section "Lightning Talks" will be held in Czech.
 
         -   title: 
                 cz: "Bitcoinová karta"
                 eng: "Bitcoin Card"
             content:
                 cz: |
-                    Každý účastník dostane NFC kartu (bitcoinová karta) kam si bude moci uložit bitcoiny, které se dají  jednoduše zakoupit v našich bitcoinových bankomatech.
+                    Každý účastník dostane NFC kartu (bitcoinová karta), kam si bude moci uložit bitcoiny, které se dají jednoduše zakoupit v našich bitcoinových bankomatech.
                     Bitcoiny můžete použít k zakoupení jídla a pití v Bitcoin Coffee.
                 eng: |
                     Every participant receives an NFC card (Bitcoin card) where he can save bitcoins which are easy to buy in the two bitcoins ATMs in Paralelní Polis. 
-                    You can use the bitcoins to buy food and drinks in Bitcoin Caffee. Please note that Bitcoin Coffee is a strictly Bitcoin only establishment and we do not accept Czech crowns.
+                    You can use the bitcoins to buy food and drinks in Bitcoin Coffee. Please note that Bitcoin Coffee is a strictly Bitcoin only establishment and we do not accept Czech crowns.
 
 
         -   title: 
