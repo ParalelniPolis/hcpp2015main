@@ -330,8 +330,8 @@ schedule:
         -   columnA:
                 time: "19:00"
                 title:
-                    cz: "Bitnik"
-                    eng: "Bitnik"
+                    cz: "!Mediengruppe Bitnik"
+                    eng: "!Mediengruppe Bitnik"
                 desc:
                     cz: "Random Darknet Shopper"
                     eng: "Random Darknet Shopper"
