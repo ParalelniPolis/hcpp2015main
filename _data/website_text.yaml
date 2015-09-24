@@ -146,8 +146,8 @@ schedule:
                     cz: "Wireless Warrior"
                     eng: "Wireless Warrior"
                 desc:
-                    cz: "Tajné radio vs. špehovací služby"
-                    eng: "Covert Radio vs. the Spy Agencies"
+                    cz: "SIGIT a skrytá komunikace"
+                    eng: "SIGINT and Practical Covert Communication"
 
         -   columnB: 
                 time: "11:00"
