@@ -126,11 +126,11 @@ schedule:
                 time: "10:00"
                 where: "HUB"
                 title:
-                    cz: "Pavol Rusnak / stick (SVK) "
-                    eng: "Pavol Rusnak / stick (SVK)"
+                    cz: "Frank Braun"
+                    eng: "Frank Braun"
                 desc:
-                    cz: "IPFS : Interplanetární souborový systém"
-                    eng: "IPFS: The InterPlanetary File System"
+                    cz: "Řešení problému výměny šifrovacích klíčů"
+                    eng: "Solving the encryption keys exchange problem"
             columnC:
                 time: "10:00"
                 title:
@@ -143,11 +143,11 @@ schedule:
         -   columnB: 
                 time: "11:00"
                 title:
-                    cz: "Frank Theys"
-                    eng: "Frank Theys"
+                    cz: "Janez Jansa (SLO)"
+                    eng: "Janez Jansa (SLO)"
                 desc:
-                    cz: "P2P"
-                    eng: "P2P
+                    cz: "Name Readymade - změna identity a vlastnictví úředních dokumentů"
+                    eng: "Name Readymade - change of identity and ownership of official documents
             columnC:
                 time: "11:00"
                 title:
@@ -160,11 +160,11 @@ schedule:
         -   columnB:
                 time: "12:00"
                 title:
-                    cz: "Frank Braun"
-                    eng: "Frank Braun"
+                    cz: "Jasper Philipp Kalwies (DE)"
+                    eng: "Jasper Philipp Kalwies (DE)"
                 desc:
-                    cz: "Řešení problému výměny šifrovacích klíčů"
-                    eng: "Solving the encryption keys exchange problem"
+                    cz: "Seasteading"
+                    eng: "Seasteading"
             columnC:
                 time: "12:00"
                 title:
@@ -185,11 +185,11 @@ schedule:
             columnB:
                 time: "13:00"
                 title:
-                    cz: "Janez Jansa (SLO)"
-                    eng: "Janez Jansa (SLO)"
+                    cz: "JPaul Rosenberg (USA)"
+                    eng: "Paul Rosenberg (USA)"
                 desc:
-                    cz: "Name Readymade - změna identity a vlastnictví úředních dokumentů"
-                    eng: "Name Readymade - change of identity and ownership of official documents"
+                    cz: "Soudnictví bez státu"
+                    eng: "JUSTICE WITHOUT STATE"
             columnC:
                 time: "13:00"
                 title:
@@ -202,28 +202,28 @@ schedule:
         -   columnA:
                 time: "14:00"
                 title:
-                    cz: "Juraj Bednár"
-                    eng: "Juraj Bednár"
+                    cz: "Smuggler"
+                    eng: "Smuggler"
                 desc:
-                    cz: "Přehled decentralizovaných řešení bežných problému na Internetu"
-                    eng: "Overview of decentralised solutions of common problems on the Internet"
+                    cz: "Žádné jméno, žádná tvář: Dějiny a filozofie soukromí a anonymity"
+                    eng: "No name, no face: History and philosophy of privacy and anonymity"
 
             columnB:
                 time: "14:00"
                 title:
-                    cz: "Kristov Atlas"
-                    eng: "Kristov Atlas"
+                    cz: "Menno (De Waag)"
+                    eng: "Menno (De Waag)"
                 desc:
-                    cz: "Na cestě ke kolapsu kryptoměn? Modelování útoků na princip zastupitelnosti a protiopatření"
-                    eng: "The Road to Crypto-Currency Collapse? Modeling Fungibility Attacks and Countermeasures"
+                    cz: ""
+                    eng: ""
             columnC:
                 time: "14:00"
                 title:
-                    cz: "Paul Rosenberg"
-                    eng: "Paul Rosenberg"
+                    cz: "Ztohoven (CZ)"
+                    eng: "Ztohoven (CZ)"
                 desc:
-                    cz: "Soudnictví bez státu"
-                    eng: "Justice without state"
+                    cz: "Trenky"
+                    eng: "Trenky"
 
         -   columnA:
                 time: "15:00"
