@@ -198,7 +198,6 @@ schedule:
                 desc:
                     cz: "Decentralizovaný svět - když se vláda a autoritatívní geografické státy stávají zastaralými "
                     eng: "The decentralized world - when the government and authoritative geographical states become obsolete"
-
         -   columnA:
                 time: "14:00"
                 title:
@@ -207,7 +206,6 @@ schedule:
                 desc:
                     cz: "Žádné jméno, žádná tvář: Dějiny a filozofie soukromí a anonymity"
                     eng: "No name, no face: History and philosophy of privacy and anonymity"
-
             columnB:
                 time: "14:00"
                 title:
@@ -224,7 +222,6 @@ schedule:
                 desc:
                     cz: "Trenky"
                     eng: "Trenky"
-
         -   columnA:
                 time: "15:00"
                 title:
@@ -249,7 +246,6 @@ schedule:
                 desc:
                     cz: "Bitcoin, the Blockchain, and Artists:  How Creative People Can Find Freedom Through Crypto"
                     eng: "Bitcoin, Blokchain a Umělci: Jak mohou kreativci najít svou svobodu přes krypto"
-
         -   columnA:
                 time: "16:00"
                 title:
@@ -274,7 +270,6 @@ schedule:
                 desc:
                     cz: "Hipíci z pekla: Promítaní dokumentárního filmu o hackeřský scéně v Amsterdamu s následnou diskusí s Ine Poppe a Samem Nemethem (tvůrci filmu)"
                     eng: "Hippies from Hell: Screening of documentary movie about hacking scene in Amsterdam with following discussion with Ine Poppe and Sam Nemeth (makers of the movie)"
-
         -   columnA:
                 time: "17:00"
                 title:
@@ -299,7 +294,6 @@ schedule:
                 desc:
                     cz: " "
                     eng: " "
-
         -   columnA:
                 time: "18:00"
                 title:
