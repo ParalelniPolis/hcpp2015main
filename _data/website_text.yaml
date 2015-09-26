@@ -143,19 +143,19 @@ schedule:
         -   columnB: 
                 time: "11:00"
                 title:
-                    cz: "Janez Jansa"
-                    eng: "Janez Jansa"
+                    cz: "Frank Theys"
+                    eng: "Frank Theys"
                 desc:
-                    cz: "Name Readymade - změna identity a vlastnictví úředních dokumentů"
-                    eng: "Name Readymade - change of identity and ownership of official documents"
+                    cz: "P2P"
+                    eng: "P2P
             columnC:
                 time: "11:00"
                 title:
-                    cz: "Phil Hilm"
-                    eng: "Phil Hilm"
+                    cz: "Wireless Warrior"
+                    eng: "Wireless Warrior"
                 desc:
-                    cz: "Jak umělá inteligence ovlivní naše životy"
-                    eng: "How will AI impact our lives"
+                    cz: "SIGINT and Practical Covert Communication"
+                    eng: "SIGIT a skrytá komunikace"
 
         -   columnB:
                 time: "12:00"
@@ -168,36 +168,36 @@ schedule:
             columnC:
                 time: "12:00"
                 title:
-                    cz: "Susanne Tarkowski"
-                    eng: "Susanne Tarkowski"
+                    cz: "Sam Nemeth  (NL)"
+                    eng: "Sam Nemeth  (NL)"
                 desc:
-                    cz: "Projekt Bitnation - univerzální přístup ke \"státním službám\""
-                    eng: "Bitnation project - universal  access to government services"
+                    cz: "Cesty myšlenek - WhatsApp odysea"
+                    eng: "Ideas Travels -a WhatsApp Odyssey"
 
         -   columnA:
                 time: "13:30"
                 title:
                     cz: "OPENING KEY NOTE"
-                    eng: "OPENING KEY NOTE"
+                    eng: "ZAHÁJENÍ"
                 desc:
                     cz: ""
                     eng: ""
             columnB:
                 time: "13:00"
                 title:
-                    cz: "Julia Tourianski"
-                    eng: "Julia Tourianski"
+                    cz: "Janez Jansa (SLO)"
+                    eng: "Janez Jansa (SLO)"
                 desc:
-                    cz: "Sledovaný člověk bývá zřídkakdy upřímný"
-                    eng: "The Observed Man is Seldom Sincere"
+                    cz: "Name Readymade - změna identity a vlastnictví úředních dokumentů"
+                    eng: "Name Readymade - change of identity and ownership of official documents"
             columnC:
                 time: "13:00"
                 title:
-                    cz: "Jindřich Ráftl"
-                    eng: "Jindřich Ráftl"
+                    cz: "Pavol Lupták (SVK)"
+                    eng: "Pavol Lupták (SVK)"
                 desc:
-                    cz: "Umění a věda"
-                    eng: "Art and Science"
+                    cz: "Decentralizovaný svět - když se vláda a autoritatívní geografické státy stávají zastaralými "
+                    eng: "The decentralized world - when the government and authoritative geographical states become obsolete"
 
         -   columnA:
                 time: "14:00"
