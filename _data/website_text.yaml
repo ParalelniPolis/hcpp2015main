@@ -228,96 +228,94 @@ schedule:
         -   columnA:
                 time: "15:00"
                 title:
-                    cz: "Smuggler"
-                    eng: "Smuggler"
+                    cz: "Joerg Platzer"
+                    eng: "Joerg Platzer"
                 desc:
-                    cz: "Bezejmenný, beztvářný: Filozofie a historie soukromí a esence anonymity."
-                    eng: "No name, no face: History and philosophy of privacy and anonymity"
+                    cz: "Why Bitcoin stands above the law plus a technical and tactical analyses of an attempted governance coup on the network ("XT-coin")"
+                    eng: "Why Bitcoin stands above the law plus a technical and tactical analyses of an attempted governance coup on the network ("XT-coin")"
             columnB:
                 time: "15:00"
                 title:
-                    cz: "Inne Poppe"
-                    eng: "Inne Poppe"
+                    cz: "Julia Tourianski (GB)"
+                    eng: "Julia Tourianski (GB)"
                 desc:
-                    cz: "Život mezi hackingem a uměním. Založení ateliéru hackingu na umělecké akademii a projekt Crypto Design Challenge "
-                    eng: "Life between hacking and art. Establishing hacking department at Art Academy and Crypto Desing Challenge project"
+                    cz: "Pozorovaný člověk je zřídka úpřimný"
+                    eng: "The Observed Man is Seldom Sincere"
             columnC:
                 time: "15:00"
                 title:
-                    cz: "Sam Nemeth"
-                    eng: "Sam Nemeth"
+                    cz: "Tatiana Moroz"
+                    eng: "Tatiana Moroz"
                 desc:
-                    cz: "Ideas Travels"
-                    eng: "Ideas Travels"
+                    cz: "Bitcoin, the Blockchain, and Artists:  How Creative People Can Find Freedom Through Crypto"
+                    eng: "Bitcoin, Blokchain a Umělci: Jak mohou kreativci najít svou svobodu přes krypto"
 
         -   columnA:
                 time: "16:00"
                 title:
-                    cz: "Jiří Materna"
-                    eng: "Jiří Materna"
+                    cz: "Philip Hilm"
+                    eng: "Philip Hilm"
                 desc:
-                    cz: "Machine Learning populárně"
-                    eng: "Popular machine learning"
+                    cz: "Jak bude umělá inteligence ovlivňovat naše životy"
+                    eng: "How will Artificial Intelligence impact our lives"
             columnB:
                 time: "16:00"
                 title:
-                    cz: "Speciální tajný host"
-                    eng: "Special secret guest"
+                    cz: "Kristof Atlas"
+                    eng: "Kristof Atlas"
                 desc:
-                    cz: "Identitu neodtajňujeme z bezpečnostních důvodů."
-                    eng: "We do not uncover identity due to security reasons."
+                    cz: "Na cestě ke kolapsu kryptoměn? Modelování útoků na princip zastupitelnosti a protiopatření"
+                    eng: "On a way to colaps of cryptocurrencies? Modeling of attacks on principle of substitutability and countermeasures"
             columnC:
                 time: "16:00"
                 title:
-                    cz: "Jasper Philipp Kalwies"
-                    eng: "Jasper Philipp Kalwies"
+                    cz: "Sam Nemeth & Inne Poppe (NL)"
+                    eng: "Sam Nemeth & Inne Poppe (NL)"
                 desc:
-                    cz: "Seasteading"
-                    eng: "Seasteading"
+                    cz: "Hipíci z pekla: Promítaní dokumentárního filmu o hackeřský scéně v Amsterdamu s následnou diskusí s Ine Poppe a Samem Nemethem (tvůrci filmu)"
+                    eng: "Hippies from Hell: Screening of documentary movie about hacking scene in Amsterdam with following discussion with Ine Poppe and Sam Nemeth (makers of the movie)"
 
         -   columnA:
                 time: "17:00"
                 title:
-                    cz: "Pony Pink Express"
-                    eng: "Pony Pink Express"
+                    cz: "Pony Pink Express (NL)"
+                    eng: "Pony Pink Express (NL)"
                 desc:
                     cz: "Graffiti a duhy - hacking ve veřejném prostoru"
                     eng: "Graffiti and rainbows – hacking in public space"
-
+            columnB:
+                time: "17:00"
+                title:
+                    cz: " Inne Poppe (NL)"
+                    eng: "Inne Poppe (NL)"
+                desc:
+                    cz: "Life between hacking and art. Establishing hacking department at Art Academy and Crypto Desing Challenge project "
+                    eng: "Život mezi hackingem a uměním. Založení ateliéru Hackingu na umělecké akademii a projekt Crypto Design Challenge"
             columnC:
                 time: "17:00"
                 title:
-                    cz: "Makerslab"
-                    eng: "Makerslab"
+                    cz: "OFICIÁLNÍ UKONČENÍ"
+                    eng: "OFFICIAL CLOSING"
                 desc:
-                    cz: "O projektu Fashion STL"
-                    eng: "About project Fashion STL"
+                    cz: " "
+                    eng: " "
 
         -   columnA:
                 time: "18:00"
                 title:
-                    cz: "Joerg Platzer"
-                    eng: "Joerg Platzer"
+                    cz: "Jiří Materna (CZ)"
+                    eng: "Jiří Materna (CZ)"
                 desc:
-                    cz: ""
-                    eng: ""
+                    cz: "Hluboká umělá inteligence v praxi"
+                    eng: "Deep Artificial Intelligence in Practice"
             columnB:
                 time: "18:00"
                 title:
                     cz: "Fashion STL"
                     eng: "Fashion STL"
                 desc:
-                    cz: "3D tištěná módní show"
-                    eng: "3D printed fashion show"
-            columnC:
-                time: "18:00"
-                title:
-                    cz: "OFFICIAL CLOSING"
-                    eng: "OFFICIAL CLOSING"
-                desc:
-                    cz: ""
-                    eng: ""
-
+                    cz: "3D tištěná módní show - La Fabrika"
+                    eng: "3D printed fashion show -  La Fabrika"
         -   columnA:
                 time: "19:00"
                 title:
@@ -326,23 +324,30 @@ schedule:
                 desc:
                     cz: "Random Darknet Shopper"
                     eng: "Random Darknet Shopper"
-
         -   columnA:
                 time: "20:00"
                 title:
-                    cz: "Marek Palatinus"
-                    eng: "Marek Palatinus"
+                    cz: "Susanne Tarkowski Tempelhof"
+                    eng: "Susanne Tarkowski Tempelhof"
                 desc:
-                    cz: "Decentralizovaný konsenzus"
-                    eng: "Decentralised consensus"
+                    cz: "Bitnation projekt - rok poté"
+                    eng: "Bitnation project - One year after"
             columnB:
+                time: "19:30"
+                title:
+                    cz: "Lyn Ulbricht (USA)"
+                    eng: "Lyn Ulbricht (USA)"
+                desc:
+                    cz: "Případ Silk Road: co se stalo, co bude dál a proč na tom záleží + premiéra filmu Deep Web - La Fabrika"
+                    eng: "The Silk Road Case: What happened, What’s next, Why it Matters - premiere of the movie Deep Web - La Fabrika"
+        -   columnA:
                 time: "20:00"
                 title:
-                    cz: "Lyn Ulbricht"
-                    eng: "Lyn Ulbricht"
+                    cz: "Stefan Marsiske (non-citizen)"
+                    eng: "Stefan Marsiske (non-citizen)"
                 desc:
-                    cz: "Případ Silk Road: co se stalo, co bude dál a proč na tom záleží"
-                    eng: "The Silk Road Case: What happened, What’s next, Why it Matters"
+                    cz: "Turtles all the way down: Sabotage & bugdoor by design"
+                    eng: "Želvy až po zem: Sabotáž a bugdoor "od výroby""
 
 ticket:
     title:
