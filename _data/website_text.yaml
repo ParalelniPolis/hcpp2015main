@@ -126,28 +126,19 @@ schedule:
                 time: "10:00"
                 where: "HUB"
                 title:
-                    cz: "Michal Paal (SK)"
-                    eng: "Michal Paal (SK)"
+                    cz: "Pavol Rusnak / stick (SVK) "
+                    eng: "Pavol Rusnak / stick (SVK)"
                 desc:
-                    cz: "Dróny jsou všude"
-                    eng: "Drones are everywhere"
-        -   columnB:
-                time: "10:00"
-                where: "Institut"
-                title:
-                    cz: "Juraj Bednár (SK)"
-                    eng: "Juraj Bednár (SK)"
-                desc:
-                    cz: "Decentralize!"
-                    eng: "Decentralize!"
+                    cz: "IPFS : Interplanetární souborový systém"
+                    eng: "IPFS: The InterPlanetary File System"
             columnC:
                 time: "10:00"
                 title:
-                    cz: "Wireless Warrior"
-                    eng: "Wireless Warrior"
+                    cz: "Tomáš Zaťko (SVK)"
+                    eng: "Tomáš Zaťko (SVK)"
                 desc:
-                    cz: "SIGIT a skrytá komunikace"
-                    eng: "SIGINT and Practical Covert Communication"
+                    cz: "Zánik tvého soukromí?"
+                    eng: "Extincton of your privacy?"
 
         -   columnB: 
                 time: "11:00"
