@@ -173,30 +173,52 @@ schedule:
                     eng: "Decentralize!"
             columnC:
                 time: "11:00"
-                title:
+                title: "HUB"
                     cz: "Wireless Warrior"
                     eng: "Wireless Warrior"
                 desc:
                     cz: "SIGINT and Practical Covert Communication"
                     eng: "SIGIT a skrytá komunikace"
-
+            columnC:
+                time: "11:00"
+                title: "Institut"
+                    cz: "Jan Nálepa (CZ)"
+                    eng: "Jan Nálepa (CZ)"
+                desc:
+                    cz: "Bioart - nová výzva"
+                    eng: "Bioart - New Challenge"
         -   columnB:
                 time: "12:00"
-                title:
+                title: "HUB"
                     cz: "Jasper Philipp Kalwies (DE)"
                     eng: "Jasper Philipp Kalwies (DE)"
                 desc:
                     cz: "Seasteading"
                     eng: "Seasteading"
+         -   columnB:
+                time: "12:00"
+                title: "Institut"
+                    cz: "Frank Theys"
+                    eng: "Frank Theys"
+                desc:
+                    cz: " "
+                    eng: " "
             columnC:
                 time: "12:00"
-                title:
+                title: "Institut"
                     cz: "Sam Nemeth  (NL)"
                     eng: "Sam Nemeth  (NL)"
                 desc:
                     cz: "Cesty myšlenek - WhatsApp odysea"
                     eng: "Ideas Travels -a WhatsApp Odyssey"
-
+            columnC:
+                time: "12:00"
+                title: "HUB"
+                    cz: "Petr Boháček (CZ)"
+                    eng: "Petr Boháček (CZ)"
+                desc:
+                    cz: "Diskuze: Co pro tebe znamená stát? - "
+                    eng: "Ideas Travels -a WhatsApp Odyssey"
         -   columnA:
                 time: "13:30"
                 title:
