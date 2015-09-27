@@ -222,11 +222,11 @@ schedule:
         -   columnA:
                 time: "13:30"
                 title: "Institut"
-                    cz: "OPENING KEY NOTE"
-                    eng: "ZAHÁJENÍ"
+                    cz: "Ondřej Neff (CZ)"
+                    eng: "Ondřej Neff (CZ)"
                 desc:
-                    cz: ""
-                    eng: ""
+                    cz: "Blackout - úvodní přednáška"
+                    eng: "Blackout - Opening Keynote"
             columnB:
                 time: "13:00"
                 title: "Institut"
