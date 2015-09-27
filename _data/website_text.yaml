@@ -121,7 +121,6 @@ schedule:
         cz: "neděle"
         eng: "sunday"
     rows:   
-
         -   columnB:
                 time: "10:00"
                 where: "HUB"
@@ -131,23 +130,47 @@ schedule:
                 desc:
                     cz: "Řešení problému výměny šifrovacích klíčů"
                     eng: "Solving the encryption keys exchange problem"
+        -   columnB:
+                time: "10:00"
+                where: "Institute"
+                title:
+                    cz: "Slush (CZ)"
+                    eng: "Slush (CZ)"
+                desc:
+                    cz: "Decentralizovaný konsenzus - přednáška v ČJ"
+                    eng: "Decentralised consensus - presentation in Czech language"
             columnC:
                 time: "10:00"
-                title:
+                title: "Institute"
                     cz: "Tomáš Zaťko (SVK)"
                     eng: "Tomáš Zaťko (SVK)"
                 desc:
                     cz: "Zánik tvého soukromí?"
                     eng: "Extincton of your privacy?"
-
+            columnC:
+                time: "10:00"
+                title: "HUB"
+                    cz: "Jindřich Ráftl (CZ)"
+                    eng: "Jindřich Ráftl (CZ)"
+                desc:
+                    cz: "Biomorph II - přednáška v ČJ"
+                    eng: "Biomorph II - presentation in Czech language"
         -   columnB: 
                 time: "11:00"
-                title:
+                title: "Institute"
                     cz: "Janez Jansa (SLO)"
                     eng: "Janez Jansa (SLO)"
                 desc:
                     cz: "Name Readymade - změna identity a vlastnictví úředních dokumentů"
-                    eng: "Name Readymade - change of identity and ownership of official documents
+                    eng: "Name Readymade - change of identity and ownership of official documents"
+          -   columnB: 
+                time: "11:00"
+                title: "HUB"
+                    cz: "Juraj Bednár (SVK)"
+                    eng: "Juraj Bednár (SVK)"
+                desc:
+                    cz: "Decentraluzuj!"
+                    eng: "Decentralize!"
             columnC:
                 time: "11:00"
                 title:
