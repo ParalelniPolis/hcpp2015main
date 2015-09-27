@@ -217,11 +217,11 @@ schedule:
                     cz: "Petr Boháček (CZ)"
                     eng: "Petr Boháček (CZ)"
                 desc:
-                    cz: "Diskuze: Co pro tebe znamená stát? - "
-                    eng: "Ideas Travels -a WhatsApp Odyssey"
+                    cz: "Diskuze: Co pro tebe znamená stát? - v ČJ"
+                    eng: "Discussion : What does the state mean for you? -in Czech language"
         -   columnA:
                 time: "13:30"
-                title:
+                title: "Institut"
                     cz: "OPENING KEY NOTE"
                     eng: "ZAHÁJENÍ"
                 desc:
@@ -229,23 +229,31 @@ schedule:
                     eng: ""
             columnB:
                 time: "13:00"
-                title:
-                    cz: "JPaul Rosenberg (USA)"
+                title: "Institut"
+                    cz: "Paul Rosenberg (USA)"
                     eng: "Paul Rosenberg (USA)"
                 desc:
                     cz: "Soudnictví bez státu"
-                    eng: "JUSTICE WITHOUT STATE"
+                    eng: "Justice without state"
             columnC:
                 time: "13:00"
-                title:
+                title: "HUB"
                     cz: "Pavol Lupták (SVK)"
                     eng: "Pavol Lupták (SVK)"
                 desc:
-                    cz: "Decentralizovaný svět - když se vláda a autoritatívní geografické státy stávají zastaralými "
+                    cz: "Decentralizovaný svět - když se vláda a autoritatívní geografické státy stávají zastaralými"
                     eng: "The decentralized world - when the government and authoritative geographical states become obsolete"
+           columnC:
+                time: "13:00"
+                title: "Institute"
+                    cz: "Michal Prach Kotr (CZ)"
+                    eng: "Michal Prach Kotr (CZ)"
+                desc:
+                    cz: "3d print fashion show: fashion.stl - Co děláme: tvoříme vztah mezi módou a 3d tiskem, posouváme mezníky"
+                    eng: "3d print fashion show: fashion.stl - What we do: creating a relationship between fashion and 3d print, we are moving landmarks"
         -   columnA:
                 time: "14:00"
-                title:
+                title: "Institute"
                     cz: "Smuggler"
                     eng: "Smuggler"
                 desc:
@@ -253,7 +261,7 @@ schedule:
                     eng: "No name, no face: History and philosophy of privacy and anonymity"
             columnB:
                 time: "14:00"
-                title:
+                title: "HUB"
                     cz: "Menno (De Waag)"
                     eng: "Menno (De Waag)"
                 desc:
@@ -261,7 +269,7 @@ schedule:
                     eng: ""
             columnC:
                 time: "14:00"
-                title:
+                title: "Institute"
                     cz: "Ztohoven (CZ)"
                     eng: "Ztohoven (CZ)"
                 desc:
@@ -269,7 +277,7 @@ schedule:
                     eng: "Trenky"
         -   columnA:
                 time: "15:00"
-                title:
+                title: "HUB"
                     cz: "Joerg Platzer"
                     eng: "Joerg Platzer"
                 desc:
@@ -277,7 +285,7 @@ schedule:
                     eng: "Why Bitcoin stands above the law plus a technical and tactical analyses of an attempted governance coup on the network ("XT-coin")"
             columnB:
                 time: "15:00"
-                title:
+                title: "Institute"
                     cz: "Julia Tourianski (GB)"
                     eng: "Julia Tourianski (GB)"
                 desc:
@@ -285,15 +293,23 @@ schedule:
                     eng: "The Observed Man is Seldom Sincere"
             columnC:
                 time: "15:00"
-                title:
+                title: "HUB"
                     cz: "Tatiana Moroz"
                     eng: "Tatiana Moroz"
                 desc:
                     cz: "Bitcoin, the Blockchain, and Artists:  How Creative People Can Find Freedom Through Crypto"
                     eng: "Bitcoin, Blokchain a Umělci: Jak mohou kreativci najít svou svobodu přes krypto"
+            columnC:
+                time: "15:00"
+                title: "Institute"
+                    cz: "Michal Paal (SVK)"
+                    eng: "Tichal Paal (SVK)"
+                desc:
+                    cz: "Drony jsou všude"
+                    eng: "Drones are everywhere"
         -   columnA:
                 time: "16:00"
-                title:
+                title: "Institute"
                     cz: "Philip Hilm"
                     eng: "Philip Hilm"
                 desc:
@@ -301,7 +317,7 @@ schedule:
                     eng: "How will Artificial Intelligence impact our lives"
             columnB:
                 time: "16:00"
-                title:
+                title: "HUB"
                     cz: "Kristof Atlas"
                     eng: "Kristof Atlas"
                 desc:
@@ -309,23 +325,39 @@ schedule:
                     eng: "On a way to colaps of cryptocurrencies? Modeling of attacks on principle of substitutability and countermeasures"
             columnC:
                 time: "16:00"
-                title:
+                title: "Institute"
                     cz: "Sam Nemeth & Inne Poppe (NL)"
                     eng: "Sam Nemeth & Inne Poppe (NL)"
                 desc:
                     cz: "Hipíci z pekla: Promítaní dokumentárního filmu o hackeřský scéně v Amsterdamu s následnou diskusí s Ine Poppe a Samem Nemethem (tvůrci filmu)"
                     eng: "Hippies from Hell: Screening of documentary movie about hacking scene in Amsterdam with following discussion with Ine Poppe and Sam Nemeth (makers of the movie)"
+            columnC:
+                time: "16:00"
+                title: "HUB"
+                    cz: "Amin Rafiee"
+                    eng: "Amin Rafiee"
+                desc:
+                    cz: "Decentralizovaná revoluce"
+                    eng: "Decentralized Revolution"
         -   columnA:
                 time: "17:00"
-                title:
+                title: "HUB"
                     cz: "Pony Pink Express (NL)"
                     eng: "Pony Pink Express (NL)"
                 desc:
                     cz: "Graffiti a duhy - hacking ve veřejném prostoru"
                     eng: "Graffiti and rainbows – hacking in public space"
+            columnA:
+                time: "17:00"
+                title: "MakersLab"
+                    cz: "Phillip Hilm"
+                    eng: "Phillip Hilm"
+                desc:
+                    cz: "Brainmachine workshop"
+                    eng: "Brainmachine workshop"
             columnB:
                 time: "17:00"
-                title:
+                title: "Institute"
                     cz: " Inne Poppe (NL)"
                     eng: "Inne Poppe (NL)"
                 desc:
@@ -333,7 +365,7 @@ schedule:
                     eng: "Život mezi hackingem a uměním. Založení ateliéru Hackingu na umělecké akademii a projekt Crypto Design Challenge"
             columnC:
                 time: "17:00"
-                title:
+                title: "Institute"
                     cz: "OFICIÁLNÍ UKONČENÍ"
                     eng: "OFFICIAL CLOSING"
                 desc:
@@ -341,39 +373,39 @@ schedule:
                     eng: " "
         -   columnA:
                 time: "18:00"
-                title:
+                title: "Institute"
                     cz: "Jiří Materna (CZ)"
                     eng: "Jiří Materna (CZ)"
                 desc:
                     cz: "Hluboká umělá inteligence v praxi"
                     eng: "Deep Artificial Intelligence in Practice"
             columnB:
-                time: "18:00"
-                title:
+                time: "18:00 - 19:30"
+                title: "La Fabrika - Hlavní sál"
                     cz: "Fashion STL"
                     eng: "Fashion STL"
                 desc:
                     cz: "3D tištěná módní show - La Fabrika"
                     eng: "3D printed fashion show -  La Fabrika"
+            columnB:
+                time: "18:00"
+                title: "HUB"
+                    cz: "Marina Krotofil"
+                    eng: "Marina Krotofil"
+                desc:
+                    cz: "Hackovanie SCADA systémov"
+                    eng: "SCADA hacking"
         -   columnA:
                 time: "19:00"
-                title:
+                title: "HUB"
                     cz: "!Mediengruppe Bitnik"
                     eng: "!Mediengruppe Bitnik"
                 desc:
                     cz: "Random Darknet Shopper"
                     eng: "Random Darknet Shopper"
-        -   columnA:
-                time: "20:00"
-                title:
-                    cz: "Susanne Tarkowski Tempelhof"
-                    eng: "Susanne Tarkowski Tempelhof"
-                desc:
-                    cz: "Bitnation projekt - rok poté"
-                    eng: "Bitnation project - One year after"
             columnB:
-                time: "19:30"
-                title:
+                time: "19:30 - 22:00"
+                title: "La Fabrika - Slévárna"
                     cz: "Lyn Ulbricht (USA)"
                     eng: "Lyn Ulbricht (USA)"
                 desc:
@@ -381,13 +413,52 @@ schedule:
                     eng: "The Silk Road Case: What happened, What’s next, Why it Matters - premiere of the movie Deep Web - La Fabrika"
         -   columnA:
                 time: "20:00"
-                title:
+                title: "Institute"
+                    cz: "Susanne Tarkowski Tempelhof"
+                    eng: "Susanne Tarkowski Tempelhof"
+                desc:
+                    cz: "Bitnation projekt - rok poté"
+                    eng: "Bitnation project - One year after"
+        -   columnA:
+                time: "20:00"
+                title: "HUB"
+                    cz: "Pavol Rusnak / stick (SVK)"
+                    eng: "Pavol Rusnak / stick (SVK)"
+                desc:
+                    cz: "IPFS : Interplanetární souborový systém"
+                    eng: "IPFS: The InterPlanetary File System"
+        -   columnB:
+                time: "20:00"
+                title: "Institut"
+                    cz: "Martin Baroš (CZ)"
+                    eng: "Martin Baroš (CZ)"
+                desc:
+                    cz: "Cryptelo"
+                    eng: "Cryptelo"
+        -   columnA:
+                time: "21:00"
+                title: "HUB"
                     cz: "Stefan Marsiske (non-citizen)"
                     eng: "Stefan Marsiske (non-citizen)"
                 desc:
-                    cz: "Turtles all the way down: Sabotage & bugdoor by design"
-                    eng: "Želvy až po zem: Sabotáž a bugdoor "od výroby""
-
+                    cz: "Cryptelo"
+                    eng: "Želvy až po zem: Sabotáž a bugdoor "od výroby"
+        -   columnA:
+                time: "21:00"
+                title: "Institut"
+                    cz: "Petr Boháček (CZ)"
+                    eng: "Petr Boháček (CZ)"
+                desc:
+                    cz: "Kyberválka v současnosti"
+                    eng: "CyberWar Now"
+        -   columnB:
+                time: "21:00"
+                title: "HUB"
+                    cz: "Juraj Bednár (SVK)"
+                    eng: "Juraj Bednár (SVK)"
+                desc:
+                    cz: "Biohacking"
+                    eng: "Biohacking "                
 ticket:
     title:
         cz: "Vstupenka<br>790 KČ (BTC)"
