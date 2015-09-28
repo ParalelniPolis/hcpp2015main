@@ -260,15 +260,6 @@ schedule:
                     eng: "3d print fashion show: fashion.stl - What we do: creating a relationship between fashion and 3d print, we are moving landmarks"
 
 
-        -   columnC:
-                time: "14:00"
-                where: "Paper HUB"
-                title:
-                    cz: "Ztohoven (CZ)"
-                    eng: "Ztohoven (CZ)"
-                desc:
-                    cz: "O pozadí akce Trenky - co předcházelo, jak akce proběhla a jaká byla následná reakce"
-                    eng: "About last Ztohoven performance"
         -   columnA:
                 time: "14:00"
                 where: "Institute"
@@ -298,6 +289,15 @@ schedule:
                     cz: "Drony jsou všude"
                     eng: "Drones are everywhere"
 
+        -   columnC:
+                time: "14:00"
+                where: "Paper HUB"
+                title:
+                    cz: "Ztohoven (CZ)"
+                    eng: "Ztohoven (CZ)"
+                desc:
+                    cz: "O pozadí akce Trenky - co předcházelo, jak akce proběhla a jaká byla následná reakce"
+                    eng: "About last Ztohoven performance"
 
         -   columnA:
                 time: "15:00"
