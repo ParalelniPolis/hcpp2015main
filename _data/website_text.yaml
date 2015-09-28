@@ -130,6 +130,14 @@ schedule:
                 desc:
                     cz: "Řešení problému výměny šifrovacích klíčů"
                     eng: "Solving the encryption keys exchange problem"
+            columnC:
+                time: "10:00"
+                where: "HUB"
+                title:
+                    cz: "Jindřich Ráftl (CZ)"
+                    eng: "Jindřich Ráftl (CZ)"
+                desc:
+                    cz: "Biomorph II - přednáška v českém jazyce"
         -   columnB:
                 time: "10:00"
                 where: "Institute"
@@ -138,7 +146,7 @@ schedule:
                     cz: "Slush (CZ)"
                     eng: "Slush (CZ)"
                 desc:
-                    cz: "Decentralizovaný konsenzus - přednáška v ČJ"
+                    cz: "Decentralizovaný konsenzus - přednáška v českém jazyce"
                     eng: "Decentralised consensus - presentation in Czech language"
             columnC:
                 time: "10:00"
@@ -149,24 +157,7 @@ schedule:
                 desc:
                     cz: "Zánik tvého soukromí?"
                     eng: "Extincton of your privacy?"
-        -   columnC:
-                time: "10:00"
-                where: "HUB"
-                title: 
-                    cz: "Jindřich Ráftl (CZ)"
-                    eng: "Jindřich Ráftl (CZ)"
-                desc:
-                    cz: "Biomorph II - přednáška v ČJ"
                     eng: "Biomorph II - presentation in Czech language"
-        -   columnB: 
-                time: "11:00"
-                where: "Institute"
-                title: 
-                    cz: "Janez Jansa (SLO)"
-                    eng: "Janez Jansa (SLO)"
-                desc:
-                    cz: "Name Readymade - změna identity a vlastnictví úředních dokumentů"
-                    eng: "Name Readymade - change of identity and ownership of official documents"
         -   columnB:
                 time: "11:00"
                 where: "HUB"
@@ -185,9 +176,18 @@ schedule:
                 desc:
                     cz: "SIGINT and Practical Covert Communication"
                     eng: "SIGIT a skrytá komunikace"
-        -   columnC:
+        -   columnB:
                 time: "11:00"
-                where: "Institut"
+                where: "Institute"
+                title:
+                    cz: "Janez Jansa (SLO)"
+                    eng: "Janez Jansa (SLO)"
+                desc:
+                    cz: "Name Readymade - změna identity a vlastnictví úředních dokumentů"
+                    eng: "Name Readymade - change of identity and ownership of official documents"
+            columnC:
+                time: "11:00"
+                where: "Institute"
                 title: 
                     cz: "Jan Nálepa (CZ)"
                     eng: "Jan Nálepa (CZ)"
@@ -203,9 +203,18 @@ schedule:
                 desc:
                     cz: "Seasteading"
                     eng: "Seasteading"
+            columnC:
+                time: "12:00"
+                where: "HUB"
+                title:
+                    cz: "Petr Boháček (CZ)"
+                    eng: "Petr Boháček (CZ)"
+                desc:
+                    cz: "Diskuze: Co pro tebe znamená stát? - v českém jazyce"
+                    eng: "Discussion : What does the state mean for you? - in Czech language"
         -   columnB:
                 time: "12:00"
-                where: "Institut"
+                where: "Institute"
                 title: 
                     cz: "Frank Theys"
                     eng: "Frank Theys"
@@ -214,41 +223,14 @@ schedule:
                     eng: " "
             columnC:
                 time: "12:00"
-                where: "Institut"
+                where: "Institute"
                 title: 
                     cz: "Sam Nemeth  (NL)"
                     eng: "Sam Nemeth  (NL)"
                 desc:
                     cz: "Cesty myšlenek - WhatsApp odysea"
                     eng: "Ideas Travels - a WhatsApp Odyssey"
-            columnC:
-                time: "12:00"
-                where: "HUB"
-                title: 
-                    cz: "Petr Boháček (CZ)"
-                    eng: "Petr Boháček (CZ)"
-                desc:
-                    cz: "Diskuze: Co pro tebe znamená stát? - v ČJ"
-                    eng: "Discussion : What does the state mean for you? -in Czech language"
-        -   columnA:
-                time: "13:30"
-                where: "Institut"
-                title: 
-                    cz: "Ondřej Neff (CZ)"
-                    eng: "Ondřej Neff (CZ)"
-                desc:
-                    cz: "Blackout - úvodní přednáška"
-                    eng: "Blackout - Opening Keynote"
-            columnB:
-                time: "13:00"
-                where: "Institut"
-                title: 
-                    cz: "Paul Rosenberg (USA)"
-                    eng: "Paul Rosenberg (USA)"
-                desc:
-                    cz: "Soudnictví bez státu"
-                    eng: "Justice without state"
-            columnC:
+        -   columnC:
                 time: "13:00"
                 where: "HUB"
                 title: 
@@ -257,7 +239,25 @@ schedule:
                 desc:
                     cz: "Decentralizovaný svět - když se vláda a autoritatívní geografické státy stávají zastaralými"
                     eng: "The decentralized world - when the government and authoritative geographical states become obsolete"
-        -   columnC:
+        -   columnA:
+                time: "13:30"
+                where: "Institute"
+                title:
+                    cz: "Ondřej Neff (CZ)"
+                    eng: "Ondřej Neff (CZ)"
+                desc:
+                    cz: "Blackout - úvodní přednáška"
+                    eng: "Blackout - Opening Keynote"
+            columnB:
+                time: "13:00"
+                where: "Institute"
+                title:
+                    cz: "Paul Rosenberg (USA)"
+                    eng: "Paul Rosenberg (USA)"
+                desc:
+                    cz: "Soudnictví bez státu"
+                    eng: "Justice without state"
+            columnC:
                 time: "13:00"
                 where: "Institute"
                 title: 
@@ -302,7 +302,16 @@ schedule:
                 desc:
                     cz: "Why Bitcoin stands above the law plus a technical and tactical analyses of an attempted governance coup on the network ('XT-coin')"
                     eng: "Why Bitcoin stands above the law plus a technical and tactical analyses of an attempted governance coup on the network ('XT-coin')"
-            columnB:
+            columnC:
+                time: "15:00"
+                where: "HUB"
+                title:
+                    cz: "Tatiana Moroz"
+                    eng: "Tatiana Moroz"
+                desc:
+                    cz: "Bitcoin, the Blockchain, and Artists:  How Creative People Can Find Freedom Through Crypto"
+                    eng: "Bitcoin, Blokchain a Umělci: Jak mohou kreativci najít svou svobodu přes krypto"
+        -   columnB:
                 time: "15:00"
                 where: "Institute"
                 title: 
@@ -313,15 +322,6 @@ schedule:
                     eng: "The Observed Man is Seldom Sincere"
             columnC:
                 time: "15:00"
-                where: "HUB"
-                title: 
-                    cz: "Tatiana Moroz"
-                    eng: "Tatiana Moroz"
-                desc:
-                    cz: "Bitcoin, the Blockchain, and Artists:  How Creative People Can Find Freedom Through Crypto"
-                    eng: "Bitcoin, Blokchain a Umělci: Jak mohou kreativci najít svou svobodu přes krypto"
-        -   columnC:
-                time: "15:00"
                 where: "Institute"
                 title: 
                     cz: "Michal Paal (SVK)"
@@ -329,16 +329,7 @@ schedule:
                 desc:
                     cz: "Drony jsou všude"
                     eng: "Drones are everywhere"
-        -   columnA:
-                time: "16:00"
-                where: "Institute"
-                title: 
-                    cz: "Philip Hilm"
-                    eng: "Philip Hilm"
-                desc:
-                    cz: "Jak bude umělá inteligence ovlivňovat naše životy"
-                    eng: "How will Artificial Intelligence impact our lives"
-            columnB:
+        -   columnB:
                 time: "16:00"
                 where: "HUB"
                 title: 
@@ -349,15 +340,6 @@ schedule:
                     eng: "On a way to colaps of cryptocurrencies? Modeling of attacks on principle of substitutability and countermeasures"
             columnC:
                 time: "16:00"
-                where: "Institute"
-                title: 
-                    cz: "Sam Nemeth & Inne Poppe (NL)"
-                    eng: "Sam Nemeth & Inne Poppe (NL)"
-                desc:
-                    cz: "Hipíci z pekla: Promítaní dokumentárního filmu o hackeřský scéně v Amsterdamu s následnou diskusí s Ine Poppe a Samem Nemethem (tvůrci filmu)"
-                    eng: "Hippies from Hell: Screening of documentary movie about hacking scene in Amsterdam with following discussion with Ine Poppe and Sam Nemeth (makers of the movie)"
-        -   columnC:
-                time: "16:00"
                 where: "HUB"
                 title: 
                     cz: "Amin Rafiee"
@@ -365,6 +347,24 @@ schedule:
                 desc:
                     cz: "Decentralizovaná revoluce"
                     eng: "Decentralized Revolution"
+        -   columnA:
+                time: "16:00"
+                where: "Institute"
+                title:
+                    cz: "Philip Hilm"
+                    eng: "Philip Hilm"
+                desc:
+                    cz: "Jak bude umělá inteligence ovlivňovat naše životy"
+                    eng: "How will Artificial Intelligence impact our lives"
+            columnC:
+                time: "16:00"
+                where: "Institute"
+                title:
+                    cz: "Sam Nemeth & Inne Poppe (NL)"
+                    eng: "Sam Nemeth & Inne Poppe (NL)"
+                desc:
+                    cz: "Hipíci z pekla: Promítaní dokumentárního filmu o hackeřský scéně v Amsterdamu s následnou diskusí s Ine Poppe a Samem Nemethem (tvůrci filmu)"
+                    eng: "Hippies from Hell: Screening of documentary movie about hacking scene in Amsterdam with following discussion with Ine Poppe and Sam Nemeth (makers of the movie)"
         -   columnA:
                 time: "17:00"
                 where: "HUB"
@@ -401,6 +401,15 @@ schedule:
                 desc:
                     cz: " "
                     eng: " "
+        -   columnB:
+                time: "18:00"
+                where: "HUB"
+                title:
+                    cz: "Marina Krotofil"
+                    eng: "Marina Krotofil"
+                desc:
+                    cz: "Hackovanie SCADA systémov"
+                    eng: "SCADA hacking"
         -   columnA:
                 time: "18:00"
                 where: "Institute"
@@ -411,7 +420,7 @@ schedule:
                     cz: "Hluboká umělá inteligence v praxi"
                     eng: "Deep Artificial Intelligence in Practice"
             columnB:
-                time: "18:00 - 19:30"
+                time: "18:00"
                 where: "La Fabrika - Hlavní sál"
                 title: 
                     cz: "Fashion STL"
@@ -419,15 +428,6 @@ schedule:
                 desc:
                     cz: "3D tištěná módní show - La Fabrika"
                     eng: "3D printed fashion show -  La Fabrika"
-        -   columnB:
-                time: "18:00"
-                where: "HUB"
-                title: 
-                    cz: "Marina Krotofil"
-                    eng: "Marina Krotofil"
-                desc:
-                    cz: "Hackovanie SCADA systémov"
-                    eng: "SCADA hacking"
         -   columnA:
                 time: "19:00"
                 where: "HUB"
@@ -438,7 +438,7 @@ schedule:
                     cz: "Random Darknet Shopper"
                     eng: "Random Darknet Shopper"
             columnB:
-                time: "19:30 - 22:00"
+                time: "19:30"
                 where: "La Fabrika - Slévárna"
                 background: "0002ff" 
                 title: 
@@ -456,7 +456,7 @@ schedule:
                 desc:
                     cz: "Bitnation projekt - rok poté"
                     eng: "Bitnation project - One year after"
-        -   columnA:
+            columnA:
                 time: "20:00"
                 where: "HUB"
                 title: 
@@ -467,7 +467,7 @@ schedule:
                     eng: "IPFS: The InterPlanetary File System"
         -   columnB:
                 time: "20:00"
-                where: "Institut"
+                where: "Institute"
                 title: 
                     cz: "Martin Baroš (CZ)"
                     eng: "Martin Baroš (CZ)"
@@ -483,24 +483,24 @@ schedule:
                 desc:
                     cz: "Cryptelo"
                     eng: "Želvy až po zem: Sabotáž a bugdoor 'od výroby'"
+            columnB:
+                time: "21:00"
+                where: "HUB"
+                title:
+                    cz: "Juraj Bednár (SVK)"
+                    eng: "Juraj Bednár (SVK)"
+                desc:
+                    cz: "Biohacking"
+                    eng: "Biohacking"
         -   columnA:
                 time: "21:00"
-                where: "Institut"
+                where: "Institute"
                 title: 
                     cz: "Petr Boháček (CZ)"
                     eng: "Petr Boháček (CZ)"
                 desc:
                     cz: "Kyberválka v současnosti"
                     eng: "CyberWar Now"
-        -   columnB:
-                time: "21:00"
-                where: "HUB"
-                title: 
-                    cz: "Juraj Bednár (SVK)"
-                    eng: "Juraj Bednár (SVK)"
-                desc:
-                    cz: "Biohacking"
-                    eng: "Biohacking"
 ticket:
     title:
         cz: "Vstupenka<br>790 KČ (BTC)"
