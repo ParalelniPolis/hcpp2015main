@@ -530,17 +530,6 @@ schedule:
                     cz: "breakcore, noise, rudies"
                     eng: "breakcore, noise, rudies"
 
-        -   columnB:
-                time: "22:00"
-                where: "La Fabrika"
-                background: "25D7FF"
-                title:
-                    cz: "Ollgoy (Tawatt DJ's) + Adam Fremen (Fremeni)"
-                    eng: "Ollgoy (Tawatt DJ's) + Adam Fremen (Fremeni)"
-                desc:
-                    cz: "funky, soul, acid jazz, break"
-                    eng: "funky, soul, acid jazz, break"
-
         -   columnA:
                 time: "21:30"
                 where: "Makers Lab"
@@ -561,6 +550,17 @@ schedule:
                 desc:
                     cz: "dnb"
                     eng: "dnb"
+
+        -   columnB:
+                time: "22:00"
+                where: "La Fabrika"
+                background: "25D7FF"
+                title:
+                    cz: "Ollgoy (Tawatt DJ's) + Adam Fremen (Fremeni)"
+                    eng: "Ollgoy (Tawatt DJ's) + Adam Fremen (Fremeni)"
+                desc:
+                    cz: "funky, soul, acid jazz, break"
+                    eng: "funky, soul, acid jazz, break"
 
 
         -   columnA:
