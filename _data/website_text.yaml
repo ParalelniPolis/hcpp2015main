@@ -141,7 +141,6 @@ schedule:
         -   columnB:
                 time: "10:00"
                 where: "Institute"
-                background: "25D7FF" 
                 title:
                     cz: "Slush (CZ)"
                     eng: "Slush (CZ)"
@@ -440,7 +439,6 @@ schedule:
             columnB:
                 time: "19:30"
                 where: "La Fabrika - Slévárna"
-                background: "0002ff" 
                 title: 
                     cz: "Lyn Ulbricht (USA)"
                     eng: "Lyn Ulbricht (USA)"
