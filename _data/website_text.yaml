@@ -120,7 +120,7 @@ schedule:
     sunday:
         cz: "neděle"
         eng: "sunday"
-    rows:   
+    rows:
         -   columnB:
                 time: "10:00"
                 where: "HUB"
@@ -147,7 +147,7 @@ schedule:
                 desc:
                     cz: "Zánik tvého soukromí?"
                     eng: "Extincton of your privacy?"
-            columnC:
+        -   columnC:
                 time: "10:00"
                 title: "HUB"
                     cz: "Jindřich Ráftl (CZ)"
@@ -163,15 +163,15 @@ schedule:
                 desc:
                     cz: "Name Readymade - změna identity a vlastnictví úředních dokumentů"
                     eng: "Name Readymade - change of identity and ownership of official documents"
-          -   columnB: 
+        -   columnB:
                 time: "11:00"
-                title: "HUB"
-                    cz: "Juraj Bednár (SVK)"
-                    eng: "Juraj Bednár (SVK)"
-                desc:
-                    cz: "Decentraluzuj!"
-                    eng: "Decentralize!"
-            columnC:
+                    title: "HUB"
+                        cz: "Juraj Bednár (SVK)"
+                        eng: "Juraj Bednár (SVK)"
+                    desc:
+                        cz: "Decentraluzuj!"
+                        eng: "Decentralize!"
+        -   columnC:
                 time: "11:00"
                 title: "HUB"
                     cz: "Wireless Warrior"
@@ -179,7 +179,7 @@ schedule:
                 desc:
                     cz: "SIGINT and Practical Covert Communication"
                     eng: "SIGIT a skrytá komunikace"
-            columnC:
+        -   columnC:
                 time: "11:00"
                 title: "Institut"
                     cz: "Jan Nálepa (CZ)"
@@ -195,7 +195,7 @@ schedule:
                 desc:
                     cz: "Seasteading"
                     eng: "Seasteading"
-         -   columnB:
+        -   columnB:
                 time: "12:00"
                 title: "Institut"
                     cz: "Frank Theys"
@@ -210,7 +210,7 @@ schedule:
                     eng: "Sam Nemeth  (NL)"
                 desc:
                     cz: "Cesty myšlenek - WhatsApp odysea"
-                    eng: "Ideas Travels -a WhatsApp Odyssey"
+                    eng: "Ideas Travels - a WhatsApp Odyssey"
             columnC:
                 time: "12:00"
                 title: "HUB"
@@ -458,7 +458,7 @@ schedule:
                     eng: "Juraj Bednár (SVK)"
                 desc:
                     cz: "Biohacking"
-                    eng: "Biohacking "                
+                    eng: "Biohacking"
 ticket:
     title:
         cz: "Vstupenka<br>790 KČ (BTC)"
