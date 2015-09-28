@@ -439,6 +439,7 @@ schedule:
             columnB:
                 time: "19:30"
                 where: "La Fabrika - Slévárna"
+                background: "25D7FF"
                 title: 
                     cz: "Lyn Ulbricht (USA)"
                     eng: "Lyn Ulbricht (USA)"
