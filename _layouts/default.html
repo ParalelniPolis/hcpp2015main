@@ -106,7 +106,7 @@
     </nav>
 
 
-
+    <!-- Main Page -->
     <section id="section1" class="section ct-mediaSection ct-u-borderMotiveBottom" data-height="100%" style="background-color:black;">
         <div class="flexslider ct-flexslider--controlsVertical ct-flexslider--controlsWhite ct-js-flexslider" data-animations="true" data-height="100%" data-width="100%">
             <ul class="slides">
@@ -144,7 +144,7 @@
     </section>
 
 
-
+    <!-- Blackout -->
     <section id="section2" class="section">
         <section class="ct-u-paddingBoth80 ct-u-backgroundGray">
             <div class="container">
@@ -168,6 +168,8 @@
             </div>
         </section>
 
+
+        <!-- Trailer -->
         <section class="ct-u-paddingBoth30 ct-u-backgroundDarkGray2">
             <div class="container">
                 <div class="row">
@@ -187,6 +189,8 @@
             </div>
         </section>
 
+
+        <!-- Programme sections -->
         <section class="ct-mediaSection ct-u-paddingBoth50 ct-u-backgroundDarkGray3">
             <div class="ct-mediaSection-inner">
                 <div class="container">
@@ -220,7 +224,7 @@
     </section>
 
 
-
+    <!-- Speakers -->
     <section id="section3" class="section">
         <header class="ct-pageSectionHeader ct-u-marginTop50 ct-u-marginBottom70 ct-js-wayPoint">
             <h2 class="ct-fw-300 text-uppercase text-center">
@@ -252,12 +256,11 @@
                     </div>
                 </div>
             {% endfor %}
-
         </div>
     </section>
 
 
-
+    <!-- Schedule -->
     <section id="section4" class="section ct-u-paddingBoth40 ct-u-backgroundDarkGray2">
         <div class="container">
             <header class="ct-pageSectionHeader ct-js-wayPoint">
@@ -267,10 +270,8 @@
             </header>
         </div>
     </section>
-
-
     <section class="ct-u-marginBottom70 ct-u-marginTop40">
-        <section class=" ct-u-backgroundGray">
+        <section class="ct-u-backgroundGray">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-4 col-md-4">
@@ -295,11 +296,9 @@
                         </div>
                     </div>
                 </div>
-
-
-                <!--program-->
+                <!-- Schedule programme -->
                 {% for schedule_item in site.data.website_text.schedule.rows %}
-                    <div class="row">
+                    <div class="row ct-u-borderLeft ct-u-borderRight">
 
                         <div class="col-sm-4 col-md-4 ct-u-marginBottom20">
                             {% if schedule_item.columnA %}
@@ -394,7 +393,7 @@
     </section>
 
 
-
+    <!-- Ticket -->
     <section id="section5" class="section">
         <section class="ct-u-backgroundDarkGray2 ct-u-paddingBoth70">
             <div class="container">
@@ -421,6 +420,8 @@
         </section>
     </section>
 
+
+    <!-- Practical info -->
     <section class="section ct-u-paddingBoth40 ct-u-backgroundDarkGray3">
         <div class="container">
             <header class="ct-pageSectionHeader ct-js-wayPoint">
@@ -430,8 +431,6 @@
             </header>
         </div>
     </section>
-
-
     {% for info in site.data.website_text.practical_info.info %}
     <section class="ct-u-paddingBoth30">
         <div class="container">
@@ -457,13 +456,13 @@
     {% endfor %}
 
 
-
+    <!-- Map -->
     <section id="section6" class="section">
         <div class="ct-googleMap" data-location="Dělnická 43, Praha" data-zoom="15" data-height="500"></div>
     </section>
 
 
-
+    <!-- Footer -->
     <footer class="ct-u-backgroundDarkGray">
         <div class="container ct-u-paddingBoth50">
             <div class="row ct-u-borderLeft">
