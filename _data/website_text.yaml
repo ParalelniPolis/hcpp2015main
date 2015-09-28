@@ -130,7 +130,7 @@ schedule:
                 desc:
                     cz: "Drony jsou všude"
                     eng: "Drones are everywhere"
-            columnC:
+        -   columnC:
                 time: "10:00"
                 where: "Institute"
                 background: "25D7FF"
@@ -140,7 +140,7 @@ schedule:
                 desc:
                     cz: "Decentraluzuj!"
                     eng: "Decentralize!"
-        -   columnC:
+            columnC:
                 time: "10:00"
                 where: "Institute"
                 title: 
@@ -183,15 +183,6 @@ schedule:
             columnC:
                 time: "12:00"
                 where: "Paper HUB"
-                title:
-                    cz: "Petr Boháček (CZ)"
-                    eng: "Petr Boháček (CZ)"
-                desc:
-                    cz: "Diskuze: Co pro tebe znamená stát? - v českém jazyce"
-                    eng: "Discussion : What does the state mean for you? - in Czech language"
-            columnC:
-                time: "12:00"
-                where: "Paper HUB"
                 background: "25D7FF"
                 title:
                     cz: "Slush (CZ)"
@@ -199,16 +190,7 @@ schedule:
                 desc:
                     cz: "Decentralizovaný konsenzus - přednáška v českém jazyce"
                     eng: "Decentralised consensus - presentation in Czech language"
-        -   columnB:
-                time: "12:00"
-                where: "Institute"
-                title: 
-                    cz: "Frank Theys"
-                    eng: "Frank Theys"
-                desc:
-                    cz: " "
-                    eng: " "
-            columnC:
+        -   columnC:
                 time: "12:00"
                 where: "Institute"
                 title: 
@@ -337,7 +319,7 @@ schedule:
                     eng: "The Observed Man is Seldom Sincere"
             columnC:
                 time: "15:00"
-                where: "Institute"
+                where: "Paper HUB"
                 background: "25D7FF"
                 title:
                     cz: "Tomas Marada"
@@ -347,7 +329,7 @@ schedule:
                     eng: "Energy Cellular"
         -   columnC:
                 time: "15:00"
-                where: "Paper HUB"
+                where: "Institute"
                 title:
                     cz: "Tatiana Moroz"
                     eng: "Tatiana Moroz"
@@ -376,7 +358,7 @@ schedule:
                     eng: "How will Artificial Intelligence impact our lives"
             columnB:
                 time: "16:00"
-                where: "Paper HUB"
+                where: "Institute"
                 title: 
                     cz: "Kristof Atlas"
                     eng: "Kristof Atlas"
@@ -385,7 +367,7 @@ schedule:
                     eng: "On a way to colaps of cryptocurrencies? Modeling of attacks on principle of substitutability and countermeasures"
             columnC:
                 time: "16:00"
-                where: "Paper HUB"
+                where: "Institute"
                 background: "25D7FF"
                 title: 
                     cz: "Amin Rafiee"
@@ -463,16 +445,7 @@ schedule:
                     eng: ""
 
 
-        -   columnB:
-                time: "19:30"
-                where: "La Fabrika - Slévárna"
-                background: "0002FF"
-                title:
-                    cz: "Lyn Ulbricht (USA)"
-                    eng: "Lyn Ulbricht (USA)"
-                desc:
-                    cz: "Případ Silk Road: co se stalo, co bude dál a proč na tom záleží + premiéra filmu Deep Web - La Fabrika"
-                    eng: "The Silk Road Case: What happened, What’s next, Why it Matters + premiere of the movie Deep Web - La Fabrika"
+
         -   columnA:
                 time: "19:00"
                 where: "Paper HUB"
@@ -504,7 +477,16 @@ schedule:
                 desc:
                     cz: "Bitnation projekt - rok poté"
                     eng: "Bitnation project - One year after"
-
+            columnB:
+                time: "19:30"
+                where: "La Fabrika - Slévárna"
+                background: "0002FF"
+                title:
+                    cz: "Lyn Ulbricht (USA)"
+                    eng: "Lyn Ulbricht (USA)"
+                desc:
+                    cz: "Případ Silk Road: co se stalo, co bude dál a proč na tom záleží + premiéra filmu Deep Web - La Fabrika"
+                    eng: "The Silk Road Case: What happened, What’s next, Why it Matters + premiere of the movie Deep Web - La Fabrika"
 
         -   columnA:
                 time: "21:00"
