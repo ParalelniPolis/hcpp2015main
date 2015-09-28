@@ -364,7 +364,9 @@
                                     style="color:#{{schedule_item.columnC.background}}"
                                     {% endif %}
                                     >
-                                        {{schedule_item.columnC.time}} - {{schedule_item.columnC.title[page.content_language]}}
+                                        <small>
+                                            {{schedule_item.columnC.time}} - {{schedule_item.columnC.title[page.content_language]}}
+                                        </small>
                                     </h4>
                                     <h5 class="text-uppercase text-left"
                                     {% if schedule_item.columnC.background %}
