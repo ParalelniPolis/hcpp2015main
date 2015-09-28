@@ -4563,11 +4563,16 @@ h4,
 }
 h4 small,
 .h4 small {
-  font-size: 22px;
+  font-size: 18px;
 }
 h5,
 .h5 {
   font-size: 20px;
+}
+h5 small,
+.h5 small {
+  font-size: 18px;
+  font-style: italic;
 }
 h6,
 .h6 {

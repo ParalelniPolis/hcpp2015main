@@ -305,9 +305,15 @@
                             {% if schedule_item.columnA %}
                                 <div class="ct-iconBox-content">
                                     <h4 class="text-uppercase ct-fw-600 text-left">
-                                        {{schedule_item.columnA.time}} - {{schedule_item.columnA.title[page.content_language]}}
+                                        <small>
+                                            {{schedule_item.columnA.time}} - {{schedule_item.columnA.title[page.content_language]}}
+                                        </small>
                                     </h4>
-                                    <h5 style="font-style: italic; font-size: 20px;">{{schedule_item.columnA.where}}</h5>
+                                    <h5 class="text-uppercase text-left">
+                                        <small>
+                                            {{schedule_item.columnA.where}}
+                                        </small>
+                                    </h5>
                                     <p>
                                         {{schedule_item.columnA.desc[page.content_language]}}
                                     </p>
@@ -319,9 +325,15 @@
                             {% if schedule_item.columnB %}
                                 <div class="ct-iconBox-content text-left">
                                     <h4 class="text-uppercase ct-fw-600 text-left">
-                                        {{schedule_item.columnB.time}} - {{schedule_item.columnB.title[page.content_language]}}
+                                        <small>
+                                            {{schedule_item.columnB.time}} - {{schedule_item.columnB.title[page.content_language]}}
+                                        </small>
                                     </h4>
-                                    <h5 style="font-style: italic; font-size: 20px;">{{schedule_item.columnB.where}}</h5>
+                                    <h5 class="text-uppercase text-left">
+                                        <small>
+                                            {{schedule_item.columnB.where}}
+                                        </small>
+                                    </h5>
                                     <p>
                                         {{schedule_item.columnB.desc[page.content_language]}}
                                     </p>
@@ -333,9 +345,15 @@
                             {% if schedule_item.columnC %}
                                 <div class="ct-iconBox-content text-left">
                                     <h4 class="text-uppercase ct-fw-600 text-left">
-                                        {{schedule_item.columnC.time}} - {{schedule_item.columnC.title[page.content_language]}}
+                                        <small>
+                                            {{schedule_item.columnC.time}} - {{schedule_item.columnC.title[page.content_language]}}
+                                        </small>
                                     </h4>
-                                    <h5 style="font-style: italic; font-size: 20px;">{{schedule_item.columnC.where}}</h5>
+                                    <h5 class="text-uppercase text-left">
+                                        <small>
+                                            {{schedule_item.columnC.where}}
+                                        </small>
+                                    </h5>
                                     <p>
                                         {{schedule_item.columnC.desc[page.content_language]}}
                                     </p>
