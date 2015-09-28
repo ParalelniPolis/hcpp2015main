@@ -310,7 +310,9 @@
                                         style="color:#{{schedule_item.columnA.background}}"
                                     {% endif %}
                                     >
-                                        {{schedule_item.columnA.time}} - {{schedule_item.columnA.title[page.content_language]}}
+                                        <small>
+                                            {{schedule_item.columnC.time}} - {{schedule_item.columnC.title[page.content_language]}}
+                                        </small>
                                     </h4>
                                     <h5 class="text-uppercase text-left"
                                     {% if schedule_item.columnA.background %}
@@ -337,7 +339,9 @@
                                         style="color:#{{schedule_item.columnB.background}}"
                                     {% endif %}
                                     >
-                                        {{schedule_item.columnB.time}} - {{schedule_item.columnB.title[page.content_language]}}
+                                        <small>
+                                            {{schedule_item.columnC.time}} - {{schedule_item.columnC.title[page.content_language]}}
+                                        </small>
                                     </h4>
                                     <h5 class="text-uppercase text-left"
                                     {% if schedule_item.columnB.background %}
