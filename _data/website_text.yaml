@@ -93,7 +93,7 @@ programme_sections:
                 eng: "Science and technologies"
             content:
                 cz: "3D tisk / drony<br/>biohacking / energy<br/>cellular<br/><br/>"
-                eng: "3D printing / drone<br/>biohacking / energy<br/>cellular<br/><br/><br/>"
+                eng: "3D printing / drone<br/>biohacking / energy<br/>cellular<br/><br/>"
         -   title: 
                 cz: "SVOBODA<br/>A KRYPTOANARCHIE"
                 eng: "Freedom and cryptoanarchy"
@@ -648,7 +648,7 @@ speakers:
 
         -   name: "Project Paralelní Polis (CZ)"
             link: "polis"
-            description: "Intitute of Cryptoanarchy / Bitcoin Coffee / Makers Lab / Paper Hub / Hackerspace and more"
+            description: "Hackerspace Institute of Cryptoanarchy / Bitcoin Coffee / Makers Lab / Paper Hub and more"
 
 
 speakers_page:
