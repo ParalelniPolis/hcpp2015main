@@ -222,7 +222,7 @@ schedule:
 
 
         -   columnA:
-                time: "13:30"
+                time: "13:00"
                 where: "Paper HUB"
                 title:
                     cz: "Ondřej Neff (CZ)"
@@ -231,7 +231,7 @@ schedule:
                     cz: "Blackout"
                     eng: "Blackout"
             columnB:
-                time: "13:30"
+                time: "13:00"
                 where: "Paper HUB"
                 title:
                     cz: "Paul Rosenberg (USA)"
@@ -240,7 +240,7 @@ schedule:
                     cz: "Soudnictví bez státu"
                     eng: "Justice without state"
             columnC:
-                time: "13:30"
+                time: "13:00"
                 where: "Paper HUB"
                 background: "25D7FF"
                 title: 
@@ -250,7 +250,7 @@ schedule:
                     cz: "3d print fashion show: fashion.stl - Co děláme: tvoříme vztah mezi módou a 3d tiskem, posouváme mezníky"
                     eng: "3d print fashion show: fashion.stl - What we do: creating a relationship between fashion and 3d print, we are moving landmarks"
         -   columnB:
-                time: "13:30"
+                time: "13:00"
                 where: "Institute"
                 title:
                     cz: "Jasper Philipp Kalwies (GER)"
