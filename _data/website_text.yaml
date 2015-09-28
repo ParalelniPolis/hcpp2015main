@@ -338,15 +338,6 @@ schedule:
                     eng: "Bitcoin, Blokchain a Umělci: Jak mohou kreativci najít svou svobodu přes krypto"
 
 
-        -   columnC:
-                time: "16:00"
-                where: "Paper HUB"
-                title:
-                    cz: "Sam Nemeth & Inne Poppe (NL)"
-                    eng: "Sam Nemeth & Inne Poppe (NL)"
-                desc:
-                    cz: "Hipíci z pekla: Promítaní dokumentárního filmu o hackeřský scéně v Amsterdamu s následnou diskusí s Ine Poppe a Samem Nemethem (tvůrci filmu)"
-                    eng: "Hippies from Hell: Screening of documentary movie about hacking scene in Amsterdam with following discussion with Ine Poppe and Sam Nemeth (makers of the movie)"
         -   columnA:
                 time: "16:00"
                 where: "Institute"
@@ -375,6 +366,16 @@ schedule:
                 desc:
                     cz: "Decentralizovaná revoluce"
                     eng: "Decentralized Revolution"
+
+        -   columnC:
+                time: "16:00"
+                where: "Paper HUB"
+                title:
+                    cz: "Sam Nemeth & Inne Poppe (NL)"
+                    eng: "Sam Nemeth & Inne Poppe (NL)"
+                desc:
+                    cz: "Hipíci z pekla: Promítaní dokumentárního filmu o hackeřský scéně v Amsterdamu s následnou diskusí s Ine Poppe a Samem Nemethem (tvůrci filmu)"
+                    eng: "Hippies from Hell: Screening of documentary movie about hacking scene in Amsterdam with following discussion with Ine Poppe and Sam Nemeth (makers of the movie)"
 
 
         -   columnA:
