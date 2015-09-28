@@ -466,6 +466,17 @@ schedule:
                     cz: "Kyberválka v současnosti"
                     eng: "CyberWar Now"
 
+            columnC:
+                time: "19:00"
+                where: "Makers Lab"
+                background: "25D7FF"
+                title:
+                    cz: "RSD"
+                    eng: "RSD"
+                desc:
+                    cz: "Electronic music, deep house, techno"
+                    eng: "Electronic music, deep house, techno"
+
         -   columnB:
                 time: "19:30"
                 where: "La Fabrika - Slévárna"
@@ -539,16 +550,7 @@ schedule:
                 desc:
                     cz: "dnb"
                     eng: "dnb"
-            columnC:
-                time: "19:00"
-                where: "Makers Lab"
-                background: "25D7FF"
-                title:
-                    cz: "RSD"
-                    eng: "RSD"
-                desc:
-                    cz: "Electronic music, deep house, techno"
-                    eng: "Electronic music, deep house, techno"
+
 
         -   columnA:
                 time: "23:30"
