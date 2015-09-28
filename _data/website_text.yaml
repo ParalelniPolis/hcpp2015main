@@ -406,17 +406,6 @@ schedule:
                     cz: "Brainmachine workshop"
                     eng: "Brainmachine workshop"
 
-
-            columnB:
-                time: "18:00"
-                where: "La Fabrika - Hlavní sál"
-                background: "0002FF"
-                title:
-                    cz: "Fashion STL"
-                    eng: "Fashion STL"
-                desc:
-                    cz: "3D tištěná módní show - La Fabrika"
-                    eng: "3D printed fashion show -  La Fabrika"
         -   columnA:
                 time: "18:00"
                 where: "Institute"
@@ -445,6 +434,16 @@ schedule:
                     cz: ""
                     eng: ""
 
+        -   columnB:
+                time: "18:00"
+                where: "La Fabrika - Hlavní sál"
+                background: "0002FF"
+                title:
+                    cz: "Fashion STL"
+                    eng: "Fashion STL"
+                desc:
+                    cz: "3D tištěná módní show - La Fabrika"
+                    eng: "3D printed fashion show -  La Fabrika"
 
 
         -   columnA:
