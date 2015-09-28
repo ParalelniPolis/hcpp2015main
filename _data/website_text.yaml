@@ -130,7 +130,7 @@ schedule:
                 desc:
                     cz: "Drony jsou všude"
                     eng: "Drones are everywhere"
-        -   columnC:
+            columnC:
                 time: "10:00"
                 where: "Institute"
                 background: "25D7FF"
@@ -398,6 +398,7 @@ schedule:
         -   columnA:
                 time: "17:00"
                 where: "MakersLab"
+                background: "25D7FF"
                 title: 
                     cz: "Philip Hilm, Premek Paska, Josef Strunc, Jan Machac, Jan Knopp, Michal Vlasak,Olga Afanasjeva"
                     eng: "Philip Hilm, Premek Paska, Josef Strunc, Jan Machac, Jan Knopp, Michal Vlasak,Olga Afanasjeva"
@@ -406,7 +407,7 @@ schedule:
                     eng: "Brainmachine workshop"
 
 
-        -   columnB:
+            columnB:
                 time: "18:00"
                 where: "La Fabrika - Hlavní sál"
                 background: "0002FF"
@@ -616,7 +617,7 @@ ticket:
         eng: |
             790 CZK (in BTC) - Ticket is valid for all Congress events with the exception of Fashion.stl show. Includes Paralelní Polis Bitcoin card with 1 free coffee. <br>
             890 CZK (in BTC) - Ticket is valid for all Congress events INCLUDING the Fashion.stl show. Includes Paralelní Polis Bitcoin card with 1 free coffee. <br>
-            4500 CZK (in BTC ) - VIP ticket to all events, poster, T-shirt, free coffee, a bottle of wine Autentic,  place reservation, free admission to the fashion show Fashion.stl accompanied by one person.<br>
+            4500 CZK (in BTC) - VIP ticket to all events, poster, T-shirt, free coffee, a bottle of wine Autentic,  place reservation, free admission to the fashion show Fashion.stl accompanied by one person.<br>
 
 
 
