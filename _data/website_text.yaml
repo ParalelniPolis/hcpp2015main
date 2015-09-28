@@ -466,6 +466,16 @@ schedule:
                     cz: "Kyberválka v současnosti"
                     eng: "CyberWar Now"
 
+        -   columnB:
+                time: "19:30"
+                where: "La Fabrika - Slévárna"
+                background: "0002FF"
+                title:
+                    cz: "Lyn Ulbricht (USA)"
+                    eng: "Lyn Ulbricht (USA)"
+                desc:
+                    cz: "Případ Silk Road: co se stalo, co bude dál a proč na tom záleží + premiéra filmu Deep Web - La Fabrika"
+                    eng: "The Silk Road Case: What happened, What’s next, Why it Matters + premiere of the movie Deep Web - La Fabrika"
 
         -   columnA:
                 time: "20:00"
@@ -477,16 +487,7 @@ schedule:
                 desc:
                     cz: "Bitnation projekt - rok poté"
                     eng: "Bitnation project - One year after"
-            columnB:
-                time: "19:30"
-                where: "La Fabrika - Slévárna"
-                background: "0002FF"
-                title:
-                    cz: "Lyn Ulbricht (USA)"
-                    eng: "Lyn Ulbricht (USA)"
-                desc:
-                    cz: "Případ Silk Road: co se stalo, co bude dál a proč na tom záleží + premiéra filmu Deep Web - La Fabrika"
-                    eng: "The Silk Road Case: What happened, What’s next, Why it Matters + premiere of the movie Deep Web - La Fabrika"
+
 
         -   columnA:
                 time: "21:00"
