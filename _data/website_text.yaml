@@ -500,6 +500,43 @@ schedule:
                 desc:
                     cz: "Kyberválka v současnosti"
                     eng: "CyberWar Now"
+        -   columnA:
+                time: "21:30"
+                where: "PP"
+                title:
+                    cz: "produkt metamuzika"
+                    eng: "produkt metamuzika"
+                desc:
+                    cz: "ambient-noise"
+                    eng: "ambient-noise"
+            columnB:
+                time: "21:00"
+                where: "HUB"
+                title:
+                    cz: "Juraj Bednár (SVK)"
+                    eng: "Juraj Bednár (SVK)"
+                desc:
+                    cz: "Biohacking"
+                    eng: "Biohacking"
+        -   columnA:
+                time: "23:00"
+                where: "PP"
+                title:
+                    cz: "produkt metamuzika"
+                    eng: "produkt metamuzika"
+                desc:
+                    cz: "ambient-noise"
+                    eng: "ambient-noise"
+            columnB:
+                time: "21:00"
+                where: "HUB"
+                title:
+                    cz: "Juraj Bednár (SVK)"
+                    eng: "Juraj Bednár (SVK)"
+                desc:
+                    cz: "Biohacking"
+                    eng: "Biohacking"
+
 ticket:
     title:
         cz: "Vstupenka<br>790 KČ (BTC)"
