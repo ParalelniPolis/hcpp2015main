@@ -87,25 +87,25 @@ programme_sections:
                 eng: "Political Art"
             content:
                 cz: "umění a hacking<br/><br/><br/><br/>"
-                eng: "art and hacking<br/><br/><br/><br/>"
+                eng: "art and hacking<br/><br/><br/><br/><br/>"
         -   title: 
                 cz: "VĚDA<br/>A TECHNOLOGIE"
                 eng: "Science and technologies"
             content:
-                cz: "3D tisk / drony<br/>biohacking / energy<br/>cellular<br/>"
-                eng: "3D printing / drone<br/>biohacking / energy<br/>cellular<br/>"
+                cz: "3D tisk / drony<br/>biohacking / energy<br/>cellular<br/><br/>"
+                eng: "3D printing / drone<br/>biohacking / energy<br/>cellular<br/><br/><br/>"
         -   title: 
                 cz: "SVOBODA<br/>A KRYPTOANARCHIE"
                 eng: "Freedom and cryptoanarchy"
             content:
-                cz: "kryptotechnologie<br/>IT security / soukromí<br/>svoboda na internetu<br/>"
+                cz: "kryptotechnologie<br/>IT security / soukromí<br/>svoboda na internetu<br/><br/>"
                 eng: "cryptotechnologies<br/>cyber security / privacy<br/>internet freedom"
         -   title: 
                 cz: "DECENTRALIZOVANÁ EKONOMIKA<br/>A KRYPTOMĚNY"
                 eng: "Decetralised economy and cryptocurrencies"
             content:
                 cz: "bitcoin blockchain<br/>peer to peer<br/>ekonomika"
-                eng: "bitcoin blockchain<br/>peer to peer<br/>economy"
+                eng: "bitcoin blockchain<br/>peer to peer<br/>economy<br/>"
 
 schedule:
     title:
