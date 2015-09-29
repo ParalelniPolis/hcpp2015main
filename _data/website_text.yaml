@@ -142,7 +142,7 @@ schedule:
         -   columnB:
                 time: "10:00"
                 where: "Institute"
-                background: "303030"
+                background: "909090"
                 title:
                     cz: "Slush (CZ)"
                     eng: "Slush (CZ)"
@@ -152,7 +152,7 @@ schedule:
             columnC:
                 time: "10:00"
                 where: "Paper HUB"
-                background: "303030"
+                background: "909090"
                 title:
                     cz: "JIndřich Ráftl (CZ)"
                     eng: "JIndřich Ráftl (CZ)"
@@ -180,7 +180,7 @@ schedule:
         -   columnB:
                 time: "11:00"
                 where: "Paper HUB"
-                background: "303030"
+                background: "909090"
                 title: 
                     cz: "Pavol Rusnak / stick (SK)"
                     eng: "Pavol Rusnak / stick (SK)"
@@ -190,7 +190,7 @@ schedule:
             columnC:
                 time: "11:00"
                 where: "Institute"
-                background: "303030"
+                background: "909090"
                 title: 
                     cz: "Jan Nálepa (CZ)"
                     eng: "Jan Nálepa (CZ)"
@@ -218,7 +218,7 @@ schedule:
         -   columnB:
                 time: "12:00"
                 where: "Institute"
-                background: "303030"
+                background: "909090"
                 title: 
                     cz: "Martin Šíp (CZ)"
                     eng: "Martin Šíp (CZ)"
@@ -228,7 +228,7 @@ schedule:
             columnC:
                 time: "12:00"
                 where: "Paper HUB"
-                background: "303030"
+                background: "909090"
                 title:
                     cz: "Petr Boháček (CZ)"
                     eng: "Petr Boháček (CZ)"
@@ -265,7 +265,7 @@ schedule:
         -   columnB:
                 time: "13:00"
                 where: "Institute"
-                background: "303030"
+                background: "909090"
                 title:
                     cz: "Paralelní Polis (CZ)"
                     eng: "Paralelní Polis (CZ)"
@@ -275,7 +275,7 @@ schedule:
             columnC:
                 time: "13:00"
                 where: "Paper HUB"
-                background: "303030"
+                background: "909090"
                 title: 
                     cz: "Michal Prach Kotr (CZ)"
                     eng: "Michal Prach Kotr (CZ)"
@@ -312,7 +312,7 @@ schedule:
         -   columnB:
                 time: "14:00"
                 where: "Institute"
-                background: "303030"
+                background: "909090"
                 title:
                     cz: "František Weyda (CZ)"
                     eng: "František Weyda (CZ)"
@@ -349,7 +349,7 @@ schedule:
         -   columnC:
                 time: "15:00"
                 where: "Institute"
-                background: "303030"
+                background: "909090"
                 title:
                     cz: "Michal Paal (SVK)"
                     eng: "Michal Paal (SVK)"
@@ -377,7 +377,7 @@ schedule:
             columnC:
                 time: "16:00"
                 where: "Institute"
-                background: "303030"
+                background: "909090"
                 title: 
                     cz: "Amin Rafiee"
                     eng: "Amin Rafiee"
@@ -387,7 +387,7 @@ schedule:
         -   columnB:
                 time: "16:00"
                 where: "Institute"
-                background: "303030"
+                background: "909090"
                 title: 
                     cz: "Viola van Alphen"
                     eng: "Viola van Alphen"
@@ -424,7 +424,7 @@ schedule:
         -   columnA:
                 time: "17:00"
                 where: "MakersLab"
-                background: "303030"
+                background: "909090"
                 title: 
                     cz: "Philip Hilm, Premek Paska, Josef Strunc, Jan Machac, Jan Knopp, Michal Vlasak,Olga Afanasjeva"
                     eng: "Philip Hilm, Premek Paska, Josef Strunc, Jan Machac, Jan Knopp, Michal Vlasak,Olga Afanasjeva"
@@ -509,7 +509,7 @@ schedule:
         -   columnA:
                 time: "20:00"
                 where: "Paper HUB"
-                background: "303030"
+                background: "909090"
                 title:
                     cz: "Petr Boháček (CZ)"
                     eng: "Petr Boháček (CZ)"
@@ -537,7 +537,7 @@ schedule:
         -   columnA:
                 time: "21:00"
                 where: "Institute"
-                background: "303030"
+                background: "909090"
                 title:
                     cz: "Juraj Bednár (SVK)"
                     eng: "Juraj Bednár (SVK)"
