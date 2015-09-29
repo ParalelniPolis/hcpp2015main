@@ -744,6 +744,10 @@ speakers:
             link: "nalepa"
             description: "Multimedia artist, creator of audiovisual interactive installations"
 
+        -   name: "Ondřej Neff (CZ)"
+            link: "neff"
+            description: "czech writer of science fiction and journalist"
+
         -   name: "Martin Šíp (CZ)"
             link: "sip"
             description: "Cryptocurrency enthusiast and Bitcoin meetup organizer"
