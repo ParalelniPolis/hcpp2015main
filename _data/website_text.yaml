@@ -124,6 +124,7 @@ schedule:
         -   columnB:
                 time: "10:00"
                 where: "Paper HUB"
+                link: "braun"
                 title:
                     cz: "Frank Braun (GB)"
                     eng: "Frank Braun (GB)"
@@ -133,6 +134,7 @@ schedule:
             columnC:
                 time: "10:00"
                 where: "Institute"
+                link: "zatko"
                 title: 
                     cz: "Tomáš Zaťko (SK)"
                     eng: "Tomáš Zaťko (SK)"
@@ -141,18 +143,20 @@ schedule:
                     eng: "Extincton of your privacy?"
         -   columnB:
                 time: "10:00"
-                where: "Institute"
+                where: "Institute - presentation in CZE"
                 background: "909090"
+                link: "palatinus"
                 title:
                     cz: "Slush (CZ)"
                     eng: "Slush (CZ)"
                 desc:
-                    cz: "Decentralizovaný konsenzus - přednáška v českém jazyce"
-                    eng: "Decentralised consensus - presentation in Czech language"
+                    cz: "Decentralizovaný konsenzus"
+                    eng: "Decentralised consensus"
             columnC:
                 time: "10:00"
                 where: "Paper HUB"
                 background: "909090"
+                link: "raftl"
                 title:
                     cz: "JIndřich Ráftl (CZ)"
                     eng: "JIndřich Ráftl (CZ)"
@@ -162,6 +166,7 @@ schedule:
         -   columnB:
                 time: "11:00"
                 where: "Institute"
+                link: "jansa"
                 title: 
                     cz: "Janez Jansa (SI)"
                     eng: "Janez Jansa (SI)"
@@ -181,6 +186,7 @@ schedule:
                 time: "11:00"
                 where: "Paper HUB"
                 background: "909090"
+                link: "rusnak"
                 title: 
                     cz: "Pavol Rusnak / stick (SK)"
                     eng: "Pavol Rusnak / stick (SK)"
@@ -191,6 +197,7 @@ schedule:
                 time: "11:00"
                 where: "Institute"
                 background: "909090"
+                link: "nalepa"
                 title: 
                     cz: "Jan Nálepa (CZ)"
                     eng: "Jan Nálepa (CZ)"
@@ -200,6 +207,7 @@ schedule:
         -   columnB:
                 time: "12:00"
                 where: "Paper HUB"
+                link: "kalwies"
                 title: 
                     cz: "Jasper Philipp Kalwies (DE)"
                     eng: "Jasper Philipp Kalwies (DE)"
@@ -209,6 +217,7 @@ schedule:
             columnC:
                 time: "12:00"
                 where: "Institute"
+                link: "nemeth"
                 title: 
                     cz: "Sam Nemeth (NL)"
                     eng: "Sam Nemeth (NL)"
@@ -219,6 +228,7 @@ schedule:
                 time: "12:00"
                 where: "Institute"
                 background: "909090"
+                link: "sip"
                 title: 
                     cz: "Martin Šíp (CZ)"
                     eng: "Martin Šíp (CZ)"
@@ -229,6 +239,7 @@ schedule:
                 time: "12:00"
                 where: "Paper HUB"
                 background: "909090"
+                link: "bohacek"
                 title:
                     cz: "Petr Boháček (CZ)"
                     eng: "Petr Boháček (CZ)"
@@ -238,6 +249,7 @@ schedule:
         -   columnA:
                 time: "13:00"
                 where: "Institute"
+                link: "neff"
                 title:
                     cz: "Ondřej Neff (CZ)"
                     eng: "Ondřej Neff (CZ)"
@@ -247,6 +259,7 @@ schedule:
             columnB:
                 time: "13:00"
                 where: "Institute"
+                link: "rosenberg"
                 title:
                     cz: "Paul Rosenberg (USA)"
                     eng: "Paul Rosenberg (USA)"
@@ -256,6 +269,7 @@ schedule:
             columnC:
                 time: "13:00"
                 where: "Paper HUB"
+                link: "luptak"
                 title: 
                     cz: "Pavol Lupták (SK)"
                     eng: "Pavol Lupták (SK)"
@@ -276,6 +290,7 @@ schedule:
                 time: "13:00"
                 where: "Paper HUB"
                 background: "909090"
+                link: "kotr"
                 title: 
                     cz: "Michal Prach Kotr (CZ)"
                     eng: "Michal Prach Kotr (CZ)"
@@ -285,6 +300,7 @@ schedule:
         -   columnA:
                 time: "14:00"
                 where: "Institute"
+                link: "smuggler"
                 title:
                     cz: "Smuggler (?)"
                     eng: "Smuggler (?)"
@@ -294,6 +310,7 @@ schedule:
             columnB:
                 time: "14:00"
                 where: "Paper HUB"
+                link: "tourianski"
                 title:
                     cz: "Julia Tourianski (GB)"
                     eng: "Julia Tourianski (GB)"
@@ -313,6 +330,7 @@ schedule:
                 time: "14:00"
                 where: "Institute"
                 background: "909090"
+                link: "weyda"
                 title:
                     cz: "František Weyda (CZ)"
                     eng: "František Weyda (CZ)"
@@ -322,6 +340,7 @@ schedule:
         -   columnA:
                 time: "15:00"
                 where: "Paper HUB"
+                link: "platzer"
                 title:
                     cz: "Joerg Platzer (DE)"
                     eng: "Joerg Platzer (DE)"
@@ -331,6 +350,7 @@ schedule:
             columnB:
                 time: "15:00"
                 where: "Institute"
+                link: "menno"
                 title:
                     cz: "Menno & Frank Theys (NL)"
                     eng: "Menno & Frank Theys (NL)"
@@ -340,6 +360,7 @@ schedule:
             columnC:
                 time: "15:00"
                 where: "Paper HUB"
+                link: "moroz"
                 title:
                     cz: "Tatiana Moroz (USA)"
                     eng: "Tatiana Moroz (USA)"
@@ -350,6 +371,7 @@ schedule:
                 time: "15:00"
                 where: "Institute"
                 background: "909090"
+                link: "paal"
                 title:
                     cz: "Michal Paal (SVK)"
                     eng: "Michal Paal (SVK)"
@@ -359,6 +381,7 @@ schedule:
         -   columnA:
                 time: "16:00"
                 where: "Institute"
+                link: "himl"
                 title:
                     cz: "Philip Hilm (CZ)"
                     eng: "Philip Hilm (CZ)"
@@ -368,6 +391,7 @@ schedule:
             columnB:
                 time: "16:00"
                 where: "Paper HUB"
+                link: "atlas"
                 title: 
                     cz: "Kristof Atlas (US)"
                     eng: "Kristof Atlas (US)"
@@ -377,6 +401,7 @@ schedule:
             columnC:
                 time: "16:00"
                 where: "Paper HUB"
+                link: "nemeth"
                 title:
                     cz: "Sam Nemeth & Inne Poppe (NL)"
                     eng: "Sam Nemeth & Inne Poppe (NL)"
@@ -387,6 +412,7 @@ schedule:
                 time: "16:00"
                 where: "Institute"
                 background: "909090"
+                link: "alphen"
                 title: 
                     cz: "Viola van Alphen"
                     eng: "Viola van Alphen"
@@ -397,6 +423,7 @@ schedule:
                 time: "16:00"
                 where: "Institute"
                 background: "909090"
+                link: "rafiee"
                 title:
                     cz: "Amin Rafiee"
                     eng: "Amin Rafiee"
@@ -406,6 +433,7 @@ schedule:
         -   columnA:
                 time: "17:00"
                 where: "Paper HUB"
+                link: "pinkponyexpress"
                 title: 
                     cz: "Pony Pink Express (NL)"
                     eng: "Pony Pink Express (NL)"
@@ -415,6 +443,7 @@ schedule:
             columnB:
                 time: "17:00"
                 where: "Institute"
+                link: "poppe"
                 title:
                     cz: "Inne Poppe (NL)"
                     eng: "Inne Poppe (NL)"
@@ -434,6 +463,7 @@ schedule:
                 time: "17:00"
                 where: "MakersLab"
                 background: "909090"
+                link: "himl"
                 title: 
                     cz: "Philip Hilm, Premek Paska, Josef Strunc, Jan Machac, Jan Knopp, Michal Vlasak, Olga Afanasjeva"
                     eng: "Philip Hilm, Premek Paska, Josef Strunc, Jan Machac, Jan Knopp, Michal Vlasak, Olga Afanasjeva"
@@ -443,6 +473,7 @@ schedule:
         -   columnA:
                 time: "18:00"
                 where: "Institute"
+                link: "materna"
                 title:
                     cz: "Jiří Materna (CZ)"
                     eng: "Jiří Materna (CZ)"
@@ -452,6 +483,7 @@ schedule:
             columnB:
                 time: "18:00"
                 where: "Paper HUB"
+                link: "krotofil"
                 title:
                     cz: "Marina Krotofil (GER)"
                     eng: "Marina Krotofil (GER)"
@@ -472,6 +504,7 @@ schedule:
                 time: "19:00"
                 where: "Paper HUB"
                 background: "0002FF"
+                link: "bitnik"
                 title:
                     cz: "!Mediengruppe Bitnik (CH)"
                     eng: "!Mediengruppe Bitnik (CH)"
@@ -482,16 +515,28 @@ schedule:
                 time: "19:30"
                 where: "La Fabrika - Slévárna"
                 background: "0002FF"
+                link: "ulbricht"
                 title:
                     cz: "Lyn Ulbricht (USA)"
                     eng: "Lyn Ulbricht (USA)"
                 desc:
                     cz: "Případ Silk Road: co se stalo, co bude dál a proč na tom záleží + premiéra filmu Deep Web - La Fabrika"
                     eng: "The Silk Road Case: What happened, What’s next, Why it Matters + premiere of the movie Deep Web - La Fabrika"
+            columnC:
+                time: "19:00"
+                where: "Makers Lab"
+                background: "25D7FF"
+                title:
+                    cz: "RSD"
+                    eng: "RSD"
+                desc:
+                    cz: "Electronic music, deep house, techno"
+                    eng: "Electronic music, deep house, techno"
         -   columnA:
                 time: "20:00"
                 where: "Institute"
                 background: "0002FF"
+                link: "tempelhof"
                 title: 
                     cz: "Susanne Tarkowski Tempelhof"
                     eng: "Susanne Tarkowski Tempelhof"
@@ -501,6 +546,7 @@ schedule:
             columnB:
                 time: "20:00"
                 where: "Institute"
+                link: "baros"
                 title:
                     cz: "Martin Baroš (CZK)"
                     eng: "Martin Baroš (CZK)"
@@ -511,6 +557,7 @@ schedule:
                 time: "20:00"
                 where: "Paper HUB"
                 background: "909090"
+                link: "bohacek"
                 title:
                     cz: "Petr Boháček (CZ)"
                     eng: "Petr Boháček (CZ)"
@@ -520,6 +567,7 @@ schedule:
         -   columnA:
                 time: "21:00"
                 where: "Paper HUB"
+                link: "marsiske"
                 title: 
                     cz: "Stefan Marsiske (non-citizen)"
                     eng: "Stefan Marsiske (non-citizen)"
@@ -529,6 +577,7 @@ schedule:
             columnB:
                 time: "21:00"
                 where: "Paper HUB"
+                link: "bednar"
                 title:
                     cz: "Juraj Bednár (SVK)"
                     eng: "Juraj Bednár (SVK)"
@@ -539,6 +588,7 @@ schedule:
                 time: "21:00"
                 where: "Institute"
                 background: "909090"
+                link: "bednar"
                 title:
                     cz: "Juraj Bednár (SVK)"
                     eng: "Juraj Bednár (SVK)"
@@ -566,15 +616,15 @@ schedule:
                     cz: "dnb"
                     eng: "dnb"
             columnC:
-                time: "19:00"
+                time: "21:30"
                 where: "Makers Lab"
                 background: "25D7FF"
                 title:
-                    cz: "RSD"
-                    eng: "RSD"
+                    cz: "Paralelní polis and friends DJ's club"
+                    eng: "Paralelní polis and friends DJ's club"
                 desc:
-                    cz: "Electronic music, deep house, techno"
-                    eng: "Electronic music, deep house, techno"
+                    cz: "breakcore, noise, rudies"
+                    eng: "breakcore, noise, rudies"
         -   columnB:
                 time: "22:00"
                 where: "La Fabrika"
@@ -585,16 +635,6 @@ schedule:
                 desc:
                     cz: "funky, soul, acid jazz, break"
                     eng: "funky, soul, acid jazz, break"
-            columnC:
-                time: "21:30"
-                where: "Makers Lab"
-                background: "25D7FF"
-                title:
-                    cz: "Paralelní polis and friends DJ's club"
-                    eng: "Paralelní polis and friends DJ's club"
-                desc:
-                    cz: "breakcore, noise, rudies"
-                    eng: "breakcore, noise, rudies"
         -   columnA:
                 time: "23:30"
                 where: "Makers Lab"

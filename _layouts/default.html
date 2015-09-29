@@ -299,32 +299,38 @@
                 <!-- Schedule programme -->
                 {% for schedule_item in site.data.website_text.schedule.rows %}
                     <div class="row ct-u-borderLeft ct-u-borderRight">
-
                         <div class="col-sm-4 col-md-4 ct-u-marginBottom20">
                             {% if schedule_item.columnA %}
                                 <div class="ct-iconBox-content">
-
-                                    <h4 class="text-uppercase ct-fw-600 text-left">
-                                        <small
-                                        {% if schedule_item.columnA.background %}
-                                        style="color:#{{schedule_item.columnA.background}}"
+                                    {% if schedule_item.columnA.link %}
+                                        {% if page.content_language == "cz" %}
+                                            <a href="/speakers/{{schedule_item.columnA.link}}.html">
+                                        {% else %}
+                                            <a href="/speakers/eng/{{schedule_item.columnA.link}}.html">
                                         {% endif %}
-                                        >
-                                            {{schedule_item.columnA.time}} - {{schedule_item.columnA.title[page.content_language]}}
-                                        </small>
-                                    </h4>
-                                    <h5 class="text-uppercase text-left">
-                                        <small
-                                        {% if schedule_item.columnA.background %}
-                                        style="color:#{{schedule_item.columnA.background}}"
-                                        {% endif %}
-                                        >
-                                            {{schedule_item.columnA.where}}
-                                        </small>
-                                    </h5>
-                                    <p>
-                                        {{schedule_item.columnA.desc[page.content_language]}}
-                                    </p>
+                                    {% endif %}
+                                        <h4 class="text-uppercase ct-fw-600 text-left">
+                                            <small
+                                            {% if schedule_item.columnA.background %}
+                                            style="color:#{{schedule_item.columnA.background}}"
+                                            {% endif %}
+                                            >
+                                                {{schedule_item.columnA.time}} - {{schedule_item.columnA.title[page.content_language]}}
+                                            </small>
+                                        </h4>
+                                        <h5 class="text-uppercase text-left">
+                                            <small
+                                            {% if schedule_item.columnA.background %}
+                                            style="color:#{{schedule_item.columnA.background}}"
+                                            {% endif %}
+                                            >
+                                                {{schedule_item.columnA.where}}
+                                            </small>
+                                        </h5>
+                                        <p>
+                                            {{schedule_item.columnA.desc[page.content_language]}}
+                                        </p>
+                                    </a>
                                 </div>
                             {% endif %}
                         </div>
@@ -332,27 +338,35 @@
                         <div class="col-sm-4 col-md-4 ct-u-marginBottom20">
                             {% if schedule_item.columnB %}
                                 <div class="ct-iconBox-content text-left">
-                                    <h4 class="text-uppercase ct-fw-600 text-left">
-                                        <small
-                                        {% if schedule_item.columnB.background %}
-                                        style="color:#{{schedule_item.columnB.background}}"
+                                    {% if schedule_item.columnA.link %}
+                                        {% if page.content_language == "cz" %}
+                                            <a href="/speakers/{{schedule_item.columnB.link}}.html">
+                                        {% else %}
+                                            <a href="/speakers/eng/{{schedule_item.columnB.link}}.html">
                                         {% endif %}
-                                        >
-                                            {{schedule_item.columnB.time}} - {{schedule_item.columnB.title[page.content_language]}}
-                                        </small>
-                                    </h4>
-                                    <h5 class="text-uppercase text-left">
-                                        <small
-                                        {% if schedule_item.columnB.background %}
-                                        style="color:#{{schedule_item.columnB.background}}"
-                                        {% endif %}
-                                        >
-                                            {{schedule_item.columnB.where}}
-                                        </small>
-                                    </h5>
-                                    <p>
-                                        {{schedule_item.columnB.desc[page.content_language]}}
-                                    </p>
+                                    {% endif %}
+                                        <h4 class="text-uppercase ct-fw-600 text-left">
+                                            <small
+                                            {% if schedule_item.columnB.background %}
+                                            style="color:#{{schedule_item.columnB.background}}"
+                                            {% endif %}
+                                            >
+                                                {{schedule_item.columnB.time}} - {{schedule_item.columnB.title[page.content_language]}}
+                                            </small>
+                                        </h4>
+                                        <h5 class="text-uppercase text-left">
+                                            <small
+                                            {% if schedule_item.columnB.background %}
+                                            style="color:#{{schedule_item.columnB.background}}"
+                                            {% endif %}
+                                            >
+                                                {{schedule_item.columnB.where}}
+                                            </small>
+                                        </h5>
+                                        <p>
+                                            {{schedule_item.columnB.desc[page.content_language]}}
+                                        </p>
+                                    </a>
                                 </div>
                             {% endif %}
                         </div>
@@ -360,34 +374,40 @@
                         <div class="col-sm-4 col-md-4 ct-u-marginBottom20">
                             {% if schedule_item.columnC %}
                                 <div class="ct-iconBox-content text-left">
-                                    <h4 class="text-uppercase ct-fw-600 text-left">
-                                        <small
-                                        {% if schedule_item.columnC.background %}
-                                        style="color:#{{schedule_item.columnC.background}}"
+                                    {% if schedule_item.columnA.link %}
+                                        {% if page.content_language == "cz" %}
+                                        <a href="/speakers/{{schedule_item.columnC.link}}.html">
+                                        {% else %}
+                                            <a href="/speakers/eng/{{schedule_item.columnC.link}}.html">
                                         {% endif %}
-                                        >
-                                            {{schedule_item.columnC.time}} - {{schedule_item.columnC.title[page.content_language]}}
-                                        </small>
-                                    </h4>
-                                    <h5 class="text-uppercase text-left">
-                                        <small
-                                        {% if schedule_item.columnC.background %}
-                                        style="color:#{{schedule_item.columnC.background}}"
-                                        {% endif %}
-                                        >
-                                            {{schedule_item.columnC.where}}
-                                        </small>
-                                    </h5>
-                                    <p>
-                                        {{schedule_item.columnC.desc[page.content_language]}}
-                                    </p>
+                                    {% endif %}
+                                        <h4 class="text-uppercase ct-fw-600 text-left">
+                                            <small
+                                            {% if schedule_item.columnC.background %}
+                                            style="color:#{{schedule_item.columnC.background}}"
+                                            {% endif %}
+                                            >
+                                                {{schedule_item.columnC.time}} - {{schedule_item.columnC.title[page.content_language]}}
+                                            </small>
+                                        </h4>
+                                        <h5 class="text-uppercase text-left">
+                                            <small
+                                            {% if schedule_item.columnC.background %}
+                                            style="color:#{{schedule_item.columnC.background}}"
+                                            {% endif %}
+                                            >
+                                                {{schedule_item.columnC.where}}
+                                            </small>
+                                        </h5>
+                                        <p>
+                                            {{schedule_item.columnC.desc[page.content_language]}}
+                                        </p>
+                                    </a>
                                 </div>
                             {% endif %}
                         </div>
-
                     </div>
                 {% endfor %}
-
             </div>
         </section>
     </section>
