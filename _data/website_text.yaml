@@ -134,8 +134,8 @@ schedule:
                 time: "10:00"
                 where: "Institute"
                 title: 
-                    cz: "Tomáš Zaťko (SVK)"
-                    eng: "Tomáš Zaťko (SVK)"
+                    cz: "Tomáš Zaťko (SK)"
+                    eng: "Tomáš Zaťko (SK)"
                 desc:
                     cz: "Zánik tvého soukromí?"
                     eng: "Extincton of your privacy?"
@@ -257,8 +257,8 @@ schedule:
                 time: "13:00"
                 where: "Paper HUB"
                 title: 
-                    cz: "Pavol Lupták (SVK)"
-                    eng: "Pavol Lupták (SVK)"
+                    cz: "Pavol Lupták (SK)"
+                    eng: "Pavol Lupták (SK)"
                 desc:
                     cz: "Decentralizovaný svět - když se vláda a autoritatívní geografické státy stávají zastaralými"
                     eng: "The decentralized world - when the government and authoritative geographical states become obsolete"
@@ -286,8 +286,8 @@ schedule:
                 time: "14:00"
                 where: "Institute"
                 title:
-                    cz: "Smuggler"
-                    eng: "Smuggler"
+                    cz: "Smuggler (?)"
+                    eng: "Smuggler (?)"
                 desc:
                     cz: "Philosophy of privacy and the essence of anonymity"
                     eng: "Philosophy of privacy and the essence of anonymity"
@@ -341,8 +341,8 @@ schedule:
                 time: "15:00"
                 where: "Paper HUB"
                 title:
-                    cz: "Tatiana Moroz (US)"
-                    eng: "Tatiana Moroz (US)"
+                    cz: "Tatiana Moroz (USA)"
+                    eng: "Tatiana Moroz (USA)"
                 desc:
                     cz: "Bitcoin, the Blockchain, and Artists:  How Creative People Can Find Freedom Through Crypto"
                     eng: "Bitcoin, the Blockchain, and Artists:  How Creative People Can Find Freedom Through Crypto"
@@ -376,14 +376,13 @@ schedule:
                     eng: "On a way to colaps of cryptocurrencies? Modeling of attacks on principle of substitutability and countermeasures"
             columnC:
                 time: "16:00"
-                where: "Institute"
-                background: "909090"
-                title: 
-                    cz: "Amin Rafiee"
-                    eng: "Amin Rafiee"
+                where: "Paper HUB"
+                title:
+                    cz: "Sam Nemeth & Inne Poppe (NL)"
+                    eng: "Sam Nemeth & Inne Poppe (NL)"
                 desc:
-                    cz: "Decentralizovaná revoluce"
-                    eng: "Decentralized Revolution"
+                    cz: "Hipíci z pekla: Promítaní dokumentárního filmu o hackerské scéně v Amsterdamu s následnou diskusí s Ine Poppe a Samem Nemethem (tvůrci filmu)"
+                    eng: "Hippies from Hell: Screening of documentary movie about hacking scene in Amsterdam with following discussion with Ine Poppe and Sam Nemeth (makers of the movie)"
         -   columnB:
                 time: "16:00"
                 where: "Institute"
@@ -396,13 +395,14 @@ schedule:
                     eng: "ART _ TECHNOLOGY _ ACTIVISM"
             columnC:
                 time: "16:00"
-                where: "Paper HUB"
+                where: "Institute"
+                background: "909090"
                 title:
-                    cz: "Sam Nemeth & Inne Poppe (NL)"
-                    eng: "Sam Nemeth & Inne Poppe (NL)"
+                    cz: "Amin Rafiee"
+                    eng: "Amin Rafiee"
                 desc:
-                    cz: "Hipíci z pekla: Promítaní dokumentárního filmu o hackeřský scéně v Amsterdamu s následnou diskusí s Ine Poppe a Samem Nemethem (tvůrci filmu)"
-                    eng: "Hippies from Hell: Screening of documentary movie about hacking scene in Amsterdam with following discussion with Ine Poppe and Sam Nemeth (makers of the movie)"
+                    cz: "Decentralizovaná revoluce"
+                    eng: "Decentralized Revolution"
         -   columnA:
                 time: "17:00"
                 where: "Paper HUB"
@@ -421,16 +421,6 @@ schedule:
                 desc:
                     cz: "Life between hacking and art. Establishing hacking department at Art Academy and Crypto Desing Challenge project "
                     eng: "Život mezi hackingem a uměním. Založení ateliéru Hackingu na umělecké akademii a projekt Crypto Design Challenge"
-        -   columnA:
-                time: "17:00"
-                where: "MakersLab"
-                background: "909090"
-                title: 
-                    cz: "Philip Hilm, Premek Paska, Josef Strunc, Jan Machac, Jan Knopp, Michal Vlasak,Olga Afanasjeva"
-                    eng: "Philip Hilm, Premek Paska, Josef Strunc, Jan Machac, Jan Knopp, Michal Vlasak,Olga Afanasjeva"
-                desc:
-                    cz: "Brainmachine workshop"
-                    eng: "Brainmachine workshop"
             columnC:
                 time: "17:00"
                 where: "Institute"
@@ -440,6 +430,16 @@ schedule:
                 desc:
                     cz: ""
                     eng: ""
+        -   columnA:
+                time: "17:00"
+                where: "MakersLab"
+                background: "909090"
+                title: 
+                    cz: "Philip Hilm, Premek Paska, Josef Strunc, Jan Machac, Jan Knopp, Michal Vlasak, Olga Afanasjeva"
+                    eng: "Philip Hilm, Premek Paska, Josef Strunc, Jan Machac, Jan Knopp, Michal Vlasak, Olga Afanasjeva"
+                desc:
+                    cz: "Brainmachine workshop"
+                    eng: "Brainmachine workshop"
         -   columnA:
                 time: "18:00"
                 where: "Institute"
@@ -460,7 +460,7 @@ schedule:
                     eng: "SCADA hacking"
         -   columnB:
                 time: "18:00"
-                where: "La Fabrika - Hlavní sál"
+                where: "La Fabrika - Main Stage"
                 background: "0002FF"
                 title:
                     cz: "Fashion STL"
@@ -471,13 +471,14 @@ schedule:
         -   columnA:
                 time: "19:00"
                 where: "Paper HUB"
+                background: "0002FF"
                 title:
                     cz: "!Mediengruppe Bitnik (CH)"
                     eng: "!Mediengruppe Bitnik (CH)"
                 desc:
                     cz: "Random Darknet Shopping Bots, Mail Art and Surveillance Algorithms"
                     eng: "Random Darknet Shopping Bots, Mail Art and Surveillance Algorithms"
-        -   columnB:
+            columnB:
                 time: "19:30"
                 where: "La Fabrika - Slévárna"
                 background: "0002FF"
@@ -544,26 +545,6 @@ schedule:
                 desc:
                     cz: "Decentraluzuj!"
                     eng: "Decentralize!"     
-        -   columnC:
-                time: "19:00"
-                where: "Makers Lab"
-                background: "25D7FF"
-                title:
-                    cz: "RSD"
-                    eng: "RSD"
-                desc:
-                    cz: "Electronic music, deep house, techno"
-                    eng: "Electronic music, deep house, techno"
-        -   columnC:
-                time: "21:30"
-                where: "Makers Lab"
-                background: "25D7FF"
-                title:
-                    cz: "Paralelní polis and friends DJ's club"
-                    eng: "Paralelní polis and friends DJ's club"
-                desc:
-                    cz: "breakcore, noise, rudies"
-                    eng: "breakcore, noise, rudies"
         -   columnA:
                 time: "21:30"
                 where: "Makers Lab"
@@ -584,6 +565,16 @@ schedule:
                 desc:
                     cz: "dnb"
                     eng: "dnb"
+            columnC:
+                time: "19:00"
+                where: "Makers Lab"
+                background: "25D7FF"
+                title:
+                    cz: "RSD"
+                    eng: "RSD"
+                desc:
+                    cz: "Electronic music, deep house, techno"
+                    eng: "Electronic music, deep house, techno"
         -   columnB:
                 time: "22:00"
                 where: "La Fabrika"
@@ -594,6 +585,16 @@ schedule:
                 desc:
                     cz: "funky, soul, acid jazz, break"
                     eng: "funky, soul, acid jazz, break"
+            columnC:
+                time: "21:30"
+                where: "Makers Lab"
+                background: "25D7FF"
+                title:
+                    cz: "Paralelní polis and friends DJ's club"
+                    eng: "Paralelní polis and friends DJ's club"
+                desc:
+                    cz: "breakcore, noise, rudies"
+                    eng: "breakcore, noise, rudies"
         -   columnA:
                 time: "23:30"
                 where: "Makers Lab"
