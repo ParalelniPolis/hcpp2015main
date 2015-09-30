@@ -468,8 +468,8 @@ schedule:
                     cz: "Philip Hilm, Premek Paska, Josef Strunc, Jan Machac, Jan Knopp, Michal Vlasak, Olga Afanasjeva"
                     eng: "Philip Hilm, Premek Paska, Josef Strunc, Jan Machac, Jan Knopp, Michal Vlasak, Olga Afanasjeva"
                 desc:
-                    cz: "Brainmachine workshop"
-                    eng: "Brainmachine workshop"
+                    cz: "GoodAI Brain Simulator workshop: build your own brain"
+                    eng: "GoodAI Brain Simulator workshop: build your own brain"
             columnC:
                 time: "17:00"
                 where: "Paper HUB"
