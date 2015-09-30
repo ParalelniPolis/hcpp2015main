@@ -128,7 +128,7 @@ schedule:
                     cz: "Frank Braun (GB)"
                     eng: "Frank Braun (GB)"
                 desc:
-                    cz: "Solving the encryption keys exchange problem"
+                    cz: "Řešení problému výměny šifrovacích klíčů"
                     eng: "Solving the encryption keys exchange problem"
             columnC:
                 time: "10:00"
@@ -166,7 +166,7 @@ schedule:
                     cz: "Janez Jansa (SI)"
                     eng: "Janez Jansa (SI)"
                 desc:
-                    cz: "Name Readymade - change of identity and ownership of official documents"
+                    cz: "Name Readymade - změna identity a vlastnictví úředních dokumentů"
                     eng: "Name Readymade - change of identity and ownership of official documents"
             columnC:
                 time: "11:00"
@@ -175,7 +175,7 @@ schedule:
                     cz: "Wireless Warrior (US)"
                     eng: "Wireless Warrior (US)"
                 desc:
-                    cz: "SIGINT and Practical Covert Communication"
+                    cz: "SIGIT a skrytá komunikace"
                     eng: "SIGINT and Practical Covert Communication"
         -   columnB:
                 time: "11:00"
@@ -185,7 +185,7 @@ schedule:
                     cz: "Pavol Rusnak / stick (SK)"
                     eng: "Pavol Rusnak / stick (SK)"
                 desc:
-                    cz: "IPFS: The InterPlanetary File System"
+                    cz: "IPFS : Interplanetární souborový systém"
                     eng: "IPFS: The InterPlanetary File System"
             columnC:
                 time: "11:00"
@@ -223,7 +223,7 @@ schedule:
                     cz: "Martin Šíp (CZ)"
                     eng: "Martin Šíp (CZ)"
                 desc:
-                    cz: "Project SAFE: Decentralized Internet Layer"
+                    cz: "Project SAFE: Decentralizovaná vstva Internetu"
                     eng: "Project SAFE: Decentralized Internet Layer"
             columnC:
                 time: "12:00"
@@ -289,7 +289,7 @@ schedule:
                     cz: "Smuggler (??)"
                     eng: "Smuggler (??)"
                 desc:
-                    cz: "Philosophy of privacy and the essence of anonymity"
+                    cz: "Filozofie soukromí a esence anonymity"
                     eng: "Philosophy of privacy and the essence of anonymity"
             columnB:
                 time: "14:00"
@@ -317,7 +317,7 @@ schedule:
                     cz: "František Weyda (CZ)"
                     eng: "František Weyda (CZ)"
                 desc:
-                    cz: "Beauty and mystery in parallel microworld"
+                    cz: "Krása a tajemství paralelních mikrosvětů"
                     eng: "Beauty and mystery in parallel microworld"
         -   columnA:
                 time: "15:00"
