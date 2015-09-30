@@ -768,9 +768,13 @@ speakers:
             link: "braun"
             description: "Cryptoanarchist and aspiring cypherpunk"
 
+        -   name: "Viola van Alphen (NL)"
+            link: "alphen"
+            description: "Activist, writer and event producer of multimedia event GOGBOT"
+
         -   name: "Inne Poppe (NL)"
             link: "poppe"
-            description: "An Artist, publicist and head of an atelier of hacking at WDK Rotterdam "
+            description: "An Artist, publicist and head of an atelier of hacking at WDK Rotterdam"
 
         -   name: "Stefan Marsiske (HU)"
             link: "marsiske"
