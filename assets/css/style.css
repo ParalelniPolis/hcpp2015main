@@ -7761,7 +7761,7 @@ footer .widget .widget-inner > ul li a:before {
   color: #ffffff;
 }
 a {
-  color: #0002ff;
+  /*color: #0002ff;*/
 }
 
 .list-group-item.active,
