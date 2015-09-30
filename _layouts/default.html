@@ -327,7 +327,11 @@
                                                 {{schedule_item.columnA.where}}
                                             </small>
                                         </h5>
-                                        <p>
+                                        <p
+                                        {% if schedule_item.columnA.background %}
+                                        style="color:#{{schedule_item.columnA.background}}"
+                                        {% endif %}
+                                        >
                                             {{schedule_item.columnA.desc[page.content_language]}}
                                         </p>
                                     </a>
@@ -363,7 +367,11 @@
                                                 {{schedule_item.columnB.where}}
                                             </small>
                                         </h5>
-                                        <p>
+                                        <p
+                                        {% if schedule_item.columnA.background %}
+                                        style="color:#{{schedule_item.columnB.background}}"
+                                        {% endif %}
+                                        >
                                             {{schedule_item.columnB.desc[page.content_language]}}
                                         </p>
                                     </a>
@@ -399,7 +407,11 @@
                                                 {{schedule_item.columnC.where}}
                                             </small>
                                         </h5>
-                                        <p>
+                                        <p
+                                        {% if schedule_item.columnA.background %}
+                                        style="color:#{{schedule_item.columnC.background}}"
+                                        {% endif %}
+                                        >
                                             {{schedule_item.columnC.desc[page.content_language]}}
                                         </p>
                                     </a>
