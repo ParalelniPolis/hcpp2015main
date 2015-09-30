@@ -147,8 +147,8 @@ schedule:
                     cz: "Slush (CZ)"
                     eng: "Slush (CZ)"
                 desc:
-                    cz: "Decentralizovaný konsenzus - přednáška v českém jazyce"
-                    eng: "Decentralised consensus - presentation in Czech language"
+                    cz: "Decentralizovaný konsenzus (přednáška v českém jazyce)"
+                    eng: "Decentralised consensus (presentation in Czech language)"
             columnC:
                 time: "10:00"
                 where: "Paper HUB"
@@ -157,8 +157,8 @@ schedule:
                     cz: "Jindřich Ráftl (CZ)"
                     eng: "Jindřich Ráftl (CZ)"
                 desc:
-                    cz: "Biomorph II"
-                    eng: "Biomorph II"
+                    cz: "Biomorph II (přednáčka v českém jazyce)"
+                    eng: "Biomorph II (presentation in Czech language)"
         -   columnB:
                 time: "11:00"
                 where: "Institute"
@@ -195,8 +195,8 @@ schedule:
                     cz: "Jan Nálepa (CZ)"
                     eng: "Jan Nálepa (CZ)"
                 desc:
-                    cz: "Bioart - nová výzva"
-                    eng: "Bioart - new challenge"
+                    cz: "Bioart - nová výzva (přednáčka v českém jazyce)"
+                    eng: "Bioart - new challenge (presentation in Czech language)"
         -   columnB:
                 time: "12:00"
                 where: "Paper HUB"
@@ -233,8 +233,8 @@ schedule:
                     cz: "Petr Boháček (CZ)"
                     eng: "Petr Boháček (CZ)"
                 desc:
-                    cz: "Diskuze: Co pro tebe znamená stát?"
-                    eng: "Diskuze: Co pro tebe znamená stát?"
+                    cz: "Diskuze: Co pro tebe znamená stát (v českém jazyce)?"
+                    eng: "Diskuze: Co pro tebe znamená stát? (in Czech language)"
         -   columnA:
                 time: "13:00"
                 where: "Institute"
@@ -515,8 +515,8 @@ schedule:
                     cz: "Petr Boháček (CZ)"
                     eng: "Petr Boháček (CZ)"
                 desc:
-                    cz: "Kyberválka v současnosti"
-                    eng: "CyberWar Now"
+                    cz: "Kyberválka v současnosti (přednáčka v českém jazyce)"
+                    eng: "CyberWar Now (presentation in Czech language)"
         -   columnA:
                 time: "21:00"
                 where: "Paper HUB"
