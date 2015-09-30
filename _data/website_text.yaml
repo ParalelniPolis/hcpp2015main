@@ -381,7 +381,7 @@ schedule:
         -   columnA:
                 time: "16:00"
                 where: "Institute"
-                link: "himl"
+                link: "hilm"
                 title:
                     cz: "Philip Hilm (CZ)"
                     eng: "Philip Hilm (CZK)"
