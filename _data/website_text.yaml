@@ -154,8 +154,8 @@ schedule:
                 where: "Paper HUB"
                 background: "909090"
                 title:
-                    cz: "JIndřich Ráftl (CZ)"
-                    eng: "JIndřich Ráftl (CZ)"
+                    cz: "Jindřich Ráftl (CZ)"
+                    eng: "Jindřich Ráftl (CZ)"
                 desc:
                     cz: "Biomorph II"
                     eng: "Biomorph II"
@@ -172,8 +172,8 @@ schedule:
                 time: "11:00"
                 where: "Paper HUB"
                 title: 
-                    cz: "Wireless Warrior (USA)"
-                    eng: "Wireless Warrior (USA)"
+                    cz: "Wireless Warrior (US)"
+                    eng: "Wireless Warrior (US)"
                 desc:
                     cz: "SIGINT and Practical Covert Communication"
                     eng: "SIGINT and Practical Covert Communication"
@@ -248,8 +248,8 @@ schedule:
                 time: "13:00"
                 where: "Institute"
                 title:
-                    cz: "Paul Rosenberg (USA)"
-                    eng: "Paul Rosenberg (USA)"
+                    cz: "Paul Rosenberg (US)"
+                    eng: "Paul Rosenberg (US)"
                 desc:
                     cz: "Soudnictví bez státu"
                     eng: "Justice without state"
@@ -286,8 +286,8 @@ schedule:
                 time: "14:00"
                 where: "Institute"
                 title:
-                    cz: "Smuggler (?)"
-                    eng: "Smuggler (?)"
+                    cz: "Smuggler (??)"
+                    eng: "Smuggler (??)"
                 desc:
                     cz: "Philosophy of privacy and the essence of anonymity"
                     eng: "Philosophy of privacy and the essence of anonymity"
@@ -341,8 +341,8 @@ schedule:
                 time: "15:00"
                 where: "Paper HUB"
                 title:
-                    cz: "Tatiana Moroz (USA)"
-                    eng: "Tatiana Moroz (USA)"
+                    cz: "Tatiana Moroz (US)"
+                    eng: "Tatiana Moroz (US)"
                 desc:
                     cz: "Bitcoin, the Blockchain, and Artists:  How Creative People Can Find Freedom Through Crypto"
                     eng: "Bitcoin, the Blockchain, and Artists:  How Creative People Can Find Freedom Through Crypto"
@@ -351,8 +351,8 @@ schedule:
                 where: "Institute"
                 background: "909090"
                 title:
-                    cz: "Michal Paal (SVK)"
-                    eng: "Michal Paal (SVK)"
+                    cz: "Michal Paal (SK)"
+                    eng: "Michal Paal (SK)"
                 desc:
                     cz: "Drony jsou všude"
                     eng: "Drones are everywhere"
@@ -388,8 +388,8 @@ schedule:
                 where: "Institute"
                 background: "909090"
                 title: 
-                    cz: "Viola van Alphen"
-                    eng: "Viola van Alphen"
+                    cz: "Viola van Alphen (NL)"
+                    eng: "Viola van Alphen (NL)"
                 desc:
                     cz: "ART _ TECHNOLOGY _ ACTIVISM"
                     eng: "ART _ TECHNOLOGY _ ACTIVISM"
@@ -453,8 +453,8 @@ schedule:
                 time: "18:00"
                 where: "Paper HUB"
                 title:
-                    cz: "Marina Krotofil (GER)"
-                    eng: "Marina Krotofil (GER)"
+                    cz: "Marina Krotofil (DE)"
+                    eng: "Marina Krotofil (DE)"
                 desc:
                     cz: "Hackování SCADA systémů"
                     eng: "SCADA hacking"
@@ -483,8 +483,8 @@ schedule:
                 where: "La Fabrika - Slévárna"
                 background: "0002FF"
                 title:
-                    cz: "Lyn Ulbricht (USA)"
-                    eng: "Lyn Ulbricht (USA)"
+                    cz: "Lyn Ulbricht (US)"
+                    eng: "Lyn Ulbricht (US)"
                 desc:
                     cz: "Případ Silk Road: co se stalo, co bude dál a proč na tom záleží + premiéra filmu Deep Web - La Fabrika"
                     eng: "The Silk Road Case: What happened, What’s next, Why it Matters + premiere of the movie Deep Web - La Fabrika"
@@ -493,8 +493,8 @@ schedule:
                 where: "Institute"
                 background: "0002FF"
                 title: 
-                    cz: "Susanne Tarkowski Tempelhof"
-                    eng: "Susanne Tarkowski Tempelhof"
+                    cz: "Susanne Tarkowski Tempelhof (GB)"
+                    eng: "Susanne Tarkowski Tempelhof (GB)"
                 desc:
                     cz: "Bitnation projekt - rok poté"
                     eng: "Bitnation project - One year after"
@@ -502,8 +502,8 @@ schedule:
                 time: "20:00"
                 where: "Institute"
                 title:
-                    cz: "Martin Baroš (CZK)"
-                    eng: "Martin Baroš (CZK)"
+                    cz: "Martin Baroš (CZ)"
+                    eng: "Martin Baroš (CZ)"
                 desc:
                     cz: "Cryptelo"
                     eng: "Cryptelo"
@@ -530,8 +530,8 @@ schedule:
                 time: "21:00"
                 where: "Paper HUB"
                 title:
-                    cz: "Juraj Bednár (SVK)"
-                    eng: "Juraj Bednár (SVK)"
+                    cz: "Juraj Bednár (SK)"
+                    eng: "Juraj Bednár (SK)"
                 desc:
                     cz: "Biohacking"
                     eng: "Biohacking"
@@ -540,8 +540,8 @@ schedule:
                 where: "Institute"
                 background: "909090"
                 title:
-                    cz: "Juraj Bednár (SVK)"
-                    eng: "Juraj Bednár (SVK)"
+                    cz: "Juraj Bednár (SK)"
+                    eng: "Juraj Bednár (SK)"
                 desc:
                     cz: "Decentraluzuj!"
                     eng: "Decentralize!"     
@@ -661,7 +661,7 @@ speakers:
         cz: "Hosté kongresu"
         eng: "Speakers"
     persons:
-        -   name: "Lyn Ulbricht (USA)"
+        -   name: "Lyn Ulbricht (US)"
             link: "ulbricht"
             description: "Freedom advocate and mother of Silk Road founder Ross Ulbricht"
 
@@ -669,11 +669,11 @@ speakers:
             link: "tempelhof"
             description: "BITNATION Founder and CEO"
             
-        -   name: "Julia Tourianski (CAN)"
+        -   name: "Julia Tourianski (CA)"
             link: "tourianski"
             description: "Anti-state propagandist preaching the Bitcoin gospel, Brave The World <i|"
 
-        -   name: "Tatiana Moroz (USA)"
+        -   name: "Tatiana Moroz (US)"
             link: "moroz"
             description: "Singer-songwriter, Founder of Crypto Media Hub, Creator of 1st artist coin TatianaCoin"
 
@@ -685,11 +685,11 @@ speakers:
             link: "palatinus"
             description: "Bitcoin legend, architect in Satoshilabs"
 
-        -   name: "Paul Rosenberg (USA)"
+        -   name: "Paul Rosenberg (US)"
             link: "rosenberg"
             description: "Founder of Cryptohippie and author of the Free-Man's Perspective"
 
-        -   name: "Jasper Philipp Kalwies (GER)"
+        -   name: "Jasper Philipp Kalwies (DE)"
             link: "kalwies"
             description: "Anarcho-capitalist, entrepreneur and organizer of the largest libertarian conference in Germany"
 
@@ -697,7 +697,7 @@ speakers:
             link: "bitnik"
             description: "Art Group Zurich/London"
 
-        -   name: "Kristov Atlas (USA)"
+        -   name: "Kristov Atlas (US)"
             link: "atlas"
             description: "Security Consultant, Privacy Researcher, Crypto-currency Auditor and Bitcoin Speaker"
 
@@ -709,7 +709,7 @@ speakers:
             link: "bednar"
             description: "Biohacker, cryptoanarchist and security developer"
 
-        -   name: "Smuggler (?)"
+        -   name: "Smuggler (??)"
             link: "smuggler"
             description: "A cypherpunk and cryptoanarchist"
 
@@ -721,7 +721,7 @@ speakers:
             link: "braun"
             description: "Cryptoanarchist and aspiring cypherpunk"
 
-        -   name: "Joarg Platzer (GER)"
+        -   name: "Joarg Platzer (DE)"
             link: "platzer"
             description: "Cryptoanarchist and aspiring cypherpunk"
 
@@ -737,11 +737,11 @@ speakers:
             link: "materna"
             description: "Head of research at Seznam.cz"
 
-        -   name: "Janez Jansa (SLO)"
+        -   name: "Janez Jansa (SI)"
             link: "jansa"
             description: "Contemporary artist"
 
-        -   name: "Marina Krotofil (GER)"
+        -   name: "Marina Krotofil (DE)"
             link: "krotofil"
             description: "Research Assistant at Hamburg University of Technology (TUHH)"
 
@@ -785,9 +785,9 @@ speakers:
             link: "trenky"
             description: "Truth about underpants"
 
-        -   name: "Project Paralelní Polis (CZ)"
+        -   name: "Paralelní Polis (CZ)"
             link: "polis"
-            description: "Hackerspace Institute of Cryptoanarchy / Bitcoin Coffee / Makers Lab / Paper Hub and more"
+            description: "Institute of Cryptoanarchy / Hackerspace / Bitcoin Coffee / Makers Lab / Paper Hub"
 
 
 speakers_page:
