@@ -143,31 +143,26 @@ schedule:
                     eng: "Extincton of your privacy?"
         -   columnB:
                 time: "10:00"
-                where: "Institute - presentation in CZE"
+                where: "Institute - held in Czech language"
                 background: "909090"
                 link: "palatinus"
                 title:
                     cz: "Slush (CZ)"
                     eng: "Slush (CZ)"
                 desc:
-<<<<<<< HEAD
                     cz: "Decentralizovaný konsenzus"
                     eng: "Decentralised consensus"
-=======
-                    cz: "Decentralizovaný konsenzus (přednáška v českém jazyce)"
-                    eng: "Decentralised consensus (presentation in Czech language)"
->>>>>>> origin/gh-pages
             columnC:
                 time: "10:00"
-                where: "Paper HUB"
+                where: "Paper HUB - held in Czech language"
                 background: "909090"
                 link: "raftl"
                 title:
                     cz: "Jindřich Ráftl (CZ)"
                     eng: "Jindřich Ráftl (CZ)"
                 desc:
-                    cz: "Biomorph II (přednáčka v českém jazyce)"
-                    eng: "Biomorph II (presentation in Czech language)"
+                    cz: "Biomorph II"
+                    eng: "Biomorph II"
         -   columnB:
                 time: "11:00"
                 where: "Institute"
@@ -200,15 +195,15 @@ schedule:
                     eng: "IPFS: The InterPlanetary File System"
             columnC:
                 time: "11:00"
-                where: "Institute"
+                where: "Institute - held in Czech language"
                 background: "909090"
                 link: "nalepa"
                 title: 
                     cz: "Jan Nálepa (CZ)"
                     eng: "Jan Nálepa (CZ)"
                 desc:
-                    cz: "Bioart - nová výzva (přednáčka v českém jazyce)"
-                    eng: "Bioart - new challenge (presentation in Czech language)"
+                    cz: "Bioart - nová výzva"
+                    eng: "Bioart - new challenge"
         -   columnB:
                 time: "12:00"
                 where: "Paper HUB"
@@ -240,7 +235,6 @@ schedule:
                 desc:
                     cz: "Project SAFE: Decentralizovaná vstva Internetu"
                     eng: "Project SAFE: Decentralized Internet Layer"
-<<<<<<< HEAD
             columnC:
                 time: "12:00"
                 where: "Paper HUB"
@@ -252,8 +246,6 @@ schedule:
                 desc:
                     cz: "Diskuze: Co pro tebe znamená stát?"
                     eng: "Diskuze: Co pro tebe znamená stát?"
-=======
->>>>>>> origin/gh-pages
         -   columnA:
                 time: "13:00"
                 where: "Institute"
@@ -563,15 +555,15 @@ schedule:
                     eng: "Cryptelo"
         -   columnA:
                 time: "20:00"
-                where: "Paper HUB"
+                where: "Paper HUB - held in Czech language"
                 background: "909090"
                 link: "bohacek"
                 title:
                     cz: "Petr Boháček (CZ)"
                     eng: "Petr Boháček (CZ)"
                 desc:
-                    cz: "Kyberválka v současnosti (přednáčka v českém jazyce)"
-                    eng: "CyberWar Now (presentation in Czech language)"
+                    cz: "Kyberválka v současnosti"
+                    eng: "CyberWar Now"
         -   columnA:
                 time: "21:00"
                 where: "Paper HUB"
@@ -829,9 +821,9 @@ speakers:
             link: "sip"
             description: "Cryptocurrency enthusiast and Bitcoin meetup organizer"
 
-        -   name: "Pravda o trenkách (CZ)"
+        -   name: "Ztohoven (CZ)"
             link: "trenky"
-            description: "Truth about underpants"
+            description: "Truth about red underpants above Czech Castle"
 
         -   name: "Paralelní Polis (CZ)"
             link: "polis"
