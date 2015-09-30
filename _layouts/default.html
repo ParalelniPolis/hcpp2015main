@@ -237,9 +237,9 @@
                 <div class="ct-gallery-item ct-gallery-item--masonry ct-gallery-item--default hidden ct-gallery-item--normal">
                     <div class="ct-gallery-itemInner">
                         {% if page.content_language == "cz" %}
-                            <a href="/speakers/{{person.link}}.html">
+                            <a target="_blank" href="/speakers/{{person.link}}.html">
                         {% else %}
-                            <a href="/speakers/eng/{{person.link}}.html">
+                            <a target="_blank" href="/speakers/eng/{{person.link}}.html">
                         {% endif %}
                             <div class="ct-gallery-itemImage">
                                 <img src="/assets/images/speakers/{{person.link}}.jpg" alt="{{person.name}}"/>
