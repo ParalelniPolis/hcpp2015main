@@ -242,8 +242,8 @@ schedule:
                     cz: "Ondřej Neff (CZ)"
                     eng: "Ondřej Neff (CZ)"
                 desc:
-                    cz: "Blackout"
-                    eng: "Blackout"
+                    cz: "Blackout - úvodní slovo (CZ)"
+                    eng: "Blackout - - opening keynote (EN)"
             columnB:
                 time: "13:00"
                 where: "Institute"
