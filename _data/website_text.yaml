@@ -148,7 +148,7 @@ schedule:
                 link: "palatinus"
                 title:
                     cz: "Slush (CZ)"
-                    eng: "Slush (CZ)"
+                    eng: "Slush (CZK)"
                 desc:
                     cz: "Decentralizovaný konsenzus"
                     eng: "Decentralised consensus"
@@ -159,7 +159,7 @@ schedule:
                 link: "raftl"
                 title:
                     cz: "JIndřich Ráftl (CZ)"
-                    eng: "JIndřich Ráftl (CZ)"
+                    eng: "JIndřich Ráftl (CZK)"
                 desc:
                     cz: "Biomorph II"
                     eng: "Biomorph II"
@@ -200,7 +200,7 @@ schedule:
                 link: "nalepa"
                 title: 
                     cz: "Jan Nálepa (CZ)"
-                    eng: "Jan Nálepa (CZ)"
+                    eng: "Jan Nálepa (CZK)"
                 desc:
                     cz: "Bioart - nová výzva"
                     eng: "Bioart - new challenge"
@@ -231,7 +231,7 @@ schedule:
                 link: "sip"
                 title: 
                     cz: "Martin Šíp (CZ)"
-                    eng: "Martin Šíp (CZ)"
+                    eng: "Martin Šíp (CZK)"
                 desc:
                     cz: "Project SAFE: Decentralized Internet Layer"
                     eng: "Project SAFE: Decentralized Internet Layer"
@@ -242,7 +242,7 @@ schedule:
                 link: "bohacek"
                 title:
                     cz: "Petr Boháček (CZ)"
-                    eng: "Petr Boháček (CZ)"
+                    eng: "Petr Boháček (CZK)"
                 desc:
                     cz: "Diskuze: Co pro tebe znamená stát?"
                     eng: "Diskuze: Co pro tebe znamená stát?"
@@ -252,7 +252,7 @@ schedule:
                 link: "neff"
                 title:
                     cz: "Ondřej Neff (CZ)"
-                    eng: "Ondřej Neff (CZ)"
+                    eng: "Ondřej Neff (CZK)"
                 desc:
                     cz: "Blackout"
                     eng: "Blackout"
@@ -282,7 +282,7 @@ schedule:
                 background: "909090"
                 title:
                     cz: "Paralelní Polis (CZ)"
-                    eng: "Paralelní Polis (CZ)"
+                    eng: "Paralelní Polis (CZK)"
                 desc:
                     cz: "Rok poté"
                     eng: "One year after"
@@ -293,7 +293,7 @@ schedule:
                 link: "kotr"
                 title: 
                     cz: "Michal Prach Kotr (CZ)"
-                    eng: "Michal Prach Kotr (CZ)"
+                    eng: "Michal Prach Kotr (CZK)"
                 desc:
                     cz: "3d print fashion show: fashion.stl - Co děláme: tvoříme vztah mezi módou a 3d tiskem, posouváme mezníky"
                     eng: "3d print fashion show: fashion.stl - What we do: creating a relationship between fashion and 3d print, we are moving landmarks"
@@ -322,7 +322,7 @@ schedule:
                 where: "Institute"
                 title:
                     cz: "Ztohoven (CZ)"
-                    eng: "Ztohoven (CZ)"
+                    eng: "Ztohoven (CZK)"
                 desc:
                     cz: "O pozadí akce Trenky - co předcházelo, jak akce proběhla a jaká byla následná reakce"
                     eng: "About a backround of the “Shorts” action and what was the reaction"
@@ -333,7 +333,7 @@ schedule:
                 link: "weyda"
                 title:
                     cz: "František Weyda (CZ)"
-                    eng: "František Weyda (CZ)"
+                    eng: "František Weyda (CZK)"
                 desc:
                     cz: "Beauty and mystery in parallel microworld"
                     eng: "Beauty and mystery in parallel microworld"
@@ -367,24 +367,13 @@ schedule:
                 desc:
                     cz: "Bitcoin, the Blockchain, and Artists:  How Creative People Can Find Freedom Through Crypto"
                     eng: "Bitcoin, the Blockchain, and Artists:  How Creative People Can Find Freedom Through Crypto"
-        -   columnC:
-                time: "15:00"
-                where: "Institute"
-                background: "909090"
-                link: "paal"
-                title:
-                    cz: "Michal Paal (SVK)"
-                    eng: "Michal Paal (SVK)"
-                desc:
-                    cz: "Drony jsou všude"
-                    eng: "Drones are everywhere"
         -   columnA:
                 time: "16:00"
                 where: "Institute"
                 link: "himl"
                 title:
                     cz: "Philip Hilm (CZ)"
-                    eng: "Philip Hilm (CZ)"
+                    eng: "Philip Hilm (CZK)"
                 desc:
                     cz: "Jak bude umělá inteligence ovlivňovat naše životy"
                     eng: "How will Artificial Intelligence impact our lives"
@@ -470,13 +459,24 @@ schedule:
                 desc:
                     cz: "Brainmachine workshop"
                     eng: "Brainmachine workshop"
+            columnC:
+                time: "17:00"
+                where: "Paper HUB"
+                background: "909090"
+                link: "paal"
+                title:
+                    cz: "Michal Paal (SK)"
+                    eng: "Michal Paal (SVK)"
+                desc:
+                    cz: "Drony jsou všude"
+                    eng: "Drones are everywhere"
         -   columnA:
                 time: "18:00"
                 where: "Institute"
                 link: "materna"
                 title:
                     cz: "Jiří Materna (CZ)"
-                    eng: "Jiří Materna (CZ)"
+                    eng: "Jiří Materna (CZK)"
                 desc:
                     cz: "Hluboká umělá inteligence v praxi"
                     eng: "Deep Artificial Intelligence in Practice"
@@ -560,7 +560,7 @@ schedule:
                 link: "bohacek"
                 title:
                     cz: "Petr Boháček (CZ)"
-                    eng: "Petr Boháček (CZ)"
+                    eng: "Petr Boháček (CZK)"
                 desc:
                     cz: "Kyberválka v současnosti"
                     eng: "CyberWar Now"
@@ -579,7 +579,7 @@ schedule:
                 where: "Paper HUB"
                 link: "bednar"
                 title:
-                    cz: "Juraj Bednár (SVK)"
+                    cz: "Juraj Bednár (SK)"
                     eng: "Juraj Bednár (SVK)"
                 desc:
                     cz: "Biohacking"
@@ -590,7 +590,7 @@ schedule:
                 background: "909090"
                 link: "bednar"
                 title:
-                    cz: "Juraj Bednár (SVK)"
+                    cz: "Juraj Bednár (SK)"
                     eng: "Juraj Bednár (SVK)"
                 desc:
                     cz: "Decentraluzuj!"
@@ -717,7 +717,7 @@ speakers:
             link: "moroz"
             description: "Singer-songwriter, Founder of Crypto Media Hub, Creator of 1st artist coin TatianaCoin"
 
-        -   name: "Slush - Marek Palatinus (CZ)"
+        -   name: "Slush - Marek Palatinus (CZK)"
             link: "palatinus"
             description: "Bitcoin legend, architect in Satoshilabs"
 
@@ -769,7 +769,7 @@ speakers:
             link: "marsiske"
             description: "Free software developer and evangelist"
 
-        -   name: "Jiří Materna (CZ)"
+        -   name: "Jiří Materna (CZK)"
             link: "materna"
             description: "Head of research at Seznam.cz"
 
@@ -785,11 +785,11 @@ speakers:
             link: "nemeth"
             description: "media professional"
 
-        -   name: "Martin Baroš (CZ)"
+        -   name: "Martin Baroš (CZK)"
             link: "baros"
             description: "Dedicated SW developer and assiduous project manager"
 
-        -   name: "Philip Hilm (CZ)"
+        -   name: "Philip Hilm (CZK)"
             link: "himl"
             description: "senior AI researcher and programmer at GoodAI"
 
@@ -801,31 +801,31 @@ speakers:
             link: "rusnak"
             description: "All-Around Hacker, Bitcoin TREZOR Co-Creator"
 
-        -   name: "Jindřich Ráftl (CZ)"
+        -   name: "Jindřich Ráftl (CZK)"
             link: "raftl"
             description: "Architect, Researcher and Artist"
 
-        -   name: "František Weyda (CZ)"
+        -   name: "František Weyda (CZK)"
             link: "weyda"
             description: "Entomologist, electron microscopist, photographer of microcosm, artist and science popularizer"
 
-        -   name: "Jan Nálepa (CZ)"
+        -   name: "Jan Nálepa (CZK)"
             link: "nalepa"
             description: "Multimedia artist, creator of audiovisual interactive installations"
 
-        -   name: "Ondřej Neff (CZ)"
+        -   name: "Ondřej Neff (CZK)"
             link: "neff"
             description: "czech writer of science fiction and journalist"
 
-        -   name: "Martin Šíp (CZ)"
+        -   name: "Martin Šíp (CZK)"
             link: "sip"
             description: "Cryptocurrency enthusiast and Bitcoin meetup organizer"
 
-        -   name: "Pravda o trenkách (CZ)"
+        -   name: "Pravda o trenkách (CZK)"
             link: "trenky"
             description: "Truth about underpants"
 
-        -   name: "Project Paralelní Polis (CZ)"
+        -   name: "Project Paralelní Polis (CZK)"
             link: "polis"
             description: "Hackerspace Institute of Cryptoanarchy / Bitcoin Coffee / Makers Lab / Paper Hub and more"
 
