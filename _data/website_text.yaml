@@ -728,15 +728,7 @@ speakers:
             link: "moroz"
             description: "Singer-songwriter, Founder of Crypto Media Hub, Creator of 1st artist coin TatianaCoin"
 
-<<<<<<< HEAD
-        -   name: "Ondřej Neff (CZ)"
-            link: "neff"
-            description: "Czech writer of science fiction and journalist"
-
-        -   name: "Slush - Marek Palatinus (CZ)"
-=======
         -   name: "Slush - Marek Palatinus (CZK)"
->>>>>>> slave
             link: "palatinus"
             description: "Bitcoin legend, architect in Satoshilabs"
 
@@ -764,7 +756,7 @@ speakers:
             link: "bednar"
             description: "Biohacker, cryptoanarchist and security developer"
 
-        -   name: "Smuggler (??)"
+        -   name: "Smuggler (?)"
             link: "smuggler"
             description: "A cypherpunk and cryptoanarchist"
 
@@ -774,10 +766,6 @@ speakers:
 
         -   name: "Frank Braun (GB)"
             link: "braun"
-            description: "Cryptoanarchist and aspiring cypherpunk"
-
-        -   name: "Joarg Platzer (DE)"
-            link: "platzer"
             description: "Cryptoanarchist and aspiring cypherpunk"
 
         -   name: "Inne Poppe (NL)"
@@ -808,14 +796,13 @@ speakers:
             link: "baros"
             description: "Dedicated SW developer and assiduous project manager"
 
-<<<<<<< HEAD
-        -   name: "Philip Hilm (CZ)"
-            link: "hilm"
-=======
         -   name: "Philip Hilm (CZK)"
             link: "himl"
->>>>>>> slave
             description: "senior AI researcher and programmer at GoodAI"
+
+        -   name: "Joarg Platzer (DE)"
+            link: "platzer"
+            description: "Cryptoanarchist and aspiring cypherpunk"
 
         -   name: "Tomáš Zaťko (SK)"
             link: "zatko"
@@ -837,13 +824,6 @@ speakers:
             link: "nalepa"
             description: "Multimedia artist, creator of audiovisual interactive installations"
 
-<<<<<<< HEAD
-        -   name: "Martin Šíp (CZ)"
-            link: "sip"
-            description: "Cryptocurrency enthusiast and Bitcoin meetup organizer"
-
-        -   name: "Ztohoven (CZ)"
-=======
         -   name: "Ondřej Neff (CZK)"
             link: "neff"
             description: "czech writer of science fiction and journalist"
@@ -852,16 +832,11 @@ speakers:
             link: "sip"
             description: "Cryptocurrency enthusiast and Bitcoin meetup organizer"
 
-        -   name: "Pravda o trenkách (CZK)"
->>>>>>> slave
+        -   name: "Ztohoven (CZK)"
             link: "trenky"
             description: "Truth about red underpants above Czech Castle"
 
-<<<<<<< HEAD
-        -   name: "Paralelní Polis (CZ)"
-=======
         -   name: "Project Paralelní Polis (CZK)"
->>>>>>> slave
             link: "polis"
             description: "Institute of Cryptoanarchy / Hackerspace / Bitcoin Coffee / Makers Lab / Paper Hub"
 
