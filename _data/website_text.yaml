@@ -260,6 +260,7 @@ schedule:
             columnB:
                 time: "13:00"
                 where: "Institute"
+                background: "000000"
                 link: "rosenberg"
                 title:
                     cz: "Paul Rosenberg (US)"
@@ -270,6 +271,7 @@ schedule:
             columnC:
                 time: "13:00"
                 where: "Paper HUB"
+                background: "000000"
                 link: "luptak"
                 title: 
                     cz: "Pavol Lupták (SK)"
@@ -301,6 +303,7 @@ schedule:
         -   columnA:
                 time: "14:00"
                 where: "Institute"
+                background: "000000"
                 link: "smuggler"
                 title:
                     cz: "Smuggler (??)"
@@ -311,6 +314,7 @@ schedule:
             columnB:
                 time: "14:00"
                 where: "Paper HUB"
+                background: "000000"
                 link: "tourianski"
                 title:
                     cz: "Julia Tourianski (GB)"
@@ -321,6 +325,7 @@ schedule:
             columnC:
                 time: "14:00"
                 where: "Institute"
+                background: "000000"
                 title:
                     cz: "Ztohoven (CZ)"
                     eng: "Ztohoven (CZ)"
@@ -341,6 +346,7 @@ schedule:
         -   columnA:
                 time: "15:00"
                 where: "Paper HUB"
+                background: "000000"
                 link: "platzer"
                 title:
                     cz: "Joerg Platzer (DE)"
@@ -351,6 +357,7 @@ schedule:
             columnB:
                 time: "15:00"
                 where: "Institute"
+                background: "000000"
                 link: "menno"
                 title:
                     cz: "Menno & Frank Theys (NL)"
@@ -361,6 +368,7 @@ schedule:
             columnC:
                 time: "15:00"
                 where: "Paper HUB"
+                background: "000000"
                 link: "moroz"
                 title:
                     cz: "Tatiana Moroz (US)"
@@ -371,6 +379,7 @@ schedule:
         -   columnA:
                 time: "16:00"
                 where: "Institute"
+                background: "000000"
                 link: "hilm"
                 title:
                     cz: "Philip Hilm (CZ)"
@@ -381,6 +390,7 @@ schedule:
             columnB:
                 time: "16:00"
                 where: "Paper HUB"
+                background: "000000"
                 link: "atlas"
                 title: 
                     cz: "Kristof Atlas (US)"
@@ -391,6 +401,7 @@ schedule:
             columnC:
                 time: "16:00"
                 where: "Paper HUB"
+                background: "000000"
                 link: "nemeth"
                 title:
                     cz: "Sam Nemeth & Inne Poppe (NL)"
@@ -433,6 +444,7 @@ schedule:
             columnB:
                 time: "17:00"
                 where: "Institute"
+                background: "000000"
                 link: "poppe"
                 title:
                     cz: "Inne Poppe (NL)"
@@ -474,6 +486,7 @@ schedule:
         -   columnA:
                 time: "18:00"
                 where: "Institute"
+                background: "000000"
                 link: "materna"
                 title:
                     cz: "Jiří Materna (CZ)"
@@ -484,6 +497,7 @@ schedule:
             columnB:
                 time: "18:00"
                 where: "Paper HUB"
+                background: "000000"
                 link: "krotofil"
                 title:
                     cz: "Marina Krotofil (DE)"
@@ -547,6 +561,7 @@ schedule:
             columnB:
                 time: "20:00"
                 where: "Institute"
+                background: "000000"
                 link: "baros"
                 title:
                     cz: "Martin Baroš (CZ)"
@@ -568,6 +583,7 @@ schedule:
         -   columnA:
                 time: "21:00"
                 where: "Paper HUB"
+                background: "000000"
                 link: "marsiske"
                 title: 
                     cz: "Stefan Marsiske (non-citizen)"
@@ -578,6 +594,7 @@ schedule:
             columnB:
                 time: "21:00"
                 where: "Paper HUB"
+                background: "000000"
                 link: "bednar"
                 title:
                     cz: "Juraj Bednár (SK)"
