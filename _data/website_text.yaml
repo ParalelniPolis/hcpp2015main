@@ -728,7 +728,7 @@ speakers:
             link: "moroz"
             description: "Singer-songwriter, Founder of Crypto Media Hub, Creator of 1st artist coin TatianaCoin"
 
-        -   name: "Slush - Marek Palatinus (CK)"
+        -   name: "Slush - Marek Palatinus (CZ)"
             link: "palatinus"
             description: "Bitcoin legend, architect in Satoshilabs"
 
@@ -796,11 +796,11 @@ speakers:
             link: "nemeth"
             description: "media professional"
 
-        -   name: "Martin Baroš (CK)"
+        -   name: "Martin Baroš (CZ)"
             link: "baros"
             description: "Dedicated SW developer and assiduous project manager"
 
-        -   name: "Philip Hilm (CK)"
+        -   name: "Philip Hilm (CZ)"
             link: "hilm"
             description: "senior AI researcher and programmer at GoodAI"
 
@@ -816,31 +816,31 @@ speakers:
             link: "rusnak"
             description: "All-Around Hacker, Bitcoin TREZOR Co-Creator"
 
-        -   name: "Jindřich Ráftl (CZK)"
+        -   name: "Jindřich Ráftl (CZ)"
             link: "raftl"
             description: "Architect, Researcher and Artist"
 
-        -   name: "František Weyda (CK)"
+        -   name: "František Weyda (CZ)"
             link: "weyda"
             description: "Entomologist, electron microscopist, photographer of microcosm, artist and science popularizer"
 
-        -   name: "Jan Nálepa (CK)"
+        -   name: "Jan Nálepa (CZ)"
             link: "nalepa"
             description: "Multimedia artist, creator of audiovisual interactive installations"
 
-        -   name: "Ondřej Neff (CK)"
+        -   name: "Ondřej Neff (CZ)"
             link: "neff"
             description: "czech writer of science fiction and journalist"
 
-        -   name: "Martin Šíp (CK)"
+        -   name: "Martin Šíp (CZ)"
             link: "sip"
             description: "Cryptocurrency enthusiast and Bitcoin meetup organizer"
 
-        -   name: "Ztohoven (CK)"
+        -   name: "Ztohoven (CZ)"
             link: "trenky"
             description: "Truth about red underpants above Czech Castle"
 
-        -   name: "Project Paralelní Polis (CK)"
+        -   name: "Project Paralelní Polis (CZ)"
             link: "polis"
             description: "Institute of Cryptoanarchy / Hackerspace / Bitcoin Coffee / Makers Lab / Paper Hub"
 
