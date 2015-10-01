@@ -345,7 +345,7 @@ schedule:
                     cz: "Joerg Platzer (DE)"
                     eng: "Joerg Platzer (DE)"
                 desc:
-                    cz: "Why Bitcoin stands above the law plus a technical and tactical analyses of an attempted governance coup on the network ('XT-coin')"
+                    cz: "Proč stojí Bitcoin nad právem? Technické a strategické analýzy snah o zvrat nadvlády nad sítí ('XT-coin')"
                     eng: "Why Bitcoin stands above the law plus a technical and tactical analyses of an attempted governance coup on the network ('XT-coin')"
             columnB:
                 time: "15:00"
@@ -355,7 +355,7 @@ schedule:
                     cz: "Menno & Frank Theys (NL)"
                     eng: "Menno & Frank Theys (NL)"
                 desc:
-                    cz: "Past, present and future of hacking"
+                    cz: "Minulost, současnost a bucoucnost hackingu"
                     eng: "Past, present and future of hacking"
             columnC:
                 time: "15:00"
@@ -365,7 +365,7 @@ schedule:
                     cz: "Tatiana Moroz (US)"
                     eng: "Tatiana Moroz (US)"
                 desc:
-                    cz: "Bitcoin, the Blockchain, and Artists:  How Creative People Can Find Freedom Through Crypto"
+                    cz: "Bitcoin, blockchain a umělci: jak mohou kreativní lidé nalézt svobodu skrze kryptování"
                     eng: "Bitcoin, the Blockchain, and Artists:  How Creative People Can Find Freedom Through Crypto"
         -   columnC:
                 time: "15:00"
@@ -520,7 +520,7 @@ schedule:
                     cz: "!Mediengruppe Bitnik (CH)"
                     eng: "!Mediengruppe Bitnik (CH)"
                 desc:
-                    cz: "Random Darknet Shopping Bots, Mail Art and Surveillance Algorithms"
+                    cz: "Bot pro náhodné nakupování na darknetu, mail art a sledovací algorytmy"
                     eng: "Random Darknet Shopping Bots, Mail Art and Surveillance Algorithms"
             columnB:
                 time: "19:30"
