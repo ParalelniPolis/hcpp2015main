@@ -332,7 +332,7 @@ schedule:
             columnC:
                 time: "14:00"
                 where: "Institute"
-                background: "002FF"
+                background: "0002FF"
                 link: "trenky"
                 title:
                     cz: "Ztohoven (CZ)"
@@ -408,8 +408,8 @@ schedule:
                     eng: "On a way to colaps of cryptocurrencies? Modeling of attacks on principle of substitutability and countermeasures"
             columnC:
                 time: "16:00"
+                background: "0002FF"
                 where: "Paper HUB"
-                background: "002FF"
                 link: "nemeth"
                 title:
                     cz: "Sam Nemeth & Inne Poppe (NL)"
