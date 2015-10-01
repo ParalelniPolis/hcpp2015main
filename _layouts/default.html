@@ -342,7 +342,7 @@
                         <div class="col-sm-4 col-md-4 ct-u-marginBottom20">
                             {% if schedule_item.columnB %}
                                 <div class="ct-iconBox-content text-left">
-                                    {% if schedule_item.columnA.link %}
+                                    {% if schedule_item.columnB.link %}
                                         {% if page.content_language == "cz" %}
                                             <a target="_blank" href="/speakers/{{schedule_item.columnB.link}}.html">
                                         {% else %}
@@ -382,7 +382,7 @@
                         <div class="col-sm-4 col-md-4 ct-u-marginBottom20">
                             {% if schedule_item.columnC %}
                                 <div class="ct-iconBox-content text-left">
-                                    {% if schedule_item.columnA.link %}
+                                    {% if schedule_item.columnC.link %}
                                         {% if page.content_language == "cz" %}
                                         <a target="_blank" href="/speakers/{{schedule_item.columnC.link}}.html">
                                         {% else %}
