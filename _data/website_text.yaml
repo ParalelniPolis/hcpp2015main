@@ -249,6 +249,7 @@ schedule:
         -   columnA:
                 time: "13:00"
                 where: "Institute"
+                background: "000000"
                 link: "neff"
                 title:
                     cz: "Ondřej Neff (CZ)"
