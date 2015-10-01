@@ -728,6 +728,10 @@ speakers:
             link: "moroz"
             description: "Singer-songwriter, Founder of Crypto Media Hub, Creator of 1st artist coin TatianaCoin"
 
+        -   name: "Ondřej Neff (CZ)"
+            link: "neff"
+            description: "czech writer of science fiction and journalist"
+
         -   name: "Slush - Marek Palatinus (CZ)"
             link: "palatinus"
             description: "Bitcoin legend, architect in Satoshilabs"
@@ -827,10 +831,6 @@ speakers:
         -   name: "Jan Nálepa (CZ)"
             link: "nalepa"
             description: "Multimedia artist, creator of audiovisual interactive installations"
-
-        -   name: "Ondřej Neff (CZ)"
-            link: "neff"
-            description: "czech writer of science fiction and journalist"
 
         -   name: "Martin Šíp (CZ)"
             link: "sip"
