@@ -463,7 +463,7 @@ schedule:
                 time: "17:00"
                 where: "MakersLab"
                 background: "909090"
-                link: "himl"
+                link: "hilm"
                 title: 
                     cz: "Philip Hilm, Premek Paska, Josef Strunc, Jan Machac, Jan Knopp, Michal Vlasak, Olga Afanasjeva"
                     eng: "Philip Hilm, Premek Paska, Josef Strunc, Jan Machac, Jan Knopp, Michal Vlasak, Olga Afanasjeva"
@@ -801,7 +801,7 @@ speakers:
             description: "Dedicated SW developer and assiduous project manager"
 
         -   name: "Philip Hilm (CZK)"
-            link: "himl"
+            link: "hilm"
             description: "senior AI researcher and programmer at GoodAI"
 
         -   name: "Joarg Platzer (DE)"
