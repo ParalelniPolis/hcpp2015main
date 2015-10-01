@@ -493,6 +493,16 @@ schedule:
                 desc:
                     cz: "Drony jsou všude"
                     eng: "Drones are everywhere"
+            columnC:
+                time: "17:30"
+                where: "Institut"
+                background: "25D7FF"
+                title:
+                    cz: "The Yes Men Are Revolting (EN)"
+                    eng: "The Yes Men Are Revolting (EN)"
+                desc:
+                    cz: "dokumentární film"
+                    eng: "documentary movie"
         -   columnA:
                 time: "18:00"
                 where: "Institute"
@@ -663,6 +673,16 @@ schedule:
                 desc:
                     cz: "funky, soul, acid jazz, break"
                     eng: "funky, soul, acid jazz, break"
+        -   columnB:
+                time: "22:00"
+                where: "Institut"
+                background: "25D7FF"
+                title:
+                    cz: "Stále Spolu (CZ, EN sub)"
+                    eng: "Always Together (CZ, EN sub)"
+                desc:
+                    cz: "dokumentární film"
+                    eng: "documentary movie"
         -   columnA:
                 time: "23:30"
                 where: "Makers Lab"
