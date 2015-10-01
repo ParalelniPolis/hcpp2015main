@@ -332,7 +332,8 @@ schedule:
             columnC:
                 time: "14:00"
                 where: "Institute"
-                background: "000000"
+                background: "002FF"
+                link: "trenky"
                 title:
                     cz: "Ztohoven (CZ)"
                     eng: "Ztohoven (CZ)"
@@ -408,7 +409,7 @@ schedule:
             columnC:
                 time: "16:00"
                 where: "Paper HUB"
-                background: "000000"
+                background: "002FF"
                 link: "nemeth"
                 title:
                     cz: "Sam Nemeth & Inne Poppe (NL)"
