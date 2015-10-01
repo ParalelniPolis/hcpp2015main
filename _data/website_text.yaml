@@ -368,17 +368,6 @@ schedule:
                 desc:
                     cz: "Bitcoin, blockchain a umělci: jak mohou kreativní lidé nalézt svobodu skrze kryptování"
                     eng: "Bitcoin, the Blockchain, and Artists:  How Creative People Can Find Freedom Through Crypto"
-        -   columnC:
-                time: "15:00"
-                where: "Institute"
-                background: "909090"
-                link: "paal"
-                title:
-                    cz: "Michal Paal (SK)"
-                    eng: "Michal Paal (SK)"
-                desc:
-                    cz: "Drony jsou všude"
-                    eng: "Drones are everywhere"
         -   columnA:
                 time: "16:00"
                 where: "Institute"
@@ -471,7 +460,7 @@ schedule:
                 desc:
                     cz: "GoodAI Brain Simulator workshop: build your own brain"
                     eng: "GoodAI Brain Simulator workshop: build your own brain"
-            columnC:
+            columnB:
                 time: "17:00"
                 where: "Paper HUB"
                 background: "909090"
