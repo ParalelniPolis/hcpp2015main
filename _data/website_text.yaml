@@ -448,8 +448,8 @@ schedule:
                     cz: "Inne Poppe (NL)"
                     eng: "Inne Poppe (NL)"
                 desc:
-                    cz: "Life between hacking and art. Establishing hacking department at Art Academy and Crypto Desing Challenge project "
-                    eng: "Život mezi hackingem a uměním. Založení ateliéru Hackingu na umělecké akademii a projekt Crypto Design Challenge"
+                    eng:"Life between hacking and art. Establishing hacking department at Art Academy and Crypto Desing Challenge project "
+                    cz: "Život mezi hackingem a uměním. Založení ateliéru Hackingu na umělecké akademii a projekt Crypto Design Challenge"
             columnC:
                 time: "17:00"
                 where: "Institute"
@@ -583,8 +583,8 @@ schedule:
                     cz: "Stefan Marsiske (non-citizen)"
                     eng: "Stefan Marsiske (non-citizen)"
                 desc:
-                    cz: "Turtles all the way down: Sabotage & bugdoor by design"
-                    eng: "Želvy až po zem: Sabotáž a bugdoor \"od výroby\""
+                    eng: "Turtles all the way down: Sabotage & bugdoor by design"
+                    cz: "Želvy až po zem: Sabotáž a bugdoor \"od výroby\""
             columnB:
                 time: "21:00"
                 where: "Paper HUB"
