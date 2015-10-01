@@ -2,7 +2,7 @@
 layout: speaker
 permalink: speakers/krotofil.html
 content_language: cz
-speaker_name: "Marina Krotofil"
+speaker_name: "Marina Krotofil (DE)"
 speaker_description: "Konzultantka IT bezpečnosti, výzkumná pracovnice "
 speaker_presentation: ""
 speaker_when: ""

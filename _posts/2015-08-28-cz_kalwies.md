@@ -2,7 +2,7 @@
 layout: speaker
 permalink: speakers/kalwies.html
 content_language: cz
-speaker_name: "Jasper Philipp Kalwies (GER)"
+speaker_name: "Jasper Philipp Kalwies (DE)"
 speaker_description: "Anarchokapitalista, podnikatel, organizátor největší libertariánské konference v Německu"
 speaker_presentation: "Seasteading - tvrvalé osídlení moří mimo uzemí jakéhokoliv státu (AJ)"
 speaker_when: "Neděle 15:00"

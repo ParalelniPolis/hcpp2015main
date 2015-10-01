@@ -2,7 +2,7 @@
 layout: speaker
 permalink: speakers/eng/rosenberg.html
 content_language: eng
-speaker_name: "Paul Rosenberg (USA)"
+speaker_name: "Paul Rosenberg (US)"
 speaker_description: "Founder of Cryptohippie, author of the Free-Man's Perspective"
 speaker_presentation: "Justice Without State"
 speaker_when: "Sunday 14:00"

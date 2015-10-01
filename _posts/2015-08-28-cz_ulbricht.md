@@ -2,7 +2,7 @@
 layout: speaker
 permalink: speakers/ulbricht.html
 content_language: cz
-speaker_name: "Lyn Ulbricht (USA)"
+speaker_name: "Lyn Ulbricht (US)"
 speaker_description: "Aktivistka za svobodu internetu a matka zakladatele freemarketu Silk Road Rosse Ulbrichta"
 speaker_presentation: "Lyn představí postup státu při perzekuci jejího syna Rosse Ulbrichta, nastíní, co se bude dít v kauze Silk Road nadále a vysvětlí, jaký dopad může mít kauza na každého z vás."
 speaker_when: "Sobota 18:00"

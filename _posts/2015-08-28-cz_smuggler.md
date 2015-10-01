@@ -2,7 +2,7 @@
 layout: speaker
 permalink: speakers/smuggler.html
 content_language: cz
-speaker_name: "Smuggler (?)"
+speaker_name: "Smuggler (??)"
 speaker_description: "A cypherpunk and cryptoanarchist"
 speaker_presentation: "Bezejmenný, beztvářný: Filozofie a historie soukromí a esence anonymity"
 speaker_when: "Pátek 15:00"

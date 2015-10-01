@@ -2,7 +2,7 @@
 layout: speaker
 permalink: speakers/rosenberg.html
 content_language: cz
-speaker_name: "Paul Rosenberg (USA)"
+speaker_name: "Paul Rosenberg (US)"
 speaker_description: "Zakladatel of Cryptohippie, autor Free-Man's Perspective"
 speaker_presentation: "Soudnictví bez státu (AJ)"
 speaker_when: "Neděle 14:00"

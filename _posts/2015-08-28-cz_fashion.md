@@ -2,7 +2,7 @@
 layout: speaker
 permalink: speakers/fashion.html
 content_language: eng
-speaker_name: "Fashion.stl"
+speaker_name: "Fashion.stl (CZ)"
 speaker_description: "Tvoříme vztah mezi módou a 3d tiskem, posouváme mezníky"
 speaker_presentation: "Modní přehlídka"
 speaker_when: "Sobota 18:00"
