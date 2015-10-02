@@ -252,6 +252,28 @@ schedule:
                 desc:
                     cz: "Diskuze: Co pro tebe znamená stát?"
                     eng: "Discussion: What does state mean to you?"
+        -   columnB:
+                time: "12:00"
+                where: "Makers Lab"
+                background: "25D7FF"
+                link: ""
+                title: 
+                    cz: "Terrorist Reality Show (EN)"
+                    eng: "Terrorist Reality Show (EN)"
+                desc:
+                    cz: "dokumentární film"
+                    eng: "documentary movie"
+            columnC:
+                time: "12:00"
+                where: "Makers Lab"
+                background: "25D7FF"
+                link: ""
+                title:
+                    cz: "Tabloid in hands of hackers (EN)"
+                    eng: "Tabloid in hands of hackers (EN)"
+                desc:
+                    cz: "dokumentární film"
+                    eng: "documentary movie"
         -   columnA:
                 time: "13:00"
                 where: "Institute"
@@ -307,6 +329,17 @@ schedule:
                 desc:
                     cz: "3d print fashion show: fashion.stl - Co děláme: tvoříme vztah mezi módou a 3d tiskem, posouváme mezníky"
                     eng: "3d print fashion show: fashion.stl - What we do: creating a relationship between fashion and 3d print, we are moving landmarks"
+        -   columnC:
+                time: "13:00"
+                where: "Makers Lab"
+                background: "25D7FF"
+                link: ""
+                title:
+                    cz: "Speaking in Tongues (EN)"
+                    eng: "Speaking in Tongues (EN)"
+                desc:
+                    cz: "dokumentární film"
+                    eng: "documentary movie"                    
         -   columnA:
                 time: "14:00"
                 where: "Institute"
@@ -351,6 +384,28 @@ schedule:
                 desc:
                     cz: "Krása a tajemství paralelních mikrosvětů"
                     eng: "Beauty and mystery in parallel microworld"
+        -   columnB:
+                time: "14:00"
+                where: "Makers Lab"
+                background: "25D7FF"
+                link: ""
+                title:
+                    cz: "The Declaration of Independence of Cyberspace (EN)"
+                    eng: "The Declaration of Independence of Cyberspace (EN)"
+                desc:
+                    cz: "dokumentární film"
+                    eng: "documentary movie"
+        -   columnB:
+                time: "14:10"
+                where: "Makers Lab"
+                background: "25D7FF"
+                link: ""
+                title:
+                    cz: "My name is Janez Janša (EN)"
+                    eng: "My name is Janez Janša (EN)"
+                desc:
+                    cz: "dokumentární film"
+                    eng: "documentary movie"
         -   columnA:
                 time: "15:00"
                 where: "Paper HUB"
@@ -384,6 +439,28 @@ schedule:
                 desc:
                     cz: "Bitcoin, blockchain a umělci: jak mohou kreativní lidé nalézt svobodu skrze kryptování"
                     eng: "Bitcoin, the Blockchain, and Artists:  How Creative People Can Find Freedom Through Crypto"
+        -   columnB:
+                time: "15:20"
+                where: "Makers Lab"
+                background: "25D7FF"
+                link: ""
+                title:
+                    cz: "Immigration Now (EN)"
+                    eng: "Immigration Now (EN)"
+                desc:
+                    cz: "dokumentární film"
+                    eng: "documentary movie"
+            columnC:
+                time: "15:00"
+                where: "Makers Lab"
+                background: "25D7FF"
+                link: ""
+                title:
+                    cz: "Jáma (CZ, EN sub)"
+                    eng: "My Home (CZ, EN sub)"
+                desc:
+                    cz: "dokumentární film"
+                    eng: "documentary movie"
         -   columnA:
                 time: "16:00"
                 where: "Institute"
@@ -493,6 +570,17 @@ schedule:
                 desc:
                     cz: "Drony jsou všude"
                     eng: "Drones are everywhere"
+        -   columnB:
+                time: "17:00"
+                where: "Makers Lab"
+                background: "25D7FF"
+                link: ""
+                title:
+                    cz: "Láska v hrobě (CZ, EN sub)"
+                    eng: "Love in the grave (CZ, EN sub)"
+                desc:
+                    cz: "dokumentární film"
+                    eng: "documentary movie"
             columnC:
                 time: "17:30"
                 where: "Institut"
