@@ -11,11 +11,28 @@ speaker_where: "La fabrika - Main Stage"
 Projekt zaměřený na spojení dvou zdánlivě neslučitelných sfér, umělecké a technické, přesto na sebe úzce navazující a vzájemně se doplňující. Osvěta 3D technologií a hledání jejich uplatnění v módě. Úzká spolupráce módního designéra, modeláře a technologa na vytvoření společného módního konceptu, jež umožní divákovi nahlédnout za hranice možného a rozšíří tak tvůrčí myšlení autora i diváka.
 
 Organizátoři
-ADAM JECH - Snaží pomoci začínajícím uživatelům tiskáren, zejména pořádáním různých workshopůa přednášek. Hledáme stále nové možnosti uplatnění této technologie a nasměřování myšlení lidí právě do oblasti této nově vznikající technologie . Působíme též jako konzultanti pro 3D tisk a modelování a modeláři.
+ADAM JECH - Snaží se pomoci začínajícím uživatelům tiskáren, zejména pořádáním různých workshopůa přednášek. Stále hledá nové možnosti uplatnění této technologie a snaží se nasměrovat myšlení lidí právě do oblasti této nově vznikající technologie. Působí též jako konzultant pro 3D tisk a modelování a modelář.
 
 OLO KŘÍŽOVÁ - Spoluzakladatelka Czech Fashion Council, vizionářka na módním poli, propagátorka nejen lokální módní tvorby. Organizárotka, kurátorka a kreativní ředitelka významných módních událostí v Čechách i na Slovensku.
 
 Designéři: Alžběta Moreno, Ivana Kaňovská, Monika Vaverová, Oldrich Anton Vojta, Viktoria Vittori, Denisa Nová, Helena Lukášová, Petra Šorejsová, Martina Šebková, Jana Trundová
+
+<a href="http://fashion-stl.cz/fashion/alzbeta.html" target="_blank"> <img src="/assets/images/fashion/moreno.jpg">
+  Alžběta Moreno</a>
+<br> <a href="http://fashion-stl.cz/fashion/ivana.html" target="_blank"> <img src="/assets/images/fashion/kanovska.jpg">
+Ivana Kaňovská</a>
+<br> <a href="http://fashion-stl.cz/fashion/monika.html" target="_blank"> <img src="/assets/images/fashion/vaverova.jpg">
+Monika Vaverová</a>
+<br> <a href="http://fashion-stl.cz/fashion/oldrich.html" target="_blank"> <img src="/assets/images/fashion/vojta.jpg">
+Oldrich Anton Vojta</a>
+<br> <a href="http://fashion-stl.cz/fashion/viktoria.html" target="_blank"> <img src="/assets/images/fashion/vittori.jpg">
+Viktoria Vittori</a>
+<br> <a href="http://fashion-stl.cz" target="_blank"> <img src="/assets/images/fashion/lukasova.jpg">
+Denisa Nová a Helena Lukášová</a>
+<br> <a href="http://fashion-stl.cz/fashion/petra.html" target="_blank"> <img src="/assets/images/fashion/sorejsova.jpg">
+Petra Šorejsová</a>
+<br> <a href="http://fashion-stl.cz/fashion/martina%26jana.html" target="_blank"> <img src="/assets/images/fashion/sebkova_trundova.jpg">
+Martina Šebková a Jana Trundová</a>
 
 Co lidi čeká?
 Odborné, ale i laické veřejnosti se představí jednotliví kreatéři i technické dílny. Jedním z hlavních cílů je ukázat, že i móda může být tvořena novou technologií a strojem.
