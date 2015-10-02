@@ -17,22 +17,84 @@ OLO KŘÍŽOVÁ - Spoluzakladatelka Czech Fashion Council, vizionářka na módn
 
 Designéři: Alžběta Moreno, Ivana Kaňovská, Monika Vaverová, Oldrich Anton Vojta, Viktoria Vittori, Denisa Nová, Helena Lukášová, Petra Šorejsová, Martina Šebková, Jana Trundová
 
-<a href="http://fashion-stl.cz/fashion/alzbeta.html" target="_blank"> <img src="/assets/images/fashion/moreno.jpg">
-  Alžběta Moreno</a>
-<br> <a href="http://fashion-stl.cz/fashion/ivana.html" target="_blank"> <img src="/assets/images/fashion/kanovska.jpg">
-Ivana Kaňovská</a>
-<br> <a href="http://fashion-stl.cz/fashion/monika.html" target="_blank"> <img src="/assets/images/fashion/vaverova.jpg">
-Monika Vaverová</a>
-<br> <a href="http://fashion-stl.cz/fashion/oldrich.html" target="_blank"> <img src="/assets/images/fashion/vojta.jpg">
-Oldrich Anton Vojta</a>
-<br> <a href="http://fashion-stl.cz/fashion/viktoria.html" target="_blank"> <img src="/assets/images/fashion/vittori.jpg">
-Viktoria Vittori</a>
-<br> <a href="http://fashion-stl.cz" target="_blank"> <img src="/assets/images/fashion/lukasova.jpg">
-Denisa Nová a Helena Lukášová</a>
-<br> <a href="http://fashion-stl.cz/fashion/petra.html" target="_blank"> <img src="/assets/images/fashion/sorejsova.jpg">
-Petra Šorejsová</a>
-<br> <a href="http://fashion-stl.cz/fashion/martina%26jana.html" target="_blank"> <img src="/assets/images/fashion/sebkova_trundova.jpg">
-Martina Šebková a Jana Trundová</a>
+<table style="border:0">
+<tr>
+    <td><a href="http://fashion-stl.cz/fashion/alzbeta.html" target="_blank">
+    <img src="/assets/images/fashion/moreno.jpg"></a></td>
+    <td><a href="http://fashion-stl.cz/fashion/alzbeta.html" target="_blank">Alžběta Moreno</a></td>
+  </tr>
+<tr>
+    <td><a href="http://fashion-stl.cz/fashion/ivana.html" target="_blank">
+    <img src="/assets/images/fashion/kanovska.jpg"></a></td>
+    <td><a href="http://fashion-stl.cz/fashion/ivana.html" target="_blank">Ivana Kaňovská</a></td>
+  </tr>
+<tr>
+    <td><a href="http://fashion-stl.cz/fashion/monika.html" target="_blank">
+    <img src="/assets/images/fashion/vaverova.jpg"></a></td>
+    <td><a href="http://fashion-stl.cz/fashion/monika.html" target="_blank">Monika Vaverová</a></td>
+  </tr>
+<tr>
+    <td><a href="http://fashion-stl.cz/fashion/oldrich.html" target="_blank">
+    <img src="/assets/images/fashion/vojta.jpg"></a></td>
+    <td><a href="http://fashion-stl.cz/fashion/oldrich.html" target="_blank">Oldrich Anton Vojta</a></td>
+  </tr>
+<tr>
+    <td><a href="http://fashion-stl.cz/fashion/viktoria.html" target="_blank">
+    <img src="/assets/images/fashion/vittori.jpg"></a></td>
+    <td><a href="http://fashion-stl.cz/fashion/viktoria.html" target="_blank">Viktoria Vittori</a></td>
+  </tr>
+<tr>
+    <td><a href="http://fashion-stl.cz" target="_blank">
+    <img src="/assets/images/fashion/lukasova.jpg"></a></td>
+    <td><a href="http://fashion-stl.cz" target="_blank">Denisa Nová a Helena Lukášová</a></td>
+  </tr>
+<tr>
+    <td><a href="http://fashion-stl.cz/fashion/petra.html" target="_blank">
+    <img src="/assets/images/fashion/sorejsova.jpg"></a></td>
+    <td><a href="http://fashion-stl.cz/fashion/petra.html" target="_blank">Petra Šorejsová</a></td>
+  </tr>
+<tr>
+    <td><a href="http://fashion-stl.cz/fashion/martina%26jana.html" target="_blank">
+    <img src="/assets/images/fashion/sebkova_trundova.jpg"></a></td>
+    <td><a href="http://fashion-stl.cz/fashion/martina%26jana.html" target="_blank">Martina Šebková a Jana Trundová</a></td>
+  </tr>
+</table>
+
+
+
+  
+    
+    
+  
+  
+    
+    
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+
 
 Co lidi čeká?
 Odborné, ale i laické veřejnosti se představí jednotliví kreatéři i technické dílny. Jedním z hlavních cílů je ukázat, že i móda může být tvořena novou technologií a strojem.
