@@ -60,41 +60,5 @@ Designéři: Alžběta Moreno, Ivana Kaňovská, Monika Vaverová, Oldrich Anton
   </tr>
 </table>
 
-
-
-  
-    
-    
-  
-  
-    
-    
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-
-
 Co lidi čeká?
 Odborné, ale i laické veřejnosti se představí jednotliví kreatéři i technické dílny. Jedním z hlavních cílů je ukázat, že i móda může být tvořena novou technologií a strojem.
