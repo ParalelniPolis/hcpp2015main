@@ -771,6 +771,17 @@ schedule:
                 desc:
                     cz: "dokumentární film"
                     eng: "documentary movie"
+        -   columnB:
+                time: "22:00"
+                where: "Institut"
+                background: "25D7FF"
+                link: ""
+                title:
+                    cz: "Stále Spolu (CZ, EN sub)"
+                    eng: " Always Together (CZ, EN sub)"
+                desc:
+                    cz: "dokumentární film"
+                    eng: "documentary movie"
         -   columnA:
                 time: "23:30"
                 where: "Makers Lab"
