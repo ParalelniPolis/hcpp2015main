@@ -357,8 +357,8 @@ schedule:
                 background: "000000"
                 link: "tourianski"
                 title:
-                    cz: "Julia Tourianski (GB)"
-                    eng: "Julia Tourianski (GB)"
+                    cz: "Julia Tourianski (CA)"
+                    eng: "Julia Tourianski (CA)"
                 desc:
                     cz: "Pozorovaný člověk je zřídka úpřimný"
                     eng: "The Observed Man is Seldom Sincere"
@@ -939,7 +939,7 @@ speakers:
             link: "baros"
             description: "Dedicated SW developer and assiduous project manager"
 
-        -   name: "Philip Hilm (CZ)"
+        -   name: "Philip Hilm (DE)"
             link: "hilm"
             description: "senior AI researcher and programmer at GoodAI"
 
