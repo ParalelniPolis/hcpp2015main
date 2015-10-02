@@ -821,12 +821,20 @@ ticket:
         eng: "Buy now"
     text:
         cz: |
-            890 KČ (v BTC) - Vstupenka koupená u vstupu je platná na celý kongres s výjimkou Fashion.stl. V ceně vstupenky je bitcoinová platební karta a jedna káva zdarma. <br>
-            790 KČ (v BTC) - Vstupenka je platná na celý kongres s výjimkou Fashion.stl. V ceně vstupenky je bitcoinová platební karta a jedna káva zdarma. <br>
-            890 KČ (v BTC) - Vstupenka je platná na celý kongres VČETNĚ Fashion.stl. V ceně vstupenky je bitcoinová platební karta a jedna káva zdarma. <br>
-            4500 KČ (v BTC) - VIP Vstupenka na všechny akce kongresu, plakát, tričko, káva, láhev vína Autentic, rezervace místa, vstup na přehlídku Fashion.stl s doprovodem jedné osoby.<br>
+            Na místě: <br/>
+            300 Kč - Vstupenka koupená u vstupu je platná na jeden den kongresu. V ceně vstupenky je bitcoinová platební karta a jedna káva zdarma. <br/>
+            890 Kč  - Vstupenka koupená u vstupu je platná na celý kongres s výjimkou Fashion.stl. V ceně vstupenky je bitcoinová platební karta a jedna káva zdarma. <br>
+            990 Kč - Vstupenka koupená u vstupu VČETNĚ Fashion.stl. V ceně vstupenky je bitcoinová platební karta a jedna káva zdarma. <br>
+            Předprodej: <br/>
+            790 Kč(v BTC) - Vstupenka je platná na celý kongres s výjimkou Fashion.stl. V ceně vstupenky je bitcoinová platební karta a jedna káva zdarma. <br>
+            890 Kč (v BTC) - Vstupenka je platná na celý kongres VČETNĚ Fashion.stl. V ceně vstupenky je bitcoinová platební karta a jedna káva zdarma. <br>
+            4500 Kč (v BTC) - VIP Vstupenka na všechny akce kongresu, plakát, tričko, káva, láhev vína Autentic, rezervace místa, vstup na přehlídku Fashion.stl s doprovodem jedné osoby.<br>
         eng: |
-            790 CZK (in BTC) - Ticket bought in site is valid for all Congress events with the exception of Fashion.stl show. Includes Paralelní Polis Bitcoin card with 1 free coffee. <br>
+            On site: <br/>
+            300 CZK - Ticket bought on site is valid for one day of Congress. Includes Paralelní Polis Bitcoin card with 1 free coffee. <br>
+            890 CZK - Ticket bought on site is valid for all Congress events with the exception of Fashion.stl show. Includes Paralelní Polis Bitcoin card with 1 free coffee. <br>
+            990 CZK - Ticket bought on site is valid for all Congress events INCLUDING the Fashion.stl show. Includes Paralelní Polis Bitcoin card with 1 free coffee. <br>
+            Pre-sale: <br/>
             790 CZK (in BTC) - Ticket is valid for all Congress events with the exception of Fashion.stl show. Includes Paralelní Polis Bitcoin card with 1 free coffee. <br>
             890 CZK (in BTC) - Ticket is valid for all Congress events INCLUDING the Fashion.stl show. Includes Paralelní Polis Bitcoin card with 1 free coffee. <br>
             4500 CZK (in BTC) - VIP ticket to all events, poster, T-shirt, free coffee, a bottle of wine Autentic,  place reservation, free admission to the fashion show Fashion.stl accompanied by one person.<br>
