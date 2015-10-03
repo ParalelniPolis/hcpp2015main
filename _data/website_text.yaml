@@ -241,17 +241,6 @@ schedule:
                 desc:
                     cz: "Project SAFE: Decentralizovaná vstva Internetu"
                     eng: "Project SAFE: Decentralized Internet Layer"
-            columnC:
-                time: "12:00"
-                where: "Paper HUB"
-                background: "909090"
-                link: "bohacek"
-                title:
-                    cz: "Petr Boháček (CZ)"
-                    eng: "Petr Boháček (CZ)"
-                desc:
-                    cz: "Diskuze: Co pro tebe znamená stát?"
-                    eng: "Discussion: What does state mean to you?"
         -   columnB:
                 time: "12:00"
                 where: "Makers Lab"
