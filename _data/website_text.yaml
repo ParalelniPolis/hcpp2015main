@@ -511,7 +511,7 @@ schedule:
                     cz: "Život mezi hackingem a uměním. Založení ateliéru Hackingu na umělecké akademii a projekt Crypto Design Challenge"
             columnC:
                 time: "17:00"
-                where: "Institut"
+                where: "Institute"
                 background: "000000"
                 link: "polis"
                 title:
