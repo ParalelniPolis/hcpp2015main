@@ -369,8 +369,8 @@ schedule:
                 desc:
                     cz: "dokumentární film"
                     eng: "documentary movie"
-            columnC:
-                time: "10:45"
+        -   columnB:
+                time: "14:10"
                 where: "Makers Lab"
                 background: "25D7FF"
                 title:
