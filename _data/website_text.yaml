@@ -455,9 +455,9 @@ schedule:
                     cz: "Na cestě ke kolapsu kryptoměn? Modelování útoků na princip zastupitelnosti a protiopatření"
                     eng: "On a way to colaps of cryptocurrencies? Modeling of attacks on principle of substitutability and countermeasures"
             columnC:
-                time: "16:00"
+                time: "14:00"
                 background: "0002FF"
-                where: "Paper HUB"
+                where: "Makers Lab"
                 link: "nemeth"
                 title:
                     cz: "Sam Nemeth & Inne Poppe (NL)"
