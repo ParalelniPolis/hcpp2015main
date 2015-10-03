@@ -296,18 +296,7 @@ schedule:
                 desc:
                     cz: "Decentralizovaný svět - když se vláda a autoritatívní geografické státy stávají zastaralými"
                     eng: "The decentralized world - when the government and authoritative geographical states become obsolete"
-        -   columnB:
-                time: "13:00"
-                where: "Institute"
-                background: "909090"
-                link: "polis"
-                title:
-                    cz: "Paralelní Polis (CZ)"
-                    eng: "Paralelní Polis (CZ)"
-                desc:
-                    cz: "Rok poté"
-                    eng: "One year after"
-            columnC:
+        -   columnC:
                 time: "13:00"
                 where: "Paper HUB"
                 background: "909090"
@@ -529,14 +518,15 @@ schedule:
                     cz: "Život mezi hackingem a uměním. Založení ateliéru Hackingu na umělecké akademii a projekt Crypto Design Challenge"
             columnC:
                 time: "17:00"
-                where: "Institute"
+                where: "Paper HUB"
                 background: "000000"
+                link: "polis"
                 title:
-                    cz: "Oficiální zakončení"
-                    eng: "Official Closing"
+                    cz: "Paralelní Polis (CZ) + Oficiální zakončení"
+                    eng: "Paralelní Polis (CZ) + Official Closing"
                 desc:
-                    cz: ""
-                    eng: ""
+                    cz: "Rok poté"
+                    eng: "One year after"
         -   columnA:
                 time: "17:00"
                 where: "MakersLab"
@@ -558,7 +548,7 @@ schedule:
                     eng: "Michal Paal (SK)"
                 desc:
                     cz: "Drony jsou všude"
-                    eng: "Drones are everywhere"
+                    eng: "Drones are everywhere"                
         -   columnB:
                 time: "17:00"
                 where: "Makers Lab"
