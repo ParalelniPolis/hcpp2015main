@@ -560,16 +560,6 @@ schedule:
                 desc:
                     cz: "dokumentární film"
                     eng: "documentary movie"
-            columnC:
-                time: "17:30"
-                where: "Institut"
-                background: "25D7FF"
-                title:
-                    cz: "The Yes Men Are Revolting (EN)"
-                    eng: "The Yes Men Are Revolting (EN)"
-                desc:
-                    cz: "dokumentární film"
-                    eng: "documentary movie"
         -   columnA:
                 time: "18:00"
                 where: "Institute"
@@ -592,6 +582,16 @@ schedule:
                 desc:
                     cz: "Hackování SCADA systémů"
                     eng: "SCADA hacking"
+            columnC:
+                time: "18:00"
+                where: "Institut"
+                background: "25D7FF"
+                title:
+                    cz: "The Yes Men Are Revolting (EN)"
+                    eng: "The Yes Men Are Revolting (EN)"
+                desc:
+                    cz: "dokumentární film"
+                    eng: "documentary movie"
         -   columnB:
                 time: "18:00"
                 where: "La Fabrika - Main Stage"
