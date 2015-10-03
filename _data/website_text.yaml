@@ -245,7 +245,6 @@ schedule:
                 time: "12:00"
                 where: "Makers Lab"
                 background: "25D7FF"
-                link: ""
                 title: 
                     cz: "Terrorist Reality Show (EN)"
                     eng: "Terrorist Reality Show (EN)"
@@ -256,7 +255,6 @@ schedule:
                 time: "12:00"
                 where: "Makers Lab"
                 background: "25D7FF"
-                link: ""
                 title:
                     cz: "Tabloid in hands of hackers (EN)"
                     eng: "Tabloid in hands of hackers (EN)"
@@ -311,7 +309,6 @@ schedule:
                 time: "13:00"
                 where: "Makers Lab"
                 background: "25D7FF"
-                link: ""
                 title:
                     cz: "Speaking in Tongues (EN)"
                     eng: "Speaking in Tongues (EN)"
@@ -366,7 +363,6 @@ schedule:
                 time: "14:00"
                 where: "Makers Lab"
                 background: "25D7FF"
-                link: ""
                 title:
                     cz: "The Declaration of Independence of Cyberspace (EN)"
                     eng: "The Declaration of Independence of Cyberspace (EN)"
@@ -377,7 +373,6 @@ schedule:
                 time: "14:10"
                 where: "Makers Lab"
                 background: "25D7FF"
-                link: ""
                 title:
                     cz: "My name is Janez Janša (EN)"
                     eng: "My name is Janez Janša (EN)"
@@ -421,7 +416,6 @@ schedule:
                 time: "15:20"
                 where: "Makers Lab"
                 background: "25D7FF"
-                link: ""
                 title:
                     cz: "Immigration Now (EN)"
                     eng: "Immigration Now (EN)"
@@ -432,7 +426,6 @@ schedule:
                 time: "15:00"
                 where: "Makers Lab"
                 background: "25D7FF"
-                link: ""
                 title:
                     cz: "Jáma (CZ, EN sub)"
                     eng: "My Home (CZ, EN sub)"
@@ -553,7 +546,6 @@ schedule:
                 time: "17:00"
                 where: "Makers Lab"
                 background: "25D7FF"
-                link: ""
                 title:
                     cz: "Láska v hrobě (CZ, EN sub)"
                     eng: "Love in the grave (CZ, EN sub)"
