@@ -370,7 +370,7 @@ schedule:
                     cz: "dokumentární film"
                     eng: "documentary movie"
             columnC:
-                time: "10:45"
+                time: "14:00"
                 where: "Makers Lab"
                 background: "25D7FF"
                 title:
@@ -457,7 +457,7 @@ schedule:
             columnC:
                 time: "14:00"
                 background: "0002FF"
-                where: "Makers Lab"
+                where: "Paper HUB"
                 link: "nemeth"
                 title:
                     cz: "Sam Nemeth & Inne Poppe (NL)"
