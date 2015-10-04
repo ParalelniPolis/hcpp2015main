@@ -125,7 +125,9 @@
                                         <small class="ct-fw-400 text-uppercase ct-u-colorWhite">
                                             2 / 3 / 4 / 10 / Praha
                                         </small>
-                                        NOW lIVE!
+                                        <small class="ct-fw-400 text-uppercase ct-u-colorWhite ct-u-paddingBoth50">
+                                            wouldn't be here without <br> <a href="#thankyou" class="ct-js-btnScroll"  style="text-decoration: underline; color:white;">these people</a>
+                                        </small>
                                     </h1>
                                 </div>
                             </div>
@@ -488,9 +490,51 @@
     </section>
     {% endfor %}
 
+<section class="section ct-u-paddingBoth40 ct-u-backgroundDarkGray3" id="thankyou">
+    <div class="container">
+        <header class="ct-pageSectionHeader ct-js-wayPoint">
+            <h2 class="ct-fw-300 text-uppercase text-center">
+                THANK YOU
+            </h2>
+        </header>
+    </div>
+</section>
+
+
+<section class="ct-u-paddingBoth30" >
+    <div class="container">
+        {% for people_batch in site.data.website_text.thank_you.people %}
+            <div class="row">
+
+                {% for person in people_batch.line %}
+                    <div class="col-sm-2">
+                        <div class="ct-iconBox ct-iconBox--left">
+                            <div class="ct-iconBox-content">
+                                <h4 class="ct-iconBox-title text-lowercase ct-fw-600">
+                                    {{ person }}
+                                </h4>
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+
+            </div>
+        {% endfor %}
+    </div>
+
+    <div class="container">
+        <div class="row">
+             <div class="col-sm-12 text-center">
+             We are recovering from the Congress and completing the list. Thanks for your patience. 
+             </div>
+        </div>
+    </div>   
+</section>
+
+
 
     <!-- Map -->
-    <section id="section6" class="section">
+    <section id="section6"  class="ct-u-marginTop70 section">
         <div class="ct-googleMap" data-location="Dělnická 43, Praha" data-zoom="15" data-height="500"></div>
     </section>
 

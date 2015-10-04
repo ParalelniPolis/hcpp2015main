@@ -978,6 +978,41 @@ speakers_page:
         eng: "Where"
 
 
+thank_you:
+    people:
+        -   line:
+            -  "Kořen"
+            -  "Tomáš K."
+            -  "Boris K."
+            -  "Martin Š."
+            -  "Martin L."
+            -  "Pavol L."
+        -   line:
+            -  "Iva D."
+            -  "Barbora P."
+            -  "Denčák"
+            -  "Tomáš M."
+            -  "Pavel K."
+            -  "Eva P."
+        -   line:
+            -  "Jakub S."
+            -  "Kapitán L."
+            -  "Ondřej H."
+            -  "Slush"
+            -  "Terezie H."
+            -  "Jiří V."
+        -   line:
+            -  "Ondřej K."
+            -  "Matěj H."
+            -  "Adam J."
+            -  "Martin S."
+            -  "Alena V."
+            -  "Juraj B."
+        -   line:
+            -  "Tomáš Z."
+            -  "Lucie C."
+            -  "Dan"
+
 
 practical_info:
     title:
