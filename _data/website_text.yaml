@@ -1050,6 +1050,12 @@ thank_you:
             - "Magda D."
             - "Pes Bruno"
             - "Martin F."
+        -   line:
+            - "Zuzka Z."
+            - "Kore"
+            - "Alice B."
+            - "Michaela M."
+            - "Míša R."
 
 
 
@@ -1102,4 +1108,13 @@ practical_info:
                 eng: |
                     Bitcoin Coffee and 4fresh Catering will provide all day long food and beverages. 
                     Again only bitcoins are accepted. 
+
+        -   title:
+                cz: "ubytování"
+                eng: "accomodation"
+            content:
+                cz: |
+                    Pro návštěvníky kongresu doporučujeme ubytování <a href="http://www.praguesiesta.com/" target="_blank">Prague Siesta Apartments</a>, který přijímá Bitcoiny
+                eng: |
+                    We recommend accomodation <a href="http://www.praguesiesta.com/" target="_blank">Prague Siesta Apartments</a> which accepts Bitcoins.
 
