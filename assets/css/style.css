@@ -3356,7 +3356,7 @@ button:active {
 /*!
  * Yamm!3
  * Yet another megamenu for Bootstrap 3
- * 
+ *
  * http://geedmo.github.com/yamm3
  */
 @media (min-width: 768px) {
@@ -6995,7 +6995,7 @@ html[xmlns] .slides {
 }
 @media (max-width: 992px) {
   .counter-block {
-     
+
   }
   .counter-block .counter {
     width: 120px;
@@ -7013,7 +7013,7 @@ html[xmlns] .slides {
 }
 @media (max-width: 768px) {
   .counter-block {
-    
+
   }
   .counter-block .counter {
     width: 96px;
@@ -7035,7 +7035,7 @@ html[xmlns] .slides {
     width: 61px;
     height: 52px;
   }
-  .counter-block .counter .number { 
+  .counter-block .counter .number {
     font-size: 55px;
     line-height: 50px;
   }
@@ -8097,4 +8097,21 @@ button.mfp-close,
 .tagcloud a:active,
 .ct-blog-tags a:active {
   background-color: #0002ff;
+}
+
+.ct-mediaSection {
+    position: relative;
+}
+
+.current-link {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    font-size: 30px;
+    color: #fff;
+}
+
+.current-link:hover {
+    text-decoration: underline;
+    color: #fff;
 }
